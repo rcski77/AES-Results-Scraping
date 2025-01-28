@@ -53,6 +53,8 @@ jacker_eventID = 10526  # Set to ID of event in Jacker
 jacker_filter = True
 
 # Function to increment TeamCode
+
+
 def increment_team_code(team_code):
     import re
     match = re.search(r"g(\d+)(.+)", team_code)
@@ -62,6 +64,8 @@ def increment_team_code(team_code):
     return team_code  # Return the original if no match
 
 # Function to fetch and process event data
+
+
 def process_event(event_id, increment_code=False):
     print(f"Processing event ID: {event_id}")
 
@@ -161,21 +165,6 @@ for event_id in increment_teamcode_event_ids:
     aes_all_data = pd.concat([aes_all_data, process_event(
         event_id, increment_code=True)], ignore_index=True)
 
-# # Pivot the data to group by TeamCode and include columns for each event Name
-# pivot_data = aes_all_data.pivot_table(
-#     index="TeamCode",
-#     columns="EventName",
-#     values="FinishRank",
-#     aggfunc="first"
-# ).reset_index()
-
-# # Pull list of team names from events
-# team_names = aes_all_data.groupby("OriginalTeamCode")[
-#     "TeamName"].first().reset_index()
-# team_names.rename(columns={'OriginalTeamCode': 'TeamCode'}, inplace=True)
-
-# # Add the TeamName as the first column
-# pivot_data = pd.merge(team_names, pivot_data, on="TeamCode")
 
 # Start Sportwrench results scraping
 def extract_division_ids_and_names(url):
@@ -365,18 +354,6 @@ def process_multiple_events(urls):
         print("No standings data collected across events.")
         return
 
-    # # Pivot the data by team code and use event names as columns
-    # pivoted_df = df.pivot_table(
-    #     index="Code",  # Use team code as the index
-    #     columns="Event Name",  # Use event names as the columns
-    #     values="Finish",  # Use finish as the values
-    #     aggfunc="first"  # If duplicates, take the first
-    # ).reset_index()
-    
-    # pivoted_df.rename(columns={'Code': 'TeamCode'}, inplace=True)
-    # pivoted_df.rename(columns={'Finish': 'FinishRank'}, inplace=True)
-    # pivoted_df.rename(columns={'Event Name': 'EventName'}, inplace=True)
-    
     df.rename(columns={'Code': 'TeamCode'}, inplace=True)
     df.rename(columns={'Finish': 'FinishRank'}, inplace=True)
     df.rename(columns={'Event Name': 'EventName'}, inplace=True)
