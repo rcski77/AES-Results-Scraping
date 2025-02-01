@@ -26,10 +26,10 @@ increment_teamcode_event_ids = [
     "PTAwMDAwMzY3MjM90",  # 2024 NIT
     "PTAwMDAwMzM4MDQ90",  # 2024 USAV 14-17
     "PTAwMDAwMzM4MDM90",  # 2024 USAV 11-13
-    "PTAwMDAwMzI5MDM90",  # 2024 AAU Wave 4
-    "PTAwMDAwMzI5MDI90",  # 2024 AAU Wave 3
-    "PTAwMDAwMzI5MDE90",  # 2024 AAU Wave 2
-    "PTAwMDAwMzI4OTk90",  # 2024 AAU Wave 1
+    "PTAwMDAwMzY0NDM90", #2024 AAU Wave 4
+    "PTAwMDAwMzY0NDE90", #2024 AAU Wave 3
+    "PTAwMDAwMzY0NDA90", #2024 AAU Wave 2
+    "PTAwMDAwMzYzNzA90", #2024 AAU Wave 1
     # Add more event IDs here
 ]
 
@@ -372,6 +372,7 @@ sportwrench_data = process_multiple_events(sw_event_urls)
 # Combine Sportwrench and AES data
 aes_all_data = pd.concat(
     [aes_all_data, sportwrench_data], ignore_index=True)
+aes_all_data.to_csv("raw_nonpivoted_data.csv", index=False)
 
 # Pivot the data to group by TeamCode and include columns for each event Name
 pivot_data = aes_all_data.pivot_table(
@@ -388,6 +389,7 @@ team_names.rename(columns={'OriginalTeamCode': 'TeamCode'}, inplace=True)
 
 # Add the TeamName as the first column
 pivot_data = pd.merge(team_names, pivot_data, on="TeamCode")
+pivot_data.to_csv("nonfiltered_all_event_standings.csv", index=False)
 
 # Pull team codes from Jacker for 2025 NIT
 if jacker_filter == True:

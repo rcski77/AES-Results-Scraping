@@ -6,23 +6,23 @@ event_ids = [
     "PTAwMDAwMzY3NDY90", # Central Zone
     "PTAwMDAwMzg4Mzk90", # CO Challenge
     "PTAwMDAwMzcwNTU90", #2025 MLK 3 Step
-    "PTAwMDAwMzY5NDk90",
-    "PTAwMDAwMzczMjU90",
-    "PTAwMDAwMzczMjY90",
-    "PTAwMDAwMzcwODk90",
-    "PTAwMDAwMzY5MTI90"
+    # "PTAwMDAwMzY5NDk90",
+    # "PTAwMDAwMzczMjU90",
+    # "PTAwMDAwMzczMjY90",
+    # "PTAwMDAwMzcwODk90",
+    # "PTAwMDAwMzY5MTI90"
     # Add more event IDs here
 ]
 
 # Second list of event IDs where TeamCodes will be incremented - last year's events
 increment_teamcode_event_ids = [
-    "PTAwMDAwMzY3MjM90", #2024 NIT
-    "PTAwMDAwMzM4MDQ90", #2024 USAV 14-17
-    "PTAwMDAwMzM4MDM90", #2024 USAV 11-13
-    "PTAwMDAwMzI5MDM90", #2024 AAU Wave 4
-    "PTAwMDAwMzI5MDI90", #2024 AAU Wave 3
-    "PTAwMDAwMzI5MDE90", #2024 AAU Wave 2
-    "PTAwMDAwMzI4OTk90", #2024 AAU Wave 1
+    # "PTAwMDAwMzY3MjM90", #2024 NIT
+    # "PTAwMDAwMzM4MDQ90", #2024 USAV 14-17
+    # "PTAwMDAwMzM4MDM90", #2024 USAV 11-13
+    "PTAwMDAwMzY0NDM90", #2024 AAU Wave 4
+    "PTAwMDAwMzY0NDE90", #2024 AAU Wave 3
+    "PTAwMDAwMzY0NDA90", #2024 AAU Wave 2
+    "PTAwMDAwMzYzNzA90", #2024 AAU Wave 1
     # Add more event IDs here
 ]
 
@@ -85,6 +85,8 @@ for event_id in event_ids:
 # Process second list of event IDs with TeamCode increment
 for event_id in increment_teamcode_event_ids:
     all_data = pd.concat([all_data, process_event(event_id, increment_code=True)], ignore_index=True)
+    
+all_data.to_csv("raw_data.csv", index=False)
 
 # Pivot the data to group by TeamCode and include columns for each event Name
 pivot_data = all_data.pivot_table(
