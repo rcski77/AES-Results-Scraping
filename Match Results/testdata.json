@@ -1,0 +1,509 @@
+[
+  {
+    "Match": {
+      "FirstTeamId": 71451,
+      "FirstTeamName": "CoJrs 17Kaleena",
+      "FirstTeamWon": false,
+      "FirstTeamText": "CoJrs 17Kaleena (RM)",
+      "SecondTeamId": 199655,
+      "SecondTeamName": "Fight Club VB 17-1",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Fight Club VB 17-1 (HA)",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 24,
+          "SecondTeamScore": 26,
+          "ScoreText": "26-24",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 110901,
+      "WorkTeamText": "ID Crush 17 Bower (IM)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51620,
+      "Court": { "CourtId": -51182, "Name": "NORCO 1", "VideoLink": "" },
+      "ScheduledStartDateTime": "2025-01-18T08:30:00",
+      "ScheduledEndDateTime": "2025-01-18T09:29:59"
+    },
+    "Play": {
+      "Type": 0,
+      "PlayId": -51616,
+      "FullName": "Pool A",
+      "ShortName": "A",
+      "CompleteShortName": "R1PowerA",
+      "CompleteFullName": "Round 1 Power Pools Pool A",
+      "Order": 0,
+      "Courts": [{ "CourtId": -51182, "Name": "NORCO 1", "VideoLink": "" }]
+    },
+    "PlayType": 0
+  },
+  {
+    "Match": {
+      "FirstTeamId": 110901,
+      "FirstTeamName": "ID Crush 17 Bower",
+      "FirstTeamWon": true,
+      "FirstTeamText": "ID Crush 17 Bower (IM)",
+      "SecondTeamId": 199655,
+      "SecondTeamName": "Fight Club VB 17-1",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Fight Club VB 17-1 (HA)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 21,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 14,
+          "ScoreText": "25-14",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 9709,
+      "WorkTeamText": "NORCO 17 Black (RM)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51621,
+      "Court": { "CourtId": -51182, "Name": "NORCO 1", "VideoLink": "" },
+      "ScheduledStartDateTime": "2025-01-18T09:30:00",
+      "ScheduledEndDateTime": "2025-01-18T10:29:59"
+    },
+    "Play": {
+      "Type": 0,
+      "PlayId": -51616,
+      "FullName": "Pool A",
+      "ShortName": "A",
+      "CompleteShortName": "R1PowerA",
+      "CompleteFullName": "Round 1 Power Pools Pool A",
+      "Order": 0,
+      "Courts": [{ "CourtId": -51182, "Name": "NORCO 1", "VideoLink": "" }]
+    },
+    "PlayType": 0
+  },
+  {
+    "Match": {
+      "FirstTeamId": 9709,
+      "FirstTeamName": "NORCO 17 Black",
+      "FirstTeamWon": false,
+      "FirstTeamText": "NORCO 17 Black (RM)",
+      "SecondTeamId": 199655,
+      "SecondTeamName": "Fight Club VB 17-1",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Fight Club VB 17-1 (HA)",
+      "MatchFullName": "Match 5",
+      "MatchShortName": "M5",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 23,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-23",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 71451,
+      "WorkTeamText": "CoJrs 17Kaleena (RM)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -51623,
+      "Court": { "CourtId": -51182, "Name": "NORCO 1", "VideoLink": "" },
+      "ScheduledStartDateTime": "2025-01-18T11:30:00",
+      "ScheduledEndDateTime": "2025-01-18T12:29:59"
+    },
+    "Play": {
+      "Type": 0,
+      "PlayId": -51616,
+      "FullName": "Pool A",
+      "ShortName": "A",
+      "CompleteShortName": "R1PowerA",
+      "CompleteFullName": "Round 1 Power Pools Pool A",
+      "Order": 0,
+      "Courts": [{ "CourtId": -51182, "Name": "NORCO 1", "VideoLink": "" }]
+    },
+    "PlayType": 0
+  },
+  {
+    "Match": {
+      "FirstTeamId": 199655,
+      "FirstTeamName": "Fight Club VB 17-1",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Fight Club VB 17-1 (HA)",
+      "SecondTeamId": 206534,
+      "SecondTeamName": "Club 801 U18 Callie",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Club 801 U18 Callie (IM)",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 18,
+          "ScoreText": "18-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 19,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-19",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 10,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-10",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 56329,
+      "WorkTeamText": "Elevation 17 Peak (RM)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51694,
+      "Court": { "CourtId": -51183, "Name": "NORCO 2", "VideoLink": "" },
+      "ScheduledStartDateTime": "2025-01-19T07:30:00",
+      "ScheduledEndDateTime": "2025-01-19T08:29:59"
+    },
+    "Play": {
+      "Type": 0,
+      "PlayId": -51691,
+      "FullName": "Pool B",
+      "ShortName": "B",
+      "CompleteShortName": "R2G1B",
+      "CompleteFullName": "Round 2 Group 1 Pool B",
+      "Order": 0,
+      "Courts": [{ "CourtId": -51183, "Name": "NORCO 2", "VideoLink": "" }]
+    },
+    "PlayType": 0
+  },
+  {
+    "Match": {
+      "FirstTeamId": 199655,
+      "FirstTeamName": "Fight Club VB 17-1",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Fight Club VB 17-1 (HA)",
+      "SecondTeamId": 833,
+      "SecondTeamName": "OK Charge 17 UA",
+      "SecondTeamWon": false,
+      "SecondTeamText": "OK Charge 17 UA (OK)",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 31,
+          "SecondTeamScore": 29,
+          "ScoreText": "31-29",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 16,
+          "ScoreText": "25-16",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 206534,
+      "WorkTeamText": "Club 801 U18 Callie (IM)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 3,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51696,
+      "Court": { "CourtId": -51183, "Name": "NORCO 2", "VideoLink": "" },
+      "ScheduledStartDateTime": "2025-01-19T09:30:00",
+      "ScheduledEndDateTime": "2025-01-19T10:29:59"
+    },
+    "Play": {
+      "Type": 0,
+      "PlayId": -51691,
+      "FullName": "Pool B",
+      "ShortName": "B",
+      "CompleteShortName": "R2G1B",
+      "CompleteFullName": "Round 2 Group 1 Pool B",
+      "Order": 0,
+      "Courts": [{ "CourtId": -51183, "Name": "NORCO 2", "VideoLink": "" }]
+    },
+    "PlayType": 0
+  },
+  {
+    "Match": {
+      "FirstTeamId": 199655,
+      "FirstTeamName": "Fight Club VB 17-1",
+      "FirstTeamWon": true,
+      "FirstTeamText": "Fight Club VB 17-1 (HA)",
+      "SecondTeamId": 56329,
+      "SecondTeamName": "Elevation 17 Peak",
+      "SecondTeamWon": false,
+      "SecondTeamText": "Elevation 17 Peak (RM)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "21-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 20,
+          "ScoreText": "25-20",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 11,
+          "ScoreText": "15-11",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 833,
+      "WorkTeamText": "OK Charge 17 UA (OK)",
+      "TypeOfOutcome": 1,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51699,
+      "Court": { "CourtId": -51183, "Name": "NORCO 2", "VideoLink": "" },
+      "ScheduledStartDateTime": "2025-01-19T12:30:00",
+      "ScheduledEndDateTime": "2025-01-19T13:29:59"
+    },
+    "Play": {
+      "Type": 0,
+      "PlayId": -51691,
+      "FullName": "Pool B",
+      "ShortName": "B",
+      "CompleteShortName": "R2G1B",
+      "CompleteFullName": "Round 2 Group 1 Pool B",
+      "Order": 0,
+      "Courts": [{ "CourtId": -51183, "Name": "NORCO 2", "VideoLink": "" }]
+    },
+    "PlayType": 0
+  },
+  {
+    "Match": {
+      "FirstTeamId": 71273,
+      "FirstTeamName": "VCNebraska 17 Elite",
+      "FirstTeamWon": false,
+      "FirstTeamText": "VCNebraska 17 Elite (GP)",
+      "SecondTeamId": 199655,
+      "SecondTeamName": "Fight Club VB 17-1",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Fight Club VB 17-1 (HA)",
+      "MatchFullName": "Match 6",
+      "MatchShortName": "M6",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 15,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-15",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 22,
+          "ScoreText": "22-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 8,
+          "SecondTeamScore": 15,
+          "ScoreText": "15-8",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 25140,
+      "WorkTeamText": "CVA 17 Black (RM)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+      "MatchId": -51758,
+      "Court": { "CourtId": -51185, "Name": "NORCO 4", "VideoLink": "" },
+      "ScheduledStartDateTime": "2025-01-20T08:30:00",
+      "ScheduledEndDateTime": "2025-01-20T09:29:59"
+    },
+    "Play": {
+      "Type": 1,
+      "PlayId": -51748,
+      "FullName": "Gold Bracket",
+      "ShortName": "Gold",
+      "CompleteShortName": "R3Gold",
+      "CompleteFullName": "Round 3 Gold Bracket",
+      "Order": 0,
+      "Courts": [
+        { "CourtId": -51184, "Name": "NORCO 3", "VideoLink": "" },
+        { "CourtId": -51185, "Name": "NORCO 4", "VideoLink": "" },
+        { "CourtId": -51186, "Name": "NORCO 5", "VideoLink": "" }
+      ]
+    },
+    "PlayType": 1
+  },
+  {
+    "Match": {
+      "FirstTeamId": 71451,
+      "FirstTeamName": "CoJrs 17Kaleena",
+      "FirstTeamWon": false,
+      "FirstTeamText": "CoJrs 17Kaleena (RM)",
+      "SecondTeamId": 199655,
+      "SecondTeamName": "Fight Club VB 17-1",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Fight Club VB 17-1 (HA)",
+      "MatchFullName": "Match 8",
+      "MatchShortName": "M8",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 25,
+          "SecondTeamScore": 27,
+          "ScoreText": "27-25",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 22,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-22",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 71273,
+      "WorkTeamText": "VCNebraska 17 Elite (GP)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51754,
+      "Court": { "CourtId": -51185, "Name": "NORCO 4", "VideoLink": "" },
+      "ScheduledStartDateTime": "2025-01-20T09:30:00",
+      "ScheduledEndDateTime": "2025-01-20T10:29:59"
+    },
+    "Play": {
+      "Type": 1,
+      "PlayId": -51748,
+      "FullName": "Gold Bracket",
+      "ShortName": "Gold",
+      "CompleteShortName": "R3Gold",
+      "CompleteFullName": "Round 3 Gold Bracket",
+      "Order": 0,
+      "Courts": [
+        { "CourtId": -51184, "Name": "NORCO 3", "VideoLink": "" },
+        { "CourtId": -51185, "Name": "NORCO 4", "VideoLink": "" },
+        { "CourtId": -51186, "Name": "NORCO 5", "VideoLink": "" }
+      ]
+    },
+    "PlayType": 1
+  },
+  {
+    "Match": {
+      "FirstTeamId": 126031,
+      "FirstTeamName": "Kairos 17 Alpha",
+      "FirstTeamWon": false,
+      "FirstTeamText": "Kairos 17 Alpha (NO)",
+      "SecondTeamId": 199655,
+      "SecondTeamName": "Fight Club VB 17-1",
+      "SecondTeamWon": true,
+      "SecondTeamText": "Fight Club VB 17-1 (HA)",
+      "MatchFullName": "Match 9",
+      "MatchShortName": "M9",
+      "HasScores": true,
+      "Sets": [
+        {
+          "FirstTeamScore": 27,
+          "SecondTeamScore": 29,
+          "ScoreText": "29-27",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": 21,
+          "SecondTeamScore": 25,
+          "ScoreText": "25-21",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": 110901,
+      "WorkTeamText": "ID Crush 17 Bower (IM)",
+      "TypeOfOutcome": 2,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -51752,
+      "Court": { "CourtId": -51184, "Name": "NORCO 3", "VideoLink": "" },
+      "ScheduledStartDateTime": "2025-01-20T10:30:00",
+      "ScheduledEndDateTime": "2025-01-20T11:29:59"
+    },
+    "Play": {
+      "Type": 1,
+      "PlayId": -51748,
+      "FullName": "Gold Bracket",
+      "ShortName": "Gold",
+      "CompleteShortName": "R3Gold",
+      "CompleteFullName": "Round 3 Gold Bracket",
+      "Order": 0,
+      "Courts": [
+        { "CourtId": -51184, "Name": "NORCO 3", "VideoLink": "" },
+        { "CourtId": -51185, "Name": "NORCO 4", "VideoLink": "" },
+        { "CourtId": -51186, "Name": "NORCO 5", "VideoLink": "" }
+      ]
+    },
+    "PlayType": 1
+  }
+]

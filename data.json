@@ -1,0 +1,1530 @@
+[
+    {
+        "TeamName": "NORCO 12 Black",
+        "TeamCode": "g12norco1rm",
+        "OriginalTeamCode": "g12norco1rm",
+        "FinishRank": "1 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "RVC 13-RELENTLESS",
+        "TeamCode": "g13relen1rm",
+        "OriginalTeamCode": "g13relen1rm",
+        "FinishRank": "2 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "High Desert Elite 13 E",
+        "TeamCode": "g13highd1rm",
+        "OriginalTeamCode": "g13highd1rm",
+        "FinishRank": "3 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Rocky Elite 13 National",
+        "TeamCode": "g13rsele1rm",
+        "OriginalTeamCode": "g13rsele1rm",
+        "FinishRank": "3 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Juggernaut 12-Regional1",
+        "TeamCode": "g12jugge1rm",
+        "OriginalTeamCode": "g12jugge1rm",
+        "FinishRank": "5 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Cloud Peak 13 Elite",
+        "TeamCode": "g13cloud2rm",
+        "OriginalTeamCode": "g13cloud2rm",
+        "FinishRank": "6 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CVA 13 Black",
+        "TeamCode": "g13cvata1rm",
+        "OriginalTeamCode": "g13cvata1rm",
+        "FinishRank": "7 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 12-1 Black",
+        "TeamCode": "g12frvbc1rm",
+        "OriginalTeamCode": "g12frvbc1rm",
+        "FinishRank": "7 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CoJrs 12Mal",
+        "TeamCode": "g12cojrs1rm",
+        "OriginalTeamCode": "g12cojrs1rm",
+        "FinishRank": "9 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CVA 12 Black",
+        "TeamCode": "g12cvata1rm",
+        "OriginalTeamCode": "g12cvata1rm",
+        "FinishRank": "9 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "SPIKES 13 JumpStart",
+        "TeamCode": "g13spike1rm",
+        "OriginalTeamCode": "g13spike1rm",
+        "FinishRank": "11 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "SPIKES 12 JumpStart",
+        "TeamCode": "g12spike1rm",
+        "OriginalTeamCode": "g12spike1rm",
+        "FinishRank": "12 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Believe 13 Jubilee",
+        "TeamCode": "g13belie1rm",
+        "OriginalTeamCode": "g13belie1rm",
+        "FinishRank": "13 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Crossfire 13-1",
+        "TeamCode": "g13cross1rm",
+        "OriginalTeamCode": "g13cross1rm",
+        "FinishRank": "13 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 13-2 Red",
+        "TeamCode": "g13frvbc2rm",
+        "OriginalTeamCode": "g13frvbc2rm",
+        "FinishRank": "15 (13 Club)",
+        "DivisionName": "13 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CoJrs 13Tammy",
+        "TeamCode": "g13cojrs1rm",
+        "OriginalTeamCode": "g13cojrs1rm",
+        "FinishRank": "1 (13 Elite)",
+        "DivisionName": "13 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "NORCO 13 Black",
+        "TeamCode": "g13norco1rm",
+        "OriginalTeamCode": "g13norco1rm",
+        "FinishRank": "2 (13 Elite)",
+        "DivisionName": "13 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Elevation 13 Peak",
+        "TeamCode": "g13elevb1rm",
+        "OriginalTeamCode": "g13elevb1rm",
+        "FinishRank": "3 (13 Elite)",
+        "DivisionName": "13 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Elevation 13 Timberline",
+        "TeamCode": "g13elevb2rm",
+        "OriginalTeamCode": "g13elevb2rm",
+        "FinishRank": "3 (13 Elite)",
+        "DivisionName": "13 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "The EDGE 13 Walter",
+        "TeamCode": "g13theed1rm",
+        "OriginalTeamCode": "g13theed1rm",
+        "FinishRank": "5 (13 Elite)",
+        "DivisionName": "13 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Juggernaut 13-Regional1",
+        "TeamCode": "g13jugge1rm",
+        "OriginalTeamCode": "g13jugge1rm",
+        "FinishRank": "6 (13 Elite)",
+        "DivisionName": "13 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Excel NW 13-1 Lux",
+        "TeamCode": "g13excnw1ce",
+        "OriginalTeamCode": "g13excnw1ce",
+        "FinishRank": "7 (13 Elite)",
+        "DivisionName": "13 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 13-1 Black",
+        "TeamCode": "g13frvbc1rm",
+        "OriginalTeamCode": "g13frvbc1rm",
+        "FinishRank": "7 (13 Elite)",
+        "DivisionName": "13 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CoJrs 13Emily",
+        "TeamCode": "g13cojrs2rm",
+        "OriginalTeamCode": "g13cojrs2rm",
+        "FinishRank": "9 (13 Elite)",
+        "DivisionName": "13 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Momentum 13 Celeste",
+        "TeamCode": "g13momen1rm",
+        "OriginalTeamCode": "g13momen1rm",
+        "FinishRank": "9 (13 Elite)",
+        "DivisionName": "13 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "The EDGE 14 Erika",
+        "TeamCode": "g14theed1rm",
+        "OriginalTeamCode": "g14theed1rm",
+        "FinishRank": "1 (14 Club)",
+        "DivisionName": "14 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "LVBC 14-1",
+        "TeamCode": "g14lovel1rm",
+        "OriginalTeamCode": "g14lovel1rm",
+        "FinishRank": "2 (14 Club)",
+        "DivisionName": "14 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 14-2 Red",
+        "TeamCode": "g14frvbc2rm",
+        "OriginalTeamCode": "g14frvbc2rm",
+        "FinishRank": "3 (14 Club)",
+        "DivisionName": "14 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Rocky Elite 14 National 2",
+        "TeamCode": "g14rsele2rm",
+        "OriginalTeamCode": "g14rsele2rm",
+        "FinishRank": "3 (14 Club)",
+        "DivisionName": "14 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "SPIKES 14 Z",
+        "TeamCode": "g14spike1rm",
+        "OriginalTeamCode": "g14spike1rm",
+        "FinishRank": "5 (14 Club)",
+        "DivisionName": "14 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "High Desert Elite 14 E",
+        "TeamCode": "g14highd1rm",
+        "OriginalTeamCode": "g14highd1rm",
+        "FinishRank": "6 (14 Club)",
+        "DivisionName": "14 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Cloud Peak 14 National",
+        "TeamCode": "g14cloud1rm",
+        "OriginalTeamCode": "g14cloud1rm",
+        "FinishRank": "7 (14 Club)",
+        "DivisionName": "14 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CVA 14 Navy",
+        "TeamCode": "g14cvata2rm",
+        "OriginalTeamCode": "g14cvata2rm",
+        "FinishRank": "7 (14 Club)",
+        "DivisionName": "14 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Believe 14 Praise",
+        "TeamCode": "g14belie1rm",
+        "OriginalTeamCode": "g14belie1rm",
+        "FinishRank": "9 (14 Club)",
+        "DivisionName": "14 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Believe VBC 14 Rejoice",
+        "TeamCode": "g14belie2rm",
+        "OriginalTeamCode": "g14belie2rm",
+        "FinishRank": "9 (14 Club)",
+        "DivisionName": "14 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Crossfire 14-1",
+        "TeamCode": "g14cross1rm",
+        "OriginalTeamCode": "g14cross1rm",
+        "FinishRank": "9 (14 Club)",
+        "DivisionName": "14 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "ID Crush 14 Bower",
+        "TeamCode": "g14idcrs1im",
+        "OriginalTeamCode": "g14idcrs1im",
+        "FinishRank": "1 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Kairos 14 Alpha",
+        "TeamCode": "g14kairo1no",
+        "OriginalTeamCode": "g14kairo1no",
+        "FinishRank": "2 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CoJrs 14Sarah",
+        "TeamCode": "g14cojrs1rm",
+        "OriginalTeamCode": "g14cojrs1rm",
+        "FinishRank": "3 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Elevation 14 Peak",
+        "TeamCode": "g14elevb1rm",
+        "OriginalTeamCode": "g14elevb1rm",
+        "FinishRank": "3 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 14-1 Black",
+        "TeamCode": "g14frvbc1rm",
+        "OriginalTeamCode": "g14frvbc1rm",
+        "FinishRank": "5 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Juggernaut 14-National1",
+        "TeamCode": "g14jugge1rm",
+        "OriginalTeamCode": "g14jugge1rm",
+        "FinishRank": "5 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CoJrs 14Jen",
+        "TeamCode": "g14cojrs2rm",
+        "OriginalTeamCode": "g14cojrs2rm",
+        "FinishRank": "7 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Excel NW 14-1 Lux",
+        "TeamCode": "g14excnw1ce",
+        "OriginalTeamCode": "g14excnw1ce",
+        "FinishRank": "8 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Elevation 14 Ascent",
+        "TeamCode": "g14elevb3rm",
+        "OriginalTeamCode": "g14elevb3rm",
+        "FinishRank": "9 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Rocky Elite 14 National",
+        "TeamCode": "g14rsele1rm",
+        "OriginalTeamCode": "g14rsele1rm",
+        "FinishRank": "9 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Colorado Skyline 14 Royal",
+        "TeamCode": "g14cosky1rm",
+        "OriginalTeamCode": "g14cosky1rm",
+        "FinishRank": "11 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "NORCO 14 Black",
+        "TeamCode": "g14norco1rm",
+        "OriginalTeamCode": "g14norco1rm",
+        "FinishRank": "11 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Elevation 14 Timberline",
+        "TeamCode": "g14elevb2rm",
+        "OriginalTeamCode": "g14elevb2rm",
+        "FinishRank": "13 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Momentum 14 Zoe",
+        "TeamCode": "g14momen1rm",
+        "OriginalTeamCode": "g14momen1rm",
+        "FinishRank": "14 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Club V 14 Red Christine",
+        "TeamCode": "g14clubv3im",
+        "OriginalTeamCode": "g14clubv3im",
+        "FinishRank": "15 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CVA 14 Black",
+        "TeamCode": "g14cvata1rm",
+        "OriginalTeamCode": "g14cvata1rm",
+        "FinishRank": "15 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Club V 14 Red Jolana",
+        "TeamCode": "g14clubv4im",
+        "OriginalTeamCode": "g14clubv4im",
+        "FinishRank": "17 (14 Elite)",
+        "DivisionName": "14 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "LVBC 15-1",
+        "TeamCode": "g15lovel1rm",
+        "OriginalTeamCode": "g15lovel1rm",
+        "FinishRank": "1 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CVA 15 Navy",
+        "TeamCode": "g15cvata2rm",
+        "OriginalTeamCode": "g15cvata2rm",
+        "FinishRank": "2 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "High Desert Elite 15 E",
+        "TeamCode": "g15highd1rm",
+        "OriginalTeamCode": "g15highd1rm",
+        "FinishRank": "3 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "VC Denver 15 Black Kylie",
+        "TeamCode": "g15vcden2rm",
+        "OriginalTeamCode": "g15vcden2rm",
+        "FinishRank": "3 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Elevation 15 Ascent",
+        "TeamCode": "g15elevb3rm",
+        "OriginalTeamCode": "g15elevb3rm",
+        "FinishRank": "5 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "The EDGE 15 Corissa",
+        "TeamCode": "g15theed1rm",
+        "OriginalTeamCode": "g15theed1rm",
+        "FinishRank": "6 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 15-2 Red",
+        "TeamCode": "g15frvbc2rm",
+        "OriginalTeamCode": "g15frvbc2rm",
+        "FinishRank": "7 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 15-3 White",
+        "TeamCode": "g15frvbc3rm",
+        "OriginalTeamCode": "g15frvbc3rm",
+        "FinishRank": "7 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Core VBC 15 Red",
+        "TeamCode": "g15275301rm",
+        "OriginalTeamCode": "g15275301rm",
+        "FinishRank": "9 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "LVBC 15-2",
+        "TeamCode": "g15lovel2rm",
+        "OriginalTeamCode": "g15lovel2rm",
+        "FinishRank": "10 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Believe 15 Hope",
+        "TeamCode": "g15belie1rm",
+        "OriginalTeamCode": "g15belie1rm",
+        "FinishRank": "11 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "SPIKES 15 BLACK",
+        "TeamCode": "g15spike2rm",
+        "OriginalTeamCode": "g15spike2rm",
+        "FinishRank": "11 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Whiteout 15-1",
+        "TeamCode": "g15white1rm",
+        "OriginalTeamCode": "g15white1rm",
+        "FinishRank": "13 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Crossfire 15-1",
+        "TeamCode": "g15cross1rm",
+        "OriginalTeamCode": "g15cross1rm",
+        "FinishRank": "14 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Hot Shotz 15 Black",
+        "TeamCode": "g15hotsh1rm",
+        "OriginalTeamCode": "g15hotsh1rm",
+        "FinishRank": "15 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Panther 15-3",
+        "TeamCode": "g15panvc3rm",
+        "OriginalTeamCode": "g15panvc3rm",
+        "FinishRank": "15 (15 Club)",
+        "DivisionName": "15 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "ID Crush 15 Bower",
+        "TeamCode": "g15idcrs1im",
+        "OriginalTeamCode": "g15idcrs1im",
+        "FinishRank": "1 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CoJrs 15Sherri",
+        "TeamCode": "g15cojrs1rm",
+        "OriginalTeamCode": "g15cojrs1rm",
+        "FinishRank": "2 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Kairos 15 Alpha",
+        "TeamCode": "g15kairo1no",
+        "OriginalTeamCode": "g15kairo1no",
+        "FinishRank": "3 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "NORCO 15 Black",
+        "TeamCode": "g15norco1rm",
+        "OriginalTeamCode": "g15norco1rm",
+        "FinishRank": "3 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Elevation 15 Peak",
+        "TeamCode": "g15elevb1rm",
+        "OriginalTeamCode": "g15elevb1rm",
+        "FinishRank": "5 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Excel NW 15-1 Lux",
+        "TeamCode": "g15excnw1ce",
+        "OriginalTeamCode": "g15excnw1ce",
+        "FinishRank": "5 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Five Star 15 Black",
+        "TeamCode": "g155star1rm",
+        "OriginalTeamCode": "g155star1rm",
+        "FinishRank": "5 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "SPIKES 15 Z",
+        "TeamCode": "g15spike1rm",
+        "OriginalTeamCode": "g15spike1rm",
+        "FinishRank": "5 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CoJrs 15Candace",
+        "TeamCode": "g15cojrs2rm",
+        "OriginalTeamCode": "g15cojrs2rm",
+        "FinishRank": "9 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 15-1 Black",
+        "TeamCode": "g15frvbc1rm",
+        "OriginalTeamCode": "g15frvbc1rm",
+        "FinishRank": "10 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Momentum 15 Madison",
+        "TeamCode": "g15momen1rm",
+        "OriginalTeamCode": "g15momen1rm",
+        "FinishRank": "11 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "VC Denver 15 Black Fedds",
+        "TeamCode": "g15vcden1rm",
+        "OriginalTeamCode": "g15vcden1rm",
+        "FinishRank": "11 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Elevation 15 Timberline",
+        "TeamCode": "g15elevb2rm",
+        "OriginalTeamCode": "g15elevb2rm",
+        "FinishRank": "13 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "South County 15 Sarah",
+        "TeamCode": "g15scvbc1im",
+        "OriginalTeamCode": "g15scvbc1im",
+        "FinishRank": "14 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Club V 15 Red Hailey",
+        "TeamCode": "g15clubv3im",
+        "OriginalTeamCode": "g15clubv3im",
+        "FinishRank": "15 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "NORCO 15 Blue",
+        "TeamCode": "g15norco2rm",
+        "OriginalTeamCode": "g15norco2rm",
+        "FinishRank": "15 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Club V 15 Red Ken",
+        "TeamCode": "g15clubv4im",
+        "OriginalTeamCode": "g15clubv4im",
+        "FinishRank": "17 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Colorado Skyline 15 Royal",
+        "TeamCode": "g15cosky1rm",
+        "OriginalTeamCode": "g15cosky1rm",
+        "FinishRank": "17 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "RVC 15-RELENTLESS",
+        "TeamCode": "g15relen1rm",
+        "OriginalTeamCode": "g15relen1rm",
+        "FinishRank": "19 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Rocky Elite15 National",
+        "TeamCode": "g15rsele1rm",
+        "OriginalTeamCode": "g15rsele1rm",
+        "FinishRank": "20 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Club 801 U15 Jeff",
+        "TeamCode": "g15cutah1im",
+        "OriginalTeamCode": "g15cutah1im",
+        "FinishRank": "21 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CVA 15 Black",
+        "TeamCode": "g15cvata1rm",
+        "OriginalTeamCode": "g15cvata1rm",
+        "FinishRank": "21 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "ClubOne 15 Gold",
+        "TeamCode": "g15cbone1rm",
+        "OriginalTeamCode": "g15cbone1rm",
+        "FinishRank": "23 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FCA One 15s",
+        "TeamCode": "g15fcavb1rm",
+        "OriginalTeamCode": "g15fcavb1rm",
+        "FinishRank": "24 (15 Elite)",
+        "DivisionName": "15 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "The EDGE 16 Walter",
+        "TeamCode": "g16theed1rm",
+        "OriginalTeamCode": "g16theed1rm",
+        "FinishRank": "1 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CVA 16 Navy",
+        "TeamCode": "g16cvata2rm",
+        "OriginalTeamCode": "g16cvata2rm",
+        "FinishRank": "2 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "VC Denver 16 Black Janell",
+        "TeamCode": "g16vcden2rm",
+        "OriginalTeamCode": "g16vcden2rm",
+        "FinishRank": "3 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "ZVC 16-1",
+        "TeamCode": "g16zvc251rm",
+        "OriginalTeamCode": "g16zvc251rm",
+        "FinishRank": "3 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Juggernaut 16 Hannah",
+        "TeamCode": "g16jugge4rm",
+        "OriginalTeamCode": "g16jugge4rm",
+        "FinishRank": "5 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "LVBC 16-1",
+        "TeamCode": "g16lovel1rm",
+        "OriginalTeamCode": "g16lovel1rm",
+        "FinishRank": "6 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Excel NW 16-2 Gold",
+        "TeamCode": "g16excnw2ce",
+        "OriginalTeamCode": "g16excnw2ce",
+        "FinishRank": "7 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Xtreme 16-1",
+        "TeamCode": "g16cxtre1rm",
+        "OriginalTeamCode": "g16cxtre1rm",
+        "FinishRank": "7 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Premier 16 Black",
+        "TeamCode": "g16premi1rm",
+        "OriginalTeamCode": "g16premi1rm",
+        "FinishRank": "9 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 16-2 Red",
+        "TeamCode": "g16frvbc2rm",
+        "OriginalTeamCode": "g16frvbc2rm",
+        "FinishRank": "10 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CVA 16 Green",
+        "TeamCode": "g16cvata3rm",
+        "OriginalTeamCode": "g16cvata3rm",
+        "FinishRank": "11 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Rocky Elite  16 Nation 2",
+        "TeamCode": "g16rsele2rm",
+        "OriginalTeamCode": "g16rsele2rm",
+        "FinishRank": "11 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Believe 16 Shine",
+        "TeamCode": "g16belie1rm",
+        "OriginalTeamCode": "g16belie1rm",
+        "FinishRank": "13 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Crossfire 16-1",
+        "TeamCode": "g16cross1rm",
+        "OriginalTeamCode": "g16cross1rm",
+        "FinishRank": "14 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 16-3 White",
+        "TeamCode": "g16frvbc3rm",
+        "OriginalTeamCode": "g16frvbc3rm",
+        "FinishRank": "15 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Whiteout 16-1",
+        "TeamCode": "g16white1rm",
+        "OriginalTeamCode": "g16white1rm",
+        "FinishRank": "15 (16 Club)",
+        "DivisionName": "16 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Kairos 16 Alpha",
+        "TeamCode": "g16kairo1no",
+        "OriginalTeamCode": "g16kairo1no",
+        "FinishRank": "1 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "VCNebraska 16 Elite",
+        "TeamCode": "g16vcneb1gp",
+        "OriginalTeamCode": "g16vcneb1gp",
+        "FinishRank": "2 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "NORCO 16 Black",
+        "TeamCode": "g16norco1rm",
+        "OriginalTeamCode": "g16norco1rm",
+        "FinishRank": "3 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "South County 16 Penina",
+        "TeamCode": "g16scvbc1im",
+        "OriginalTeamCode": "g16scvbc1im",
+        "FinishRank": "3 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Club V 16 Red Ken",
+        "TeamCode": "g16clubv3im",
+        "OriginalTeamCode": "g16clubv3im",
+        "FinishRank": "5 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CoJrs 16Shannon",
+        "TeamCode": "g16cojrs1rm",
+        "OriginalTeamCode": "g16cojrs1rm",
+        "FinishRank": "5 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CVA 16 Black",
+        "TeamCode": "g16cvata1rm",
+        "OriginalTeamCode": "g16cvata1rm",
+        "FinishRank": "5 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 16-1 Black",
+        "TeamCode": "g16frvbc1rm",
+        "OriginalTeamCode": "g16frvbc1rm",
+        "FinishRank": "5 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CoJrs 16Trevor",
+        "TeamCode": "g16cojrs2rm",
+        "OriginalTeamCode": "g16cojrs2rm",
+        "FinishRank": "9 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Colorado Skyline 16 Royal",
+        "TeamCode": "g16cosky1rm",
+        "OriginalTeamCode": "g16cosky1rm",
+        "FinishRank": "9 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Colorado Elite 16 Grizzly",
+        "TeamCode": "g16coelt1rm",
+        "OriginalTeamCode": "g16coelt1rm",
+        "FinishRank": "11 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Elevation 16 Peak",
+        "TeamCode": "g16elevb1rm",
+        "OriginalTeamCode": "g16elevb1rm",
+        "FinishRank": "12 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Big Sky 16-1",
+        "TeamCode": "g16bgsky1ev",
+        "OriginalTeamCode": "g16bgsky1ev",
+        "FinishRank": "13 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "High Desert Elite 16 E",
+        "TeamCode": "g16highd1rm",
+        "OriginalTeamCode": "g16highd1rm",
+        "FinishRank": "13 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Elevation 16 Timberline",
+        "TeamCode": "g16elevb2rm",
+        "OriginalTeamCode": "g16elevb2rm",
+        "FinishRank": "15 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Five Star 16 Black",
+        "TeamCode": "g165star1rm",
+        "OriginalTeamCode": "g165star1rm",
+        "FinishRank": "16 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Excel NW 16-1 Lux",
+        "TeamCode": "g16excnw1ce",
+        "OriginalTeamCode": "g16excnw1ce",
+        "FinishRank": "17 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Club V 16 Red Preston",
+        "TeamCode": "g16clubv4im",
+        "OriginalTeamCode": "g16clubv4im",
+        "FinishRank": "18 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Momentum 16 Enrique",
+        "TeamCode": "g16momen1rm",
+        "OriginalTeamCode": "g16momen1rm",
+        "FinishRank": "18 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Colorado Elite 16 Kodiak",
+        "TeamCode": "g16coelt2rm",
+        "OriginalTeamCode": "g16coelt2rm",
+        "FinishRank": "20 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Juggernaut 16-National1",
+        "TeamCode": "g16jugge1rm",
+        "OriginalTeamCode": "g16jugge1rm",
+        "FinishRank": "21 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Rocky Elite  16 National",
+        "TeamCode": "g16rsele1rm",
+        "OriginalTeamCode": "g16rsele1rm",
+        "FinishRank": "22 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "NORCO 16 Blue",
+        "TeamCode": "g16norco2rm",
+        "OriginalTeamCode": "g16norco2rm",
+        "FinishRank": "23 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "RVC 16-RELENTLESS",
+        "TeamCode": "g16relen1rm",
+        "OriginalTeamCode": "g16relen1rm",
+        "FinishRank": "23 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "SPIKES 16 Z",
+        "TeamCode": "g16spike1rm",
+        "OriginalTeamCode": "g16spike1rm",
+        "FinishRank": "25 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "VC Denver 16 Black Kaylee",
+        "TeamCode": "g16vcden1rm",
+        "OriginalTeamCode": "g16vcden1rm",
+        "FinishRank": "26 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Club V 16 Red Paul",
+        "TeamCode": "g16clubv7im",
+        "OriginalTeamCode": "g16clubv7im",
+        "FinishRank": "27 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FCA One 16s",
+        "TeamCode": "g16fcavb1rm",
+        "OriginalTeamCode": "g16fcavb1rm",
+        "FinishRank": "27 (16 Elite)",
+        "DivisionName": "16 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Colorado Impact 18s-KT",
+        "TeamCode": "g18coimp2rm",
+        "OriginalTeamCode": "g18coimp2rm",
+        "FinishRank": "1 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CVA 17 Navy",
+        "TeamCode": "g17cvata2rm",
+        "OriginalTeamCode": "g17cvata2rm",
+        "FinishRank": "2 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Premier 18 Black",
+        "TeamCode": "g18premi1rm",
+        "OriginalTeamCode": "g18premi1rm",
+        "FinishRank": "3 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "ZVC 18-1",
+        "TeamCode": "g18zvc251rm",
+        "OriginalTeamCode": "g18zvc251rm",
+        "FinishRank": "3 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Crossfire 18-1",
+        "TeamCode": "g18cross1rm",
+        "OriginalTeamCode": "g18cross1rm",
+        "FinishRank": "5 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "NEVBC 18's National",
+        "TeamCode": "g18north1rm",
+        "OriginalTeamCode": "g18north1rm",
+        "FinishRank": "5 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "LVBC 18-1",
+        "TeamCode": "g18lovel1rm",
+        "OriginalTeamCode": "g18lovel1rm",
+        "FinishRank": "7 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Core VBC 17-Red",
+        "TeamCode": "g17275301rm",
+        "OriginalTeamCode": "g17275301rm",
+        "FinishRank": "8 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 17-3 White",
+        "TeamCode": "g17frvbc3rm",
+        "OriginalTeamCode": "g17frvbc3rm",
+        "FinishRank": "9 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Premier 17 Black",
+        "TeamCode": "g17premi1rm",
+        "OriginalTeamCode": "g17premi1rm",
+        "FinishRank": "9 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Five Star 17 Black",
+        "TeamCode": "g175star1rm",
+        "OriginalTeamCode": "g175star1rm",
+        "FinishRank": "11 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "The EDGE 17 Kathleen",
+        "TeamCode": "g17theed1rm",
+        "OriginalTeamCode": "g17theed1rm",
+        "FinishRank": "11 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 17-2 Red",
+        "TeamCode": "g17frvbc2rm",
+        "OriginalTeamCode": "g17frvbc2rm",
+        "FinishRank": "13 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "AIRCAT17 18-1",
+        "TeamCode": "g18airca1rm",
+        "OriginalTeamCode": "g18airca1rm",
+        "FinishRank": "14 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Whiteout 17-1",
+        "TeamCode": "g17white1rm",
+        "OriginalTeamCode": "g17white1rm",
+        "FinishRank": "15 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Whiteout 18-1",
+        "TeamCode": "g18white1rm",
+        "OriginalTeamCode": "g18white1rm",
+        "FinishRank": "15 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Crossfire 17-1",
+        "TeamCode": "g17cross1rm",
+        "OriginalTeamCode": "g17cross1rm",
+        "FinishRank": "17 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "TVBC 17-1",
+        "TeamCode": "g17tvbc11rm",
+        "OriginalTeamCode": "g17tvbc11rm",
+        "FinishRank": "17 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Believe 17 Rise",
+        "TeamCode": "g17belie1rm",
+        "OriginalTeamCode": "g17belie1rm",
+        "FinishRank": "19 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "LVBC 17-1",
+        "TeamCode": "g17lovel1rm",
+        "OriginalTeamCode": "g17lovel1rm",
+        "FinishRank": "20 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Goldfish 18-1",
+        "TeamCode": "",
+        "OriginalTeamCode": "",
+        "FinishRank": "21 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "High Desert Elite 17 E-AP",
+        "TeamCode": "g17highd2rm",
+        "OriginalTeamCode": "g17highd2rm",
+        "FinishRank": "21 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Core VBC 17U Blue",
+        "TeamCode": "g17275302rm",
+        "OriginalTeamCode": "g17275302rm",
+        "FinishRank": "23 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Mystics FVBC 18-1",
+        "TeamCode": "g18funda1rm",
+        "OriginalTeamCode": "g18funda1rm",
+        "FinishRank": "23 (17/18 Club)",
+        "DivisionName": "17/18 Club",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Fight Club VB 17-1",
+        "TeamCode": "g17fight1ha",
+        "OriginalTeamCode": "g17fight1ha",
+        "FinishRank": "1 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Kairos 17 Alpha",
+        "TeamCode": "g17kairo1no",
+        "OriginalTeamCode": "g17kairo1no",
+        "FinishRank": "2 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CoJrs 17Kaleena",
+        "TeamCode": "g17cojrs1rm",
+        "OriginalTeamCode": "g17cojrs1rm",
+        "FinishRank": "3 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "ID Crush 17 Bower",
+        "TeamCode": "g17idcrs1im",
+        "OriginalTeamCode": "g17idcrs1im",
+        "FinishRank": "3 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Elevation 17 Peak",
+        "TeamCode": "g17elevb1rm",
+        "OriginalTeamCode": "g17elevb1rm",
+        "FinishRank": "5 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FRVBC 17-1 Black",
+        "TeamCode": "g17frvbc1rm",
+        "OriginalTeamCode": "g17frvbc1rm",
+        "FinishRank": "5 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "NORCO 17 Black",
+        "TeamCode": "g17norco1rm",
+        "OriginalTeamCode": "g17norco1rm",
+        "FinishRank": "5 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "VCNebraska 17 Elite",
+        "TeamCode": "g17vcneb1gp",
+        "OriginalTeamCode": "g17vcneb1gp",
+        "FinishRank": "5 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CVA 17 Black",
+        "TeamCode": "g17cvata1rm",
+        "OriginalTeamCode": "g17cvata1rm",
+        "FinishRank": "9 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "South County 17 Bonnie",
+        "TeamCode": "g17scvbc1im",
+        "OriginalTeamCode": "g17scvbc1im",
+        "FinishRank": "9 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "OK Charge 17 UA",
+        "TeamCode": "g17charg1ok",
+        "OriginalTeamCode": "g17charg1ok",
+        "FinishRank": "11 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Rocky Elite  17 National",
+        "TeamCode": "g17rsele1rm",
+        "OriginalTeamCode": "g17rsele1rm",
+        "FinishRank": "12 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Colorado Skyline 17 Royal",
+        "TeamCode": "g17cosky1rm",
+        "OriginalTeamCode": "g17cosky1rm",
+        "FinishRank": "13 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Midwest Elite 17-1",
+        "TeamCode": "g17mvpvb1gp",
+        "OriginalTeamCode": "g17mvpvb1gp",
+        "FinishRank": "13 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Juggernaut 17-National1",
+        "TeamCode": "g17jugge1rm",
+        "OriginalTeamCode": "g17jugge1rm",
+        "FinishRank": "15 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Topeka Impact 17-1",
+        "TeamCode": "g17mpact1ha",
+        "OriginalTeamCode": "g17mpact1ha",
+        "FinishRank": "16 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Club 801 U18 Callie",
+        "TeamCode": "g18cutah1im",
+        "OriginalTeamCode": "g18cutah1im",
+        "FinishRank": "17 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Club V 17 Red Megan",
+        "TeamCode": "g17clubv4im",
+        "OriginalTeamCode": "g17clubv4im",
+        "FinishRank": "18 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Momentum 17 Tara",
+        "TeamCode": "g17momen1rm",
+        "OriginalTeamCode": "g17momen1rm",
+        "FinishRank": "18 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "NORCO 17 Blue",
+        "TeamCode": "g17norco2rm",
+        "OriginalTeamCode": "g17norco2rm",
+        "FinishRank": "20 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "CoJrs 17Tara/Amy",
+        "TeamCode": "g17cojrs2rm",
+        "OriginalTeamCode": "g17cojrs2rm",
+        "FinishRank": "21 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "High Desert Elite 17 E-EK",
+        "TeamCode": "g17highd1rm",
+        "OriginalTeamCode": "g17highd1rm",
+        "FinishRank": "22 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Elevation 17 Timberline",
+        "TeamCode": "g17elevb2rm",
+        "OriginalTeamCode": "g17elevb2rm",
+        "FinishRank": "23 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Excel NW 17-1 Lux",
+        "TeamCode": "g17excnw1ce",
+        "OriginalTeamCode": "g17excnw1ce",
+        "FinishRank": "23 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "FCA One 17s",
+        "TeamCode": "g17fcavb1rm",
+        "OriginalTeamCode": "g17fcavb1rm",
+        "FinishRank": "25 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "VC Denver 17 Black",
+        "TeamCode": "g17vcden1rm",
+        "OriginalTeamCode": "g17vcden1rm",
+        "FinishRank": "25 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Momentum 18 Jen",
+        "TeamCode": "g18momen1rm",
+        "OriginalTeamCode": "g18momen1rm",
+        "FinishRank": "27 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Excel NW 18-1 Lux",
+        "TeamCode": "g18excnw1ce",
+        "OriginalTeamCode": "g18excnw1ce",
+        "FinishRank": "28 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "Club V 17 Red Austin",
+        "TeamCode": "g17clubv5im",
+        "OriginalTeamCode": "g17clubv5im",
+        "FinishRank": "29 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    },
+    {
+        "TeamName": "NORCO 17 White",
+        "TeamCode": "g17norco3rm",
+        "OriginalTeamCode": "g17norco3rm",
+        "FinishRank": "29 (17/18 Elite)",
+        "DivisionName": "17/18 Elite",
+        "EventName": "2025 Triple Crown Colorado Challenge"
+    }
+]

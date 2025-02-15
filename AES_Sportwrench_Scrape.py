@@ -9,27 +9,27 @@ import requests
 import pandas as pd
 
 # First list of event IDs to process normally - current year's events
-event_ids = [
-    "PTAwMDAwMzY3NDY90",  # Central Zone
-    "PTAwMDAwMzg4Mzk90",  # CO Challenge
-    "PTAwMDAwMzcwNTU90",  # 2025 MLK 3 Step
-    "PTAwMDAwMzY5NDk90",
-    "PTAwMDAwMzczMjU90",
-    "PTAwMDAwMzczMjY90",
-    "PTAwMDAwMzcwODk90",
-    "PTAwMDAwMzY5MTI90"
+aes_urls = [
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY3NDY90",  # Central Zone
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzg4Mzk90",  # CO Challenge
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwNTU90",  # 2025 MLK 3 Step
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5NDk90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzczMjU90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzczMjY90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwODk90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5MTI90"
     # Add more event IDs here
 ]
 
 # Second list of event IDs where TeamCodes will be incremented - last year's events
-increment_teamcode_event_ids = [
-    "PTAwMDAwMzY3MjM90",  # 2024 NIT
-    "PTAwMDAwMzM4MDQ90",  # 2024 USAV 14-17
-    "PTAwMDAwMzM4MDM90",  # 2024 USAV 11-13
-    "PTAwMDAwMzY0NDM90", #2024 AAU Wave 4
-    "PTAwMDAwMzY0NDE90", #2024 AAU Wave 3
-    "PTAwMDAwMzY0NDA90", #2024 AAU Wave 2
-    "PTAwMDAwMzYzNzA90", #2024 AAU Wave 1
+aes_prev_year_urls = [
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY3MjM90",  # 2024 NIT
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzM4MDQ90",  # 2024 USAV 14-17
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzM4MDM90",  # 2024 USAV 11-13
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY0NDM90", #2024 AAU Wave 4
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY0NDE90", #2024 AAU Wave 3
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY0NDA90", #2024 AAU Wave 2
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzYzNzA90", #2024 AAU Wave 1
     # Add more event IDs here
 ]
 
@@ -66,7 +66,11 @@ def increment_team_code(team_code):
 # Function to fetch and process event data
 
 
-def process_event(event_id, increment_code=False):
+def process_event(url, increment_code=False):
+    
+    match = re.search(r'/event/([^/]+)$', url)
+    event_id = match.group(1) if match else None
+
     print(f"Processing event ID: {event_id}")
 
     # Define the base API endpoint for the event
@@ -156,14 +160,14 @@ def pull_jacker_teams(jacker_id):
 
 
 # Process first list of event IDs
-for event_id in event_ids:
+for url in aes_urls:
     aes_all_data = pd.concat(
-        [aes_all_data, process_event(event_id)], ignore_index=True)
+        [aes_all_data, process_event(url)], ignore_index=True)
 
 # Process second list of event IDs with TeamCode increment
-for event_id in increment_teamcode_event_ids:
+for url in aes_prev_year_urls:
     aes_all_data = pd.concat([aes_all_data, process_event(
-        event_id, increment_code=True)], ignore_index=True)
+        url, increment_code=True)], ignore_index=True)
 
 
 # Start Sportwrench results scraping
