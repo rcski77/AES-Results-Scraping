@@ -5,9 +5,10 @@ import streamlit as st
 
 # First list of event IDs to process normally - current year's events
 aes_urls = [
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzg4Mzk90",  # CO Challenge
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY3NDY90", # Central Zone
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5MTI90" # Nike Classic
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzg4Mzk90",  # CO Challenge
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzY3NDY90", # Central Zone
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5MTI90", # Nike Classic
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzgzNjE90" # 2025 NIT
     # Add more event IDs here
 ]
 
@@ -67,11 +68,13 @@ def process_event(url):
             print(f"Failed to fetch standings for division ID: {division_id}. Status code: {response.status_code}")
     
     results = process_match_results(teams, event_id, event_name)
+    print(f"Finished processing {event_name}")
     
     return pd.DataFrame(teams), results
 
 
-# Function to process match results
+from datetime import datetime
+
 def process_match_results(team_list, event_id, event_name):
     match_list = []
     
@@ -98,21 +101,48 @@ def process_match_results(team_list, event_id, event_name):
             second_team_id = match["SecondTeamId"]
             second_team_name = match["SecondTeamName"]
             
-            # Extract set scores
-            set_scores = [set_data["ScoreText"] for set_data in match["Sets"] if set_data["ScoreText"]]
+            # Extract match date & time
+            scheduled_datetime = match.get("ScheduledStartDateTime", "")
+            match_day, match_time = "N/A", "N/A"
 
+            if scheduled_datetime:
+                dt = datetime.fromisoformat(scheduled_datetime)  # Convert to datetime object
+                match_day = dt.strftime("%A, %B %d, %Y")  # Example: "Saturday, January 18, 2025"
+                match_time = dt.strftime("%I:%M %p").lstrip("0")  # Example: "8:30 AM"
+
+            # Extract set scores and ensure a max of 3 sets
+            set_scores = [set_data["ScoreText"] for set_data in match["Sets"] if set_data["ScoreText"]]
+            while len(set_scores) < 3:  # Fill missing sets with empty values
+                set_scores.append("")
+
+            # Calculate margin of victory for each set
+            margins = []
+            for set_score in set_scores:
+                if "-" in set_score:  # Ensure valid score format
+                    scores = list(map(int, set_score.split("-")))
+                    margins.append(abs(scores[0] - scores[1]))
+                else:
+                    margins.append(None)  # Empty or invalid score
+            
             # Determine match result
             winner = first_team_name if first_team_won else second_team_name
                 
             match_list.append({
                 "Event Name": event_name,
                 "Match ID": match_id,
+                "Match Day": match_day,  # ✅ Added match day
+                "Match Time": match_time,  # ✅ Added match time
                 "First Team ID": first_team_id,
                 "First Team Name": first_team_name,
                 "Second Team ID": second_team_id,
                 "Second Team Name": second_team_name,
                 "Winner": winner,
-                "Set Scores": ", ".join(set_scores)
+                "Set 1": set_scores[0],
+                "Set 2": set_scores[1],
+                "Set 3": set_scores[2],
+                "Margin Set 1": margins[0],
+                "Margin Set 2": margins[1],
+                "Margin Set 3": margins[2]
             })
             
     # Convert list to DataFrame
@@ -122,6 +152,60 @@ def process_match_results(team_list, event_id, event_name):
     df = df.drop_duplicates(subset=["Match ID"], keep="first")
 
     return df
+
+
+
+# Function to process match results
+# def process_match_results(team_list, event_id, event_name):
+#     match_list = []
+    
+#     for team in team_list:
+#         aes_teamID = team["AESTeamID"]
+#         division_id = team["DivisionID"]
+#         base_url = f"https://results.advancedeventsystems.com/api/event/{event_id}/division/{division_id}/team/{aes_teamID}/schedule/past"
+        
+#         response = requests.get(base_url)
+#         if response.status_code != 200:
+#             print(f"Failed to fetch event details for event ID: {event_id}. Status code: {response.status_code}")
+#             return pd.DataFrame()
+        
+#         data = response.json()
+        
+#         # Iterate through matches and extract details
+#         for match_data in data:
+#             match = match_data["Match"]
+            
+#             match_id = match["MatchId"]
+#             first_team_id = match["FirstTeamId"]
+#             first_team_name = match["FirstTeamName"]
+#             first_team_won = match["FirstTeamWon"]
+#             second_team_id = match["SecondTeamId"]
+#             second_team_name = match["SecondTeamName"]
+            
+#             # Extract set scores
+#             set_scores = [set_data["ScoreText"] for set_data in match["Sets"] if set_data["ScoreText"]]
+
+#             # Determine match result
+#             winner = first_team_name if first_team_won else second_team_name
+                
+#             match_list.append({
+#                 "Event Name": event_name,
+#                 "Match ID": match_id,
+#                 "First Team ID": first_team_id,
+#                 "First Team Name": first_team_name,
+#                 "Second Team ID": second_team_id,
+#                 "Second Team Name": second_team_name,
+#                 "Winner": winner,
+#                 "Set Scores": ", ".join(set_scores)
+#             })
+            
+#     # Convert list to DataFrame
+#     df = pd.DataFrame(match_list)
+    
+#     # Remove duplicates based on Match ID
+#     df = df.drop_duplicates(subset=["Match ID"], keep="first")
+
+#     return df
 
 
 # Button to fetch match data (Only runs once and caches the data)
