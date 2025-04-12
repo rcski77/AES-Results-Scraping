@@ -10,38 +10,39 @@ import pandas as pd
 
 # First list of event IDs to process normally - current year's events
 aes_urls = [
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY3NDY90",  # Central Zone
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzg4Mzk90",  # CO Challenge
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwNTU90",  # 2025 MLK 3 Step
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5NDk90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzczMjU90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzczMjY90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwODk90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5MTI90"
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzY3NDY90",  # Central Zone
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzg4Mzk90",  # CO Challenge
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwNTU90",  # 2025 MLK 3 Step
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5NDk90",
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzczMjU90",
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzczMjY90",
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwODk90",
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5MTI90"
     # Add more event IDs here
 ]
 
 # Second list of event IDs where TeamCodes will be incremented - last year's events
 aes_prev_year_urls = [
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY3MjM90",  # 2024 NIT
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzM4MDQ90",  # 2024 USAV 14-17
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzM4MDM90",  # 2024 USAV 11-13
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY0NDM90", #2024 AAU Wave 4
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY0NDE90", #2024 AAU Wave 3
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY0NDA90", #2024 AAU Wave 2
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzYzNzA90", #2024 AAU Wave 1
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzY3MjM90",  # 2024 NIT
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzM4MDQ90",  # 2024 USAV 14-17
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzM4MDM90",  # 2024 USAV 11-13
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzY0NDM90", #2024 AAU Wave 4
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzY0NDE90", #2024 AAU Wave 3
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzY0NDA90", #2024 AAU Wave 2
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwMzYzNzA90", #2024 AAU Wave 1
     # Add more event IDs here
 ]
 
 # Sportwrench Event URLs
 sw_event_urls = [
-    "https://events.sportwrench.com/#/events/6583cabd2",
-    "https://events.sportwrench.com/#/events/abbfb1d13",
-    "https://events.sportwrench.com/#/events/870cf0151",
-    "https://events.sportwrench.com/#/events/7ccb7d73a",
-    "https://events.sportwrench.com/#/events/aac1370ff",
-    "https://events.sportwrench.com/#/events/e73a9d3b3",
-    "https://events.sportwrench.com/#/events/c098ff439"
+    "https://events.sportwrench.com/#/events/9e0143866", #2025 Socal Cup
+    # "https://events.sportwrench.com/#/events/6583cabd2",
+    # "https://events.sportwrench.com/#/events/abbfb1d13",
+    # "https://events.sportwrench.com/#/events/870cf0151",
+    # "https://events.sportwrench.com/#/events/7ccb7d73a",
+    # "https://events.sportwrench.com/#/events/aac1370ff",
+    # "https://events.sportwrench.com/#/events/e73a9d3b3",
+    # "https://events.sportwrench.com/#/events/c098ff439",
 ]
 
 # Initialize an empty DataFrame to hold all data
