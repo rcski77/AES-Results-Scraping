@@ -3,9 +3,10 @@ import pandas as pd
 
 # First list of event IDs to process normally - current year's events
 event_ids = [
-    "PTAwMDAwMzY3NDY90", # Central Zone
-    "PTAwMDAwMzg4Mzk90", # CO Challenge
-    "PTAwMDAwMzcwNTU90", #2025 MLK 3 Step
+    "PTAwMDAwMzgzNjE90", # 2025 NIT
+    #"PTAwMDAwMzY3NDY90", # Central Zone
+    # "PTAwMDAwMzg4Mzk90", # CO Challenge
+    # "PTAwMDAwMzcwNTU90", #2025 MLK 3 Step
     # "PTAwMDAwMzY5NDk90",
     # "PTAwMDAwMzczMjU90",
     # "PTAwMDAwMzczMjY90",
@@ -19,10 +20,10 @@ increment_teamcode_event_ids = [
     # "PTAwMDAwMzY3MjM90", #2024 NIT
     # "PTAwMDAwMzM4MDQ90", #2024 USAV 14-17
     # "PTAwMDAwMzM4MDM90", #2024 USAV 11-13
-    "PTAwMDAwMzY0NDM90", #2024 AAU Wave 4
-    "PTAwMDAwMzY0NDE90", #2024 AAU Wave 3
-    "PTAwMDAwMzY0NDA90", #2024 AAU Wave 2
-    "PTAwMDAwMzYzNzA90", #2024 AAU Wave 1
+    #"PTAwMDAwMzY0NDM90", #2024 AAU Wave 4
+    #"PTAwMDAwMzY0NDE90", #2024 AAU Wave 3
+    #"PTAwMDAwMzY0NDA90", #2024 AAU Wave 2
+    #"PTAwMDAwMzYzNzA90", #2024 AAU Wave 1
     # Add more event IDs here
 ]
 
