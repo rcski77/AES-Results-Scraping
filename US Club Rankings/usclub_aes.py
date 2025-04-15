@@ -4,6 +4,33 @@ import re
 
 # List of event URLs to process for US Club Rankings import
 event_urls = [
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzgwNDU90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5NDY90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcyMDY90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcxNDE90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY4OTc90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY4OTY90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcxNDM90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcyMDk90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzgyODA90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzgwMDc90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzk1NDE90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzk1NDI90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5NDk90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5NTU90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY3NDY90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzc3Mjk90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzg0NTc90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzc0NDc90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzgwMDM90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY4MzQ90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcyODk90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzg0Nzc90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzc5Njk90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcxNDI90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5MTI90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzczMTg90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzc1Njk90",
     "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwNTU90",
     "https://results.advancedeventsystems.com/event/PTAwMDAwMzY4ODk90",
     "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwMDU90",
@@ -17,6 +44,9 @@ event_urls = [
     "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwOTE90",
     "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwODY90",
     "https://results.advancedeventsystems.com/event/PTAwMDAwMzg4Mzk90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5NDg90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5NTk90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5NjI90",
 ]
 
 # Initialize an empty DataFrame to hold all data
@@ -65,7 +95,7 @@ def process_event(event_url, increment_code=False):
             
     event_data = pd.DataFrame(teams)
     event_name_sanitized = re.sub(r'[<>:"/\\|?*]', '', event_name)  # Remove invalid characters
-    event_data.to_csv(f'{event_date}_{event_name_sanitized}_{event_id}_standings.csv', index=False, header=False)
+    event_data.to_csv(f'US Club Rankings\data\{event_date}_{event_name_sanitized}_{event_id}_standings.csv', index=False, header=False)
 
 # Process first list of event IDs
 for event_url in event_urls:
