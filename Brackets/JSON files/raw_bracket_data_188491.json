@@ -1,0 +1,4729 @@
+[
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 2.0,
+        "Y": 7.5,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 5",
+          "SecondTeamText": "Winner of Match 6",
+          "FullName": "Match 7",
+          "ShortName": "M7",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "No Work Team",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -62453,
+          "Court": {
+            "CourtId": -50094,
+            "Name": "South 89",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50094"
+          },
+          "ScheduledStartDateTime": "2025-06-28T12:45:00",
+          "ScheduledEndDateTime": "2025-06-28T13:44:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 3.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Winner of Match 1",
+            "SecondTeamText": "Winner of Match 2",
+            "FullName": "Match 5",
+            "ShortName": "M5",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of R4RubyAM5 (15 Club)",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -62454,
+            "Court": {
+              "CourtId": -50156,
+              "Name": "South 151",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50156"
+            },
+            "ScheduledStartDateTime": "2025-06-28T10:30:00",
+            "ScheduledEndDateTime": "2025-06-28T11:29:59.9999999"
+          },
+          "TopSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 0.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "Winner of R4Challenge1M1",
+              "SecondTeamText": "Winner of R4Challenge8M1",
+              "FullName": "Match 1",
+              "ShortName": "M1",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4RubyAM1 (15 Club)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 9,
+              "MatchId": -62456,
+              "Court": {
+                "CourtId": -50156,
+                "Name": "South 151",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50156"
+              },
+              "ScheduledStartDateTime": "2025-06-28T08:30:00",
+              "ScheduledEndDateTime": "2025-06-28T09:29:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          },
+          "BottomSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 9.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "Winner of R4Challenge5M1",
+              "SecondTeamText": "Winner of R4Challenge4M1",
+              "FullName": "Match 2",
+              "ShortName": "M2",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4RubyAM2 (15 Club)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+              "MatchId": -62457,
+              "Court": {
+                "CourtId": -50158,
+                "Name": "South 153",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50158"
+              },
+              "ScheduledStartDateTime": "2025-06-28T08:30:00",
+              "ScheduledEndDateTime": "2025-06-28T09:29:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          }
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 21.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Winner of Match 3",
+            "SecondTeamText": "Winner of Match 4",
+            "FullName": "Match 6",
+            "ShortName": "M6",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of R4RubyAM6 (15 Club)",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+            "MatchId": -62455,
+            "Court": {
+              "CourtId": -50157,
+              "Name": "South 152",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50157"
+            },
+            "ScheduledStartDateTime": "2025-06-28T10:30:00",
+            "ScheduledEndDateTime": "2025-06-28T11:29:59.9999999"
+          },
+          "TopSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 18.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "Winner of R4Challenge3M1",
+              "SecondTeamText": "Winner of R4Challenge6M1",
+              "FullName": "Match 3",
+              "ShortName": "M3",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4RubyAM3 (15 Club)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 1,
+              "MatchId": -62458,
+              "Court": {
+                "CourtId": -50159,
+                "Name": "South 154",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50159"
+              },
+              "ScheduledStartDateTime": "2025-06-28T08:30:00",
+              "ScheduledEndDateTime": "2025-06-28T09:29:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          },
+          "BottomSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 27.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "Winner of R4Challenge7M1",
+              "SecondTeamText": "Winner of R4Challenge2M1",
+              "FullName": "Match 4",
+              "ShortName": "M4",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4RubyAM4 (15 Club)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62459,
+              "Court": {
+                "CourtId": -50157,
+                "Name": "South 152",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50157"
+              },
+              "ScheduledStartDateTime": "2025-06-28T08:30:00",
+              "ScheduledEndDateTime": "2025-06-28T09:29:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          }
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4GoldM7",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4GoldM7",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4GoldM6",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4GoldM5",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "5 - Loser of R4GoldM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "6 - Loser of R4GoldM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "7 - Loser of R4GoldM4",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "8 - Loser of R4GoldM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": [
+      {
+        "ScheduleText": "South 151 at 6/28 7:30 AM",
+        "WorkTeamText": "Winner of R4Challenge8M1 (16 Elite)"
+      },
+      {
+        "ScheduleText": "South 152 at 6/28 7:30 AM",
+        "WorkTeamText": "Winner of R4Challenge7M1 (16 Elite)"
+      },
+      {
+        "ScheduleText": "South 153 at 6/28 7:30 AM",
+        "WorkTeamText": "Winner of R4Challenge5M1 (16 Elite)"
+      },
+      {
+        "ScheduleText": "South 154 at 6/28 7:30 AM",
+        "WorkTeamText": "Winner of R4Challenge6M1 (16 Elite)"
+      },
+      {
+        "ScheduleText": "South 151 at 6/28 9:30 AM",
+        "WorkTeamText": "Loser of R4GoldM1 (16 Elite)"
+      },
+      {
+        "ScheduleText": "South 152 at 6/28 9:30 AM",
+        "WorkTeamText": "Loser of R4GoldM4 (16 Elite)"
+      },
+      {
+        "ScheduleText": "South 151 at 6/28 11:30 AM",
+        "WorkTeamText": "Loser of R4GoldM5 (16 Elite)"
+      }
+    ],
+    "Type": 1,
+    "PlayId": -61682,
+    "FullName": "Championship Division",
+    "ShortName": "Gold",
+    "CompleteShortName": "R4Gold",
+    "CompleteFullName": "Round 4 Championship Division",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -50156,
+        "Name": "South 151",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50156"
+      },
+      {
+        "CourtId": -50158,
+        "Name": "South 153",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50158"
+      },
+      {
+        "CourtId": -50159,
+        "Name": "South 154",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50159"
+      },
+      {
+        "CourtId": -50157,
+        "Name": "South 152",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50157"
+      },
+      {
+        "CourtId": -50094,
+        "Name": "South 89",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50094"
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 1.0,
+        "Y": 3.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 1",
+          "SecondTeamText": "Winner of Match 2",
+          "FullName": "Match 3",
+          "ShortName": "M3",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "Loser of Match 2",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -61687,
+          "Court": {
+            "CourtId": -50025,
+            "Name": "North 20",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50025"
+          },
+          "ScheduledStartDateTime": "2025-06-28T13:00:00",
+          "ScheduledEndDateTime": "2025-06-28T13:59:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 0.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Loser of R4Challenge7M1",
+            "SecondTeamText": "Loser of R4Challenge2M1",
+            "FullName": "Match 1",
+            "ShortName": "M1",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of R4Challenge3M1 (16 Elite)",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -61688,
+            "Court": {
+              "CourtId": -50025,
+              "Name": "North 20",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50025"
+            },
+            "ScheduledStartDateTime": "2025-06-28T11:00:00",
+            "ScheduledEndDateTime": "2025-06-28T11:59:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 9.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Loser of R4Challenge3M1",
+            "SecondTeamText": "Loser of R4Challenge6M1",
+            "FullName": "Match 2",
+            "ShortName": "M2",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 1",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -61689,
+            "Court": {
+              "CourtId": -50025,
+              "Name": "North 20",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50025"
+            },
+            "ScheduledStartDateTime": "2025-06-28T12:00:00",
+            "ScheduledEndDateTime": "2025-06-28T12:59:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4ConAM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4ConAM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4ConAM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4ConAM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -61686,
+    "FullName": "Consolation Division A",
+    "ShortName": "ConA",
+    "CompleteShortName": "R4ConA",
+    "CompleteFullName": "Round 4 Consolation Division A",
+    "Order": 1,
+    "Courts": [
+      {
+        "CourtId": -50025,
+        "Name": "North 20",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50025"
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 1.0,
+        "Y": 3.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 1",
+          "SecondTeamText": "Winner of Match 2",
+          "FullName": "Match 3",
+          "ShortName": "M3",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "Loser of Match 2",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -61743,
+          "Court": {
+            "CourtId": -50028,
+            "Name": "North 23",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50028"
+          },
+          "ScheduledStartDateTime": "2025-06-28T13:00:00",
+          "ScheduledEndDateTime": "2025-06-28T13:59:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 0.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Loser of R4Challenge8M1",
+            "SecondTeamText": "Loser of R4Challenge1M1",
+            "FullName": "Match 1",
+            "ShortName": "M1",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of R4Challenge4M1 (16 Elite)",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -61744,
+            "Court": {
+              "CourtId": -50028,
+              "Name": "North 23",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50028"
+            },
+            "ScheduledStartDateTime": "2025-06-28T11:00:00",
+            "ScheduledEndDateTime": "2025-06-28T11:59:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 9.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Loser of R4Challenge4M1",
+            "SecondTeamText": "Loser of R4Challenge5M1",
+            "FullName": "Match 2",
+            "ShortName": "M2",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 1",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -61745,
+            "Court": {
+              "CourtId": -50028,
+              "Name": "North 23",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50028"
+            },
+            "ScheduledStartDateTime": "2025-06-28T12:00:00",
+            "ScheduledEndDateTime": "2025-06-28T12:59:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4ConBM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4ConBM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4ConBM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4ConBM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -61742,
+    "FullName": "Consolation Division B",
+    "ShortName": "ConB",
+    "CompleteShortName": "R4ConB",
+    "CompleteFullName": "Round 4 Consolation Division B",
+    "Order": 2,
+    "Courts": [
+      {
+        "CourtId": -50028,
+        "Name": "North 23",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50028"
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 1.0,
+        "Y": 3.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 1",
+          "SecondTeamText": "Winner of Match 2",
+          "FullName": "Match 3",
+          "ShortName": "M3",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "Loser of Match 2",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -61691,
+          "Court": {
+            "CourtId": -50121,
+            "Name": "South 116",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50121"
+          },
+          "ScheduledStartDateTime": "2025-06-28T13:30:00",
+          "ScheduledEndDateTime": "2025-06-28T14:29:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 0.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "3rd-R3G1C",
+            "SecondTeamText": "3rd-R3G1G",
+            "FullName": "Match 1",
+            "ShortName": "M1",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "3rd-R3G1E (16 Elite)",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -61692,
+            "Court": {
+              "CourtId": -50121,
+              "Name": "South 116",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50121"
+            },
+            "ScheduledStartDateTime": "2025-06-28T11:30:00",
+            "ScheduledEndDateTime": "2025-06-28T12:29:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 9.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "3rd-R3G1E",
+            "SecondTeamText": "3rd-R3G1F",
+            "FullName": "Match 2",
+            "ShortName": "M2",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 1",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -61693,
+            "Court": {
+              "CourtId": -50121,
+              "Name": "South 116",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50121"
+            },
+            "ScheduledStartDateTime": "2025-06-28T12:30:00",
+            "ScheduledEndDateTime": "2025-06-28T13:29:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4RubyAM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4RubyAM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4RubyAM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4RubyAM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -61690,
+    "FullName": "Ruby Division A",
+    "ShortName": "RubyA",
+    "CompleteShortName": "R4RubyA",
+    "CompleteFullName": "Round 4 Ruby Division A",
+    "Order": 3,
+    "Courts": [
+      {
+        "CourtId": -50121,
+        "Name": "South 116",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50121"
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 1.0,
+        "Y": 3.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 1",
+          "SecondTeamText": "Winner of Match 2",
+          "FullName": "Match 3",
+          "ShortName": "M3",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "Loser of Match 2",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -61747,
+          "Court": {
+            "CourtId": -50029,
+            "Name": "North 24",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50029"
+          },
+          "ScheduledStartDateTime": "2025-06-28T13:00:00",
+          "ScheduledEndDateTime": "2025-06-28T13:59:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 0.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "3rd-R3G1A",
+            "SecondTeamText": "3rd-R3G1H",
+            "FullName": "Match 1",
+            "ShortName": "M1",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "3rd-R3G1D (16 Elite)",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -61748,
+            "Court": {
+              "CourtId": -50029,
+              "Name": "North 24",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50029"
+            },
+            "ScheduledStartDateTime": "2025-06-28T11:00:00",
+            "ScheduledEndDateTime": "2025-06-28T11:59:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 9.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "3rd-R3G1D",
+            "SecondTeamText": "3rd-R3G1B",
+            "FullName": "Match 2",
+            "ShortName": "M2",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 1",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -61749,
+            "Court": {
+              "CourtId": -50029,
+              "Name": "North 24",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50029"
+            },
+            "ScheduledStartDateTime": "2025-06-28T12:00:00",
+            "ScheduledEndDateTime": "2025-06-28T12:59:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4RubyBM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4RubyBM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4RubyBM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4RubyBM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -61746,
+    "FullName": "Ruby Division B",
+    "ShortName": "RubyB",
+    "CompleteShortName": "R4RubyB",
+    "CompleteFullName": "Round 4 Ruby Division B",
+    "Order": 4,
+    "Courts": [
+      {
+        "CourtId": -50029,
+        "Name": "North 24",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50029"
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 2.0,
+        "Y": 7.5,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 5",
+          "SecondTeamText": "Winner of Match 6",
+          "FullName": "Match 7",
+          "ShortName": "M7",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "Loser of R4GoldM13 (16 Spirit)",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -62488,
+          "Court": {
+            "CourtId": -50023,
+            "Name": "North 18",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50023"
+          },
+          "ScheduledStartDateTime": "2025-06-28T13:00:00",
+          "ScheduledEndDateTime": "2025-06-28T13:59:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 3.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Winner of Match 1",
+            "SecondTeamText": "Winner of Match 2",
+            "FullName": "Match 5",
+            "ShortName": "M5",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of R4GoldM9 (16 Spirit)",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -62489,
+            "Court": {
+              "CourtId": -50023,
+              "Name": "North 18",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50023"
+            },
+            "ScheduledStartDateTime": "2025-06-28T11:00:00",
+            "ScheduledEndDateTime": "2025-06-28T11:59:59.9999999"
+          },
+          "TopSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 0.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "4th-R3G1G",
+              "SecondTeamText": "4th-R3G1C",
+              "FullName": "Match 1",
+              "ShortName": "M1",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM1 (16 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 9,
+              "MatchId": -62491,
+              "Court": {
+                "CourtId": -50023,
+                "Name": "North 18",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50023"
+              },
+              "ScheduledStartDateTime": "2025-06-28T09:00:00",
+              "ScheduledEndDateTime": "2025-06-28T09:59:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          },
+          "BottomSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 9.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "4th-R3G1F",
+              "SecondTeamText": "4th-R3G1D",
+              "FullName": "Match 2",
+              "ShortName": "M2",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM4 (16 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62492,
+              "Court": {
+                "CourtId": -50025,
+                "Name": "North 20",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50025"
+              },
+              "ScheduledStartDateTime": "2025-06-28T09:00:00",
+              "ScheduledEndDateTime": "2025-06-28T09:59:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          }
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 21.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Winner of Match 3",
+            "SecondTeamText": "Winner of Match 4",
+            "FullName": "Match 6",
+            "ShortName": "M6",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of R4GoldM12 (16 Spirit)",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -62490,
+            "Court": {
+              "CourtId": -50024,
+              "Name": "North 19",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50024"
+            },
+            "ScheduledStartDateTime": "2025-06-28T11:00:00",
+            "ScheduledEndDateTime": "2025-06-28T11:59:59.9999999"
+          },
+          "TopSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 18.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "4th-R3G1E",
+              "SecondTeamText": "4th-R3G1B",
+              "FullName": "Match 3",
+              "ShortName": "M3",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM5 (16 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 9,
+              "MatchId": -62493,
+              "Court": {
+                "CourtId": -50026,
+                "Name": "North 21",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50026"
+              },
+              "ScheduledStartDateTime": "2025-06-28T09:00:00",
+              "ScheduledEndDateTime": "2025-06-28T09:59:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          },
+          "BottomSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 27.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "4th-R3G1A",
+              "SecondTeamText": "4th-R3G1H",
+              "FullName": "Match 4",
+              "ShortName": "M4",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM8 (16 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62494,
+              "Court": {
+                "CourtId": -50024,
+                "Name": "North 19",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50024"
+              },
+              "ScheduledStartDateTime": "2025-06-28T09:00:00",
+              "ScheduledEndDateTime": "2025-06-28T09:59:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          }
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4DiamM7",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4DiamM7",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4DiamM6",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4DiamM5",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "5 - Loser of R4DiamM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "6 - Loser of R4DiamM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "7 - Loser of R4DiamM4",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "8 - Loser of R4DiamM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": [
+      {
+        "ScheduleText": "North 18 at 6/28 8:00 AM",
+        "WorkTeamText": "4th-R3G1C (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 19 at 6/28 8:00 AM",
+        "WorkTeamText": "4th-R3G1A (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 20 at 6/28 8:00 AM",
+        "WorkTeamText": "4th-R3G1F (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 21 at 6/28 8:00 AM",
+        "WorkTeamText": "4th-R3G1B (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 18 at 6/28 10:00 AM",
+        "WorkTeamText": "Loser of R4DiamM1 (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 19 at 6/28 10:00 AM",
+        "WorkTeamText": "Loser of R4DiamM4 (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 20 at 6/28 10:00 AM",
+        "WorkTeamText": "Loser of R4DiamM2 (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 21 at 6/28 10:00 AM",
+        "WorkTeamText": "Loser of R4DiamM3 (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 18 at 6/28 12:00 PM",
+        "WorkTeamText": "Loser of R4DiamM5 (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 19 at 6/28 12:00 PM",
+        "WorkTeamText": "Loser of R4DiamM6 (16 Elite)"
+      }
+    ],
+    "Type": 1,
+    "PlayId": -61694,
+    "FullName": "Diamond Division",
+    "ShortName": "Diam",
+    "CompleteShortName": "R4Diam",
+    "CompleteFullName": "Round 4 Diamond Division",
+    "Order": 5,
+    "Courts": [
+      {
+        "CourtId": -50023,
+        "Name": "North 18",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50023"
+      },
+      {
+        "CourtId": -50025,
+        "Name": "North 20",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50025"
+      },
+      {
+        "CourtId": -50026,
+        "Name": "North 21",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50026"
+      },
+      {
+        "CourtId": -50024,
+        "Name": "North 19",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50024"
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 2.0,
+        "Y": 7.5,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 5",
+          "SecondTeamText": "Winner of Match 6",
+          "FullName": "Match 7",
+          "ShortName": "M7",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "Loser of Match 6",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -62495,
+          "Court": {
+            "CourtId": -50027,
+            "Name": "North 22",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50027"
+          },
+          "ScheduledStartDateTime": "2025-06-28T13:00:00",
+          "ScheduledEndDateTime": "2025-06-28T13:59:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 3.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Winner of Match 1",
+            "SecondTeamText": "Winner of Match 2",
+            "FullName": "Match 5",
+            "ShortName": "M5",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 4",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -62496,
+            "Court": {
+              "CourtId": -50027,
+              "Name": "North 22",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50027"
+            },
+            "ScheduledStartDateTime": "2025-06-28T11:00:00",
+            "ScheduledEndDateTime": "2025-06-28T11:59:59.9999999"
+          },
+          "TopSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 0.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": {
+                "TeamId": 6225,
+                "Name": "Uno Girls 16 Elite ",
+                "Code": "g16unovb1gl",
+                "Club": {
+                  "ClubId": 771,
+                  "Name": "Uno Volleyball Club"
+                },
+                "Division": {
+                  "DivisionId": 188491,
+                  "Name": "16 Elite",
+                  "TeamCount": 81,
+                  "CodeAlias": "16 Elite",
+                  "ColorHex": "#DF5FDF"
+                },
+                "BidIdentification": {
+                  "BidStatus": 0,
+                  "DivisionId": 0,
+                  "Alias": "None"
+                }
+              },
+              "FirstTeamText": "1st-R3G2I",
+              "SecondTeamText": "Uno Girls 16 Elite  (GL)",
+              "FullName": "Match 1",
+              "ShortName": "M1",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM2 (16 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 9,
+              "MatchId": -62498,
+              "Court": {
+                "CourtId": -50027,
+                "Name": "North 22",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50027"
+              },
+              "ScheduledStartDateTime": "2025-06-28T09:00:00",
+              "ScheduledEndDateTime": "2025-06-28T09:59:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          },
+          "BottomSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 9.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "1st-R3G2M",
+              "SecondTeamText": "1st-R3G2L",
+              "FullName": "Match 2",
+              "ShortName": "M2",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM3 (16 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62499,
+              "Court": {
+                "CourtId": -50028,
+                "Name": "North 23",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50028"
+              },
+              "ScheduledStartDateTime": "2025-06-28T09:00:00",
+              "ScheduledEndDateTime": "2025-06-28T09:59:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          }
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 21.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Winner of Match 3",
+            "SecondTeamText": "Winner of Match 4",
+            "FullName": "Match 6",
+            "ShortName": "M6",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 5",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -62497,
+            "Court": {
+              "CourtId": -50027,
+              "Name": "North 22",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50027"
+            },
+            "ScheduledStartDateTime": "2025-06-28T12:00:00",
+            "ScheduledEndDateTime": "2025-06-28T12:59:59.9999999"
+          },
+          "TopSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 18.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "1st-R3G2K",
+              "SecondTeamText": "1st-R3G2N",
+              "FullName": "Match 3",
+              "ShortName": "M3",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of Match 2",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+              "MatchId": -62500,
+              "Court": {
+                "CourtId": -50028,
+                "Name": "North 23",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50028"
+              },
+              "ScheduledStartDateTime": "2025-06-28T10:00:00",
+              "ScheduledEndDateTime": "2025-06-28T10:59:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          },
+          "BottomSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 27.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "1st-R3G2O",
+              "SecondTeamText": "1st-R3G2J",
+              "FullName": "Match 4",
+              "ShortName": "M4",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of Match 1",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62501,
+              "Court": {
+                "CourtId": -50027,
+                "Name": "North 22",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50027"
+              },
+              "ScheduledStartDateTime": "2025-06-28T10:00:00",
+              "ScheduledEndDateTime": "2025-06-28T10:59:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          }
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4SapphM7",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4SapphM7",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4SapphM6",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4SapphM5",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "5 - Loser of R4SapphM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "6 - Loser of R4SapphM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "7 - Loser of R4SapphM4",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "8 - Loser of R4SapphM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": [
+      {
+        "ScheduleText": "North 22 at 6/28 8:00 AM",
+        "WorkTeamText": "Uno Girls 16 Elite  (GL)"
+      },
+      {
+        "ScheduleText": "North 23 at 6/28 8:00 AM",
+        "WorkTeamText": "1st-R3G2M (16 Elite)"
+      }
+    ],
+    "Type": 1,
+    "PlayId": -61698,
+    "FullName": "Sapphire Division",
+    "ShortName": "Sapph",
+    "CompleteShortName": "R4Sapph",
+    "CompleteFullName": "Round 4 Sapphire Division",
+    "Order": 6,
+    "Courts": [
+      {
+        "CourtId": -50027,
+        "Name": "North 22",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50027"
+      },
+      {
+        "CourtId": -50028,
+        "Name": "North 23",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50028"
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 2.0,
+        "Y": 7.5,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 5",
+          "SecondTeamText": "Winner of Match 6",
+          "FullName": "Match 7",
+          "ShortName": "M7",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "Loser of Match 6",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -62502,
+          "Court": {
+            "CourtId": -50030,
+            "Name": "North 25",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50030"
+          },
+          "ScheduledStartDateTime": "2025-06-28T13:00:00",
+          "ScheduledEndDateTime": "2025-06-28T13:59:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 3.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Winner of Match 1",
+            "SecondTeamText": "Winner of Match 2",
+            "FullName": "Match 5",
+            "ShortName": "M5",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 4",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -62503,
+            "Court": {
+              "CourtId": -50030,
+              "Name": "North 25",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50030"
+            },
+            "ScheduledStartDateTime": "2025-06-28T11:00:00",
+            "ScheduledEndDateTime": "2025-06-28T11:59:59.9999999"
+          },
+          "TopSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 0.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": {
+                "TeamId": 58003,
+                "Name": "Academy 16-3E Banshees",
+                "Code": "g16tavbc3ho",
+                "Club": {
+                  "ClubId": 11176,
+                  "Name": "The Academy Volleyball Club"
+                },
+                "Division": {
+                  "DivisionId": 188491,
+                  "Name": "16 Elite",
+                  "TeamCount": 81,
+                  "CodeAlias": "16 Elite",
+                  "ColorHex": "#DF5FDF"
+                },
+                "BidIdentification": {
+                  "BidStatus": 0,
+                  "DivisionId": 0,
+                  "Alias": "None"
+                }
+              },
+              "SecondTeam": null,
+              "FirstTeamText": "Academy 16-3E Banshees (HO)",
+              "SecondTeamText": "2nd-R3G2I",
+              "FullName": "Match 1",
+              "ShortName": "M1",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM7 (16 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 9,
+              "MatchId": -62505,
+              "Court": {
+                "CourtId": -50030,
+                "Name": "North 25",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50030"
+              },
+              "ScheduledStartDateTime": "2025-06-28T09:00:00",
+              "ScheduledEndDateTime": "2025-06-28T09:59:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          },
+          "BottomSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 9.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "2nd-R3G2L",
+              "SecondTeamText": "2nd-R3G2N",
+              "FullName": "Match 2",
+              "ShortName": "M2",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM6 (16 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62506,
+              "Court": {
+                "CourtId": -50029,
+                "Name": "North 24",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50029"
+              },
+              "ScheduledStartDateTime": "2025-06-28T09:00:00",
+              "ScheduledEndDateTime": "2025-06-28T09:59:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          }
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 21.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Winner of Match 3",
+            "SecondTeamText": "Winner of Match 4",
+            "FullName": "Match 6",
+            "ShortName": "M6",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 5",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -62504,
+            "Court": {
+              "CourtId": -50030,
+              "Name": "North 25",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50030"
+            },
+            "ScheduledStartDateTime": "2025-06-28T12:00:00",
+            "ScheduledEndDateTime": "2025-06-28T12:59:59.9999999"
+          },
+          "TopSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 18.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "2nd-R3G2M",
+              "SecondTeamText": "2nd-R3G2K",
+              "FullName": "Match 3",
+              "ShortName": "M3",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of Match 2",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+              "MatchId": -62507,
+              "Court": {
+                "CourtId": -50029,
+                "Name": "North 24",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50029"
+              },
+              "ScheduledStartDateTime": "2025-06-28T10:00:00",
+              "ScheduledEndDateTime": "2025-06-28T10:59:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          },
+          "BottomSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 27.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "2nd-R3G2J",
+              "SecondTeamText": "2nd-R3G2O",
+              "FullName": "Match 4",
+              "ShortName": "M4",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of Match 1",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62508,
+              "Court": {
+                "CourtId": -50030,
+                "Name": "North 25",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50030"
+              },
+              "ScheduledStartDateTime": "2025-06-28T10:00:00",
+              "ScheduledEndDateTime": "2025-06-28T10:59:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          }
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4PearlM7",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4PearlM7",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4PearlM6",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4PearlM5",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "5 - Loser of R4PearlM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "6 - Loser of R4PearlM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "7 - Loser of R4PearlM4",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "8 - Loser of R4PearlM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": [
+      {
+        "ScheduleText": "North 24 at 6/28 8:00 AM",
+        "WorkTeamText": "2nd-R3G2L (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 25 at 6/28 8:00 AM",
+        "WorkTeamText": "2nd-R3G2I (16 Elite)"
+      }
+    ],
+    "Type": 1,
+    "PlayId": -61702,
+    "FullName": "Pearl Division",
+    "ShortName": "Pearl",
+    "CompleteShortName": "R4Pearl",
+    "CompleteFullName": "Round 4 Pearl Division",
+    "Order": 7,
+    "Courts": [
+      {
+        "CourtId": -50030,
+        "Name": "North 25",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50030"
+      },
+      {
+        "CourtId": -50029,
+        "Name": "North 24",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50029"
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 2.0,
+        "Y": 7.5,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 5",
+          "SecondTeamText": "Winner of Match 6",
+          "FullName": "Match 7",
+          "ShortName": "M7",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "Loser of R4GoldM13 (15 Spirit)",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -62530,
+          "Court": {
+            "CourtId": -50056,
+            "Name": "North 51",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50056"
+          },
+          "ScheduledStartDateTime": "2025-06-28T12:30:00",
+          "ScheduledEndDateTime": "2025-06-28T13:29:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 3.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Winner of Match 1",
+            "SecondTeamText": "Winner of Match 2",
+            "FullName": "Match 5",
+            "ShortName": "M5",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of R4GoldM9 (15 Spirit)",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -62531,
+            "Court": {
+              "CourtId": -50056,
+              "Name": "North 51",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50056"
+            },
+            "ScheduledStartDateTime": "2025-06-28T10:30:00",
+            "ScheduledEndDateTime": "2025-06-28T11:29:59.9999999"
+          },
+          "TopSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 0.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "3rd-R3G2J",
+              "SecondTeamText": "3rd-R3G2O",
+              "FullName": "Match 1",
+              "ShortName": "M1",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM1 (15 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 9,
+              "MatchId": -62533,
+              "Court": {
+                "CourtId": -50056,
+                "Name": "North 51",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50056"
+              },
+              "ScheduledStartDateTime": "2025-06-28T08:30:00",
+              "ScheduledEndDateTime": "2025-06-28T09:29:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          },
+          "BottomSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 9.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "3rd-R3G2N",
+              "SecondTeamText": "3rd-R3G2K",
+              "FullName": "Match 2",
+              "ShortName": "M2",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM4 (15 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62534,
+              "Court": {
+                "CourtId": -50058,
+                "Name": "North 53",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50058"
+              },
+              "ScheduledStartDateTime": "2025-06-28T08:30:00",
+              "ScheduledEndDateTime": "2025-06-28T09:29:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          }
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 21.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Winner of Match 3",
+            "SecondTeamText": "Winner of Match 4",
+            "FullName": "Match 6",
+            "ShortName": "M6",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of R4GoldM12 (15 Spirit)",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -62532,
+            "Court": {
+              "CourtId": -50057,
+              "Name": "North 52",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50057"
+            },
+            "ScheduledStartDateTime": "2025-06-28T10:30:00",
+            "ScheduledEndDateTime": "2025-06-28T11:29:59.9999999"
+          },
+          "TopSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 18.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "3rd-R3G2L",
+              "SecondTeamText": "3rd-R3G2M",
+              "FullName": "Match 3",
+              "ShortName": "M3",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM5 (15 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 9,
+              "MatchId": -62535,
+              "Court": {
+                "CourtId": -50059,
+                "Name": "North 54",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50059"
+              },
+              "ScheduledStartDateTime": "2025-06-28T08:30:00",
+              "ScheduledEndDateTime": "2025-06-28T09:29:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          },
+          "BottomSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 27.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": {
+                "TeamId": 66473,
+                "Name": "Nebraska ONE 16 Lime",
+                "Code": "g16neone3gp",
+                "Club": {
+                  "ClubId": 2653,
+                  "Name": "Nebraska ONE"
+                },
+                "Division": {
+                  "DivisionId": 188491,
+                  "Name": "16 Elite",
+                  "TeamCount": 81,
+                  "CodeAlias": "16 Elite",
+                  "ColorHex": "#DF5FDF"
+                },
+                "BidIdentification": {
+                  "BidStatus": 0,
+                  "DivisionId": 0,
+                  "Alias": "None"
+                }
+              },
+              "SecondTeam": null,
+              "FirstTeamText": "Nebraska ONE 16 Lime (GP)",
+              "SecondTeamText": "3rd-R3G2I",
+              "FullName": "Match 4",
+              "ShortName": "M4",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM8 (15 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62536,
+              "Court": {
+                "CourtId": -50057,
+                "Name": "North 52",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50057"
+              },
+              "ScheduledStartDateTime": "2025-06-28T08:30:00",
+              "ScheduledEndDateTime": "2025-06-28T09:29:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          }
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4EmerM7",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4EmerM7",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4EmerM6",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4EmerM5",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "5 - Loser of R4EmerM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "6 - Loser of R4EmerM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "7 - Loser of R4EmerM4",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "8 - Loser of R4EmerM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": [
+      {
+        "ScheduleText": "North 51 at 6/28 7:30 AM",
+        "WorkTeamText": "3rd-R3G2O (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 52 at 6/28 7:30 AM",
+        "WorkTeamText": "Nebraska ONE 16 Lime (GP)"
+      },
+      {
+        "ScheduleText": "North 53 at 6/28 7:30 AM",
+        "WorkTeamText": "3rd-R3G2N (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 54 at 6/28 7:30 AM",
+        "WorkTeamText": "3rd-R3G2M (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 51 at 6/28 9:30 AM",
+        "WorkTeamText": "Loser of R4EmerM1 (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 52 at 6/28 9:30 AM",
+        "WorkTeamText": "Loser of R4EmerM4 (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 53 at 6/28 9:30 AM",
+        "WorkTeamText": "Loser of R4EmerM2 (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 54 at 6/28 9:30 AM",
+        "WorkTeamText": "Loser of R4EmerM3 (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 51 at 6/28 11:30 AM",
+        "WorkTeamText": "Loser of R4EmerM5 (16 Elite)"
+      },
+      {
+        "ScheduleText": "North 52 at 6/28 11:30 AM",
+        "WorkTeamText": "Loser of R4EmerM6 (16 Elite)"
+      }
+    ],
+    "Type": 1,
+    "PlayId": -61706,
+    "FullName": "Emerald Division",
+    "ShortName": "Emer",
+    "CompleteShortName": "R4Emer",
+    "CompleteFullName": "Round 4 Emerald Division",
+    "Order": 8,
+    "Courts": [
+      {
+        "CourtId": -50056,
+        "Name": "North 51",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50056"
+      },
+      {
+        "CourtId": -50058,
+        "Name": "North 53",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50058"
+      },
+      {
+        "CourtId": -50059,
+        "Name": "North 54",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50059"
+      },
+      {
+        "CourtId": -50057,
+        "Name": "North 52",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50057"
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 2.0,
+        "Y": 3.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 4",
+          "SecondTeamText": "Winner of Match 5",
+          "FullName": "Match 6",
+          "ShortName": "M6",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "Loser of Match 5",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -62551,
+          "Court": {
+            "CourtId": -50060,
+            "Name": "North 55",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50060"
+          },
+          "ScheduledStartDateTime": "2025-06-28T13:30:00",
+          "ScheduledEndDateTime": "2025-06-28T14:29:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 0.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "4th-R3G2O",
+            "SecondTeamText": "Winner of Match 1",
+            "FullName": "Match 4",
+            "ShortName": "M4",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 3",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -62552,
+            "Court": {
+              "CourtId": -50060,
+              "Name": "North 55",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50060"
+            },
+            "ScheduledStartDateTime": "2025-06-28T11:30:00",
+            "ScheduledEndDateTime": "2025-06-28T12:29:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 3.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "4th-R3G2K",
+              "SecondTeamText": "4th-R3G2L",
+              "FullName": "Match 1",
+              "ShortName": "M1",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM2 (15 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62555,
+              "Court": {
+                "CourtId": -50060,
+                "Name": "North 55",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50060"
+              },
+              "ScheduledStartDateTime": "2025-06-28T08:30:00",
+              "ScheduledEndDateTime": "2025-06-28T09:29:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          }
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 15.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Winner of Match 2",
+            "SecondTeamText": "Winner of Match 3",
+            "FullName": "Match 5",
+            "ShortName": "M5",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 4",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -62553,
+            "Court": {
+              "CourtId": -50060,
+              "Name": "North 55",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50060"
+            },
+            "ScheduledStartDateTime": "2025-06-28T12:30:00",
+            "ScheduledEndDateTime": "2025-06-28T13:29:59.9999999"
+          },
+          "TopSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 12.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "4th-R3G2M",
+              "SecondTeamText": "4th-R3G2J",
+              "FullName": "Match 2",
+              "ShortName": "M2",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of Match 1",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62556,
+              "Court": {
+                "CourtId": -50060,
+                "Name": "North 55",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50060"
+              },
+              "ScheduledStartDateTime": "2025-06-28T09:30:00",
+              "ScheduledEndDateTime": "2025-06-28T10:29:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          },
+          "BottomSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 21.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "4th-R3G2I",
+              "SecondTeamText": "4th-R3G2N",
+              "FullName": "Match 3",
+              "ShortName": "M3",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of Match 2",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62557,
+              "Court": {
+                "CourtId": -50060,
+                "Name": "North 55",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50060"
+              },
+              "ScheduledStartDateTime": "2025-06-28T10:30:00",
+              "ScheduledEndDateTime": "2025-06-28T11:29:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          }
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4AmethM6",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4AmethM6",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4AmethM5",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4AmethM4",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "5 - Loser of R4AmethM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "6 - Loser of R4AmethM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "7 - Loser of R4AmethM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": [
+      {
+        "ScheduleText": "North 55 at 6/28 7:30 AM",
+        "WorkTeamText": "4th-R3G2K (16 Elite)"
+      }
+    ],
+    "Type": 1,
+    "PlayId": -61710,
+    "FullName": "Amethyst Division",
+    "ShortName": "Ameth",
+    "CompleteShortName": "R4Ameth",
+    "CompleteFullName": "Round 4 Amethyst Division",
+    "Order": 9,
+    "Courts": [
+      {
+        "CourtId": -50060,
+        "Name": "North 55",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50060"
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 2.0,
+        "Y": 3.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 3",
+          "SecondTeamText": "Winner of Match 4",
+          "FullName": "Match 5",
+          "ShortName": "M5",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "Loser of Match 4",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -62565,
+          "Court": {
+            "CourtId": -50061,
+            "Name": "North 56",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50061"
+          },
+          "ScheduledStartDateTime": "2025-06-28T12:30:00",
+          "ScheduledEndDateTime": "2025-06-28T13:29:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 0.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "1st-R3G3Q",
+            "SecondTeamText": "Winner of Match 1",
+            "FullName": "Match 3",
+            "ShortName": "M3",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 2",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -62566,
+            "Court": {
+              "CourtId": -50061,
+              "Name": "North 56",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50061"
+            },
+            "ScheduledStartDateTime": "2025-06-28T10:30:00",
+            "ScheduledEndDateTime": "2025-06-28T11:29:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 3.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "Winner of R3G3XO3M1",
+              "SecondTeamText": "Loser of R3G3XO1M1",
+              "FullName": "Match 1",
+              "ShortName": "M1",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of R4GoldM3 (15 Spirit)",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62569,
+              "Court": {
+                "CourtId": -50061,
+                "Name": "North 56",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50061"
+              },
+              "ScheduledStartDateTime": "2025-06-28T08:30:00",
+              "ScheduledEndDateTime": "2025-06-28T09:29:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          }
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 1.0,
+          "Y": 15.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "Winner of Match 2",
+            "SecondTeamText": "Winner of R3G3XO1M1",
+            "FullName": "Match 4",
+            "ShortName": "M4",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 3",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -62567,
+            "Court": {
+              "CourtId": -50061,
+              "Name": "North 56",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50061"
+            },
+            "ScheduledStartDateTime": "2025-06-28T11:30:00",
+            "ScheduledEndDateTime": "2025-06-28T12:29:59.9999999"
+          },
+          "TopSource": {
+            "Key": 0,
+            "X": 0.0,
+            "Y": 12.0,
+            "Reversed": false,
+            "DoubleCapped": false,
+            "Match": {
+              "FirstTeam": null,
+              "SecondTeam": null,
+              "FirstTeamText": "Winner of R3G3XO2M1",
+              "SecondTeamText": "2nd-R3G3Q",
+              "FullName": "Match 2",
+              "ShortName": "M2",
+              "HasScores": false,
+              "FirstTeamWon": false,
+              "SecondTeamWon": false,
+              "Sets": [
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": false
+                },
+                {
+                  "FirstTeamScore": null,
+                  "SecondTeamScore": null,
+                  "ScoreText": "",
+                  "IsDecidingSet": true
+                }
+              ],
+              "WorkTeam": null,
+              "WorkTeamText": "Loser of Match 1",
+              "TypeOfOutcome": 0,
+              "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+              "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+              "MatchId": -62570,
+              "Court": {
+                "CourtId": -50061,
+                "Name": "North 56",
+                "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50061"
+              },
+              "ScheduledStartDateTime": "2025-06-28T09:30:00",
+              "ScheduledEndDateTime": "2025-06-28T10:29:59.9999999"
+            },
+            "TopSource": null,
+            "BottomSource": null
+          },
+          "BottomSource": null
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4CrystM5",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4CrystM5",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4CrystM4",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4CrystM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "5 - Loser of R4CrystM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "6 - Loser of R4CrystM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": [
+      {
+        "ScheduleText": "North 56 at 6/28 7:30 AM",
+        "WorkTeamText": "Winner of R3G3XO3M1 (16 Elite)"
+      }
+    ],
+    "Type": 1,
+    "PlayId": -61714,
+    "FullName": "Crystal Division",
+    "ShortName": "Cryst",
+    "CompleteShortName": "R4Cryst",
+    "CompleteFullName": "Round 4 Crystal Division",
+    "Order": 10,
+    "Courts": [
+      {
+        "CourtId": -50061,
+        "Name": "North 56",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50061"
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 1.0,
+        "Y": 3.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 1",
+          "SecondTeamText": "Winner of Match 2",
+          "FullName": "Match 3",
+          "ShortName": "M3",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "Loser of Match 2",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -61719,
+          "Court": {
+            "CourtId": -50026,
+            "Name": "North 21",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50026"
+          },
+          "ScheduledStartDateTime": "2025-06-28T13:00:00",
+          "ScheduledEndDateTime": "2025-06-28T13:59:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 0.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "3rd-R3G3Q",
+            "SecondTeamText": "Loser of R3G3XO3M1",
+            "FullName": "Match 1",
+            "ShortName": "M1",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "4th-R3G3Q (16 Elite)",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -61720,
+            "Court": {
+              "CourtId": -50026,
+              "Name": "North 21",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50026"
+            },
+            "ScheduledStartDateTime": "2025-06-28T11:00:00",
+            "ScheduledEndDateTime": "2025-06-28T11:59:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 9.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "4th-R3G3Q",
+            "SecondTeamText": "Loser of R3G3XO2M1",
+            "FullName": "Match 2",
+            "ShortName": "M2",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 1",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -61721,
+            "Court": {
+              "CourtId": -50026,
+              "Name": "North 21",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50026"
+            },
+            "ScheduledStartDateTime": "2025-06-28T12:00:00",
+            "ScheduledEndDateTime": "2025-06-28T12:59:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4GarnM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4GarnM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4GarnM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4GarnM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -61718,
+    "FullName": "Garnet Division",
+    "ShortName": "Garn",
+    "CompleteShortName": "R4Garn",
+    "CompleteFullName": "Round 4 Garnet Division",
+    "Order": 11,
+    "Courts": [
+      {
+        "CourtId": -50026,
+        "Name": "North 21",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50026"
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 1.0,
+        "Y": 3.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 1",
+          "SecondTeamText": "Winner of Match 2",
+          "FullName": "Match 3",
+          "ShortName": "M3",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "Loser of Match 2",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -61723,
+          "Court": {
+            "CourtId": -50122,
+            "Name": "South 117",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50122"
+          },
+          "ScheduledStartDateTime": "2025-06-28T13:30:00",
+          "ScheduledEndDateTime": "2025-06-28T14:29:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 0.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "1st-R3G4U",
+            "SecondTeamText": "2nd-R3G4T",
+            "FullName": "Match 1",
+            "ShortName": "M1",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "2nd-R3G4U (16 Elite)",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -61724,
+            "Court": {
+              "CourtId": -50122,
+              "Name": "South 117",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50122"
+            },
+            "ScheduledStartDateTime": "2025-06-28T11:30:00",
+            "ScheduledEndDateTime": "2025-06-28T12:29:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 9.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "2nd-R3G4U",
+            "SecondTeamText": "1st-R3G4T",
+            "FullName": "Match 2",
+            "ShortName": "M2",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 1",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -61725,
+            "Court": {
+              "CourtId": -50122,
+              "Name": "South 117",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50122"
+            },
+            "ScheduledStartDateTime": "2025-06-28T12:30:00",
+            "ScheduledEndDateTime": "2025-06-28T13:29:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4TopazM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4TopazM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4TopazM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4TopazM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -61722,
+    "FullName": "Topaz Division",
+    "ShortName": "Topaz",
+    "CompleteShortName": "R4Topaz",
+    "CompleteFullName": "Round 4 Topaz Division",
+    "Order": 12,
+    "Courts": [
+      {
+        "CourtId": -50122,
+        "Name": "South 117",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50122"
+      }
+    ]
+  },
+  {
+    "Roots": [
+      {
+        "Key": 0,
+        "X": 1.0,
+        "Y": 3.0,
+        "Reversed": false,
+        "DoubleCapped": false,
+        "Match": {
+          "FirstTeam": null,
+          "SecondTeam": null,
+          "FirstTeamText": "Winner of Match 1",
+          "SecondTeamText": "Winner of Match 2",
+          "FullName": "Match 3",
+          "ShortName": "M3",
+          "HasScores": false,
+          "FirstTeamWon": false,
+          "SecondTeamWon": false,
+          "Sets": [
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": false
+            },
+            {
+              "FirstTeamScore": null,
+              "SecondTeamScore": null,
+              "ScoreText": "",
+              "IsDecidingSet": true
+            }
+          ],
+          "WorkTeam": null,
+          "WorkTeamText": "Loser of Match 2",
+          "TypeOfOutcome": 0,
+          "FirstTeamWorkTeamCourtAssignmentFlag": 0,
+          "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+          "MatchId": -64860,
+          "Court": {
+            "CourtId": -50058,
+            "Name": "North 53",
+            "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50058"
+          },
+          "ScheduledStartDateTime": "2025-06-28T12:30:00",
+          "ScheduledEndDateTime": "2025-06-28T13:29:59.9999999"
+        },
+        "TopSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 0.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "3rd-R3G4U",
+            "SecondTeamText": "4th-R3G4T",
+            "FullName": "Match 1",
+            "ShortName": "M1",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "4th-R3G4U (16 Elite)",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 8,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -64861,
+            "Court": {
+              "CourtId": -50058,
+              "Name": "North 53",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50058"
+            },
+            "ScheduledStartDateTime": "2025-06-28T10:30:00",
+            "ScheduledEndDateTime": "2025-06-28T11:29:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        },
+        "BottomSource": {
+          "Key": 0,
+          "X": 0.0,
+          "Y": 9.0,
+          "Reversed": false,
+          "DoubleCapped": false,
+          "Match": {
+            "FirstTeam": null,
+            "SecondTeam": null,
+            "FirstTeamText": "4th-R3G4U",
+            "SecondTeamText": "3rd-R3G4T",
+            "FullName": "Match 2",
+            "ShortName": "M2",
+            "HasScores": false,
+            "FirstTeamWon": false,
+            "SecondTeamWon": false,
+            "Sets": [
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": false
+              },
+              {
+                "FirstTeamScore": null,
+                "SecondTeamScore": null,
+                "ScoreText": "",
+                "IsDecidingSet": true
+              }
+            ],
+            "WorkTeam": null,
+            "WorkTeamText": "Loser of Match 1",
+            "TypeOfOutcome": 0,
+            "FirstTeamWorkTeamCourtAssignmentFlag": 9,
+            "SecondTeamWorkTeamCourtAssignmentFlag": 8,
+            "MatchId": -64862,
+            "Court": {
+              "CourtId": -50058,
+              "Name": "North 53",
+              "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50058"
+            },
+            "ScheduledStartDateTime": "2025-06-28T11:30:00",
+            "ScheduledEndDateTime": "2025-06-28T12:29:59.9999999"
+          },
+          "TopSource": null,
+          "BottomSource": null
+        }
+      }
+    ],
+    "PlayType": 1,
+    "BracketNotes": "",
+    "FutureRoundMatches": [
+      {
+        "RankText": "1 - Winner of R4OpalM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "2 - Loser of R4OpalM3",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "3 - Loser of R4OpalM2",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      },
+      {
+        "RankText": "4 - Loser of R4OpalM1",
+        "Match": null,
+        "WorkMatch": null,
+        "Play": null,
+        "WorkTeamAssignmentDecided": true,
+        "NextPendingReseed": false
+      }
+    ],
+    "ExtraWorkAssignments": null,
+    "Type": 1,
+    "PlayId": -61726,
+    "FullName": "Opal Division",
+    "ShortName": "Opal",
+    "CompleteShortName": "R4Opal",
+    "CompleteFullName": "Round 4 Opal Division",
+    "Order": 13,
+    "Courts": [
+      {
+        "CourtId": -50058,
+        "Name": "North 53",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50058"
+      }
+    ]
+  }
+]

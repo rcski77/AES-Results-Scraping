@@ -1,0 +1,249 @@
+{
+  "Pool": {
+    "Teams": [
+      {
+        "TeamId": null,
+        "TeamName": null,
+        "TeamCode": "",
+        "TeamText": "4th-R3G4MM",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": null,
+        "Division": null,
+        "SearchableTeamName": null,
+        "BidIdentification": null
+      },
+      {
+        "TeamId": null,
+        "TeamName": null,
+        "TeamCode": "",
+        "TeamText": "4th-R3G4LL",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": null,
+        "Division": null,
+        "SearchableTeamName": null,
+        "BidIdentification": null
+      },
+      {
+        "TeamId": null,
+        "TeamName": null,
+        "TeamCode": "",
+        "TeamText": "4th-R3G4NN",
+        "MatchesWon": 0,
+        "MatchesLost": 0,
+        "MatchPercent": "NaN",
+        "SetsWon": 0,
+        "SetsLost": 0,
+        "SetPercent": "NaN",
+        "PointRatio": "NaN",
+        "FinishRank": null,
+        "OverallRank": null,
+        "FinishRankText": "",
+        "Club": null,
+        "Division": null,
+        "SearchableTeamName": null,
+        "BidIdentification": null
+      }
+    ],
+    "PlayType": 0,
+    "MatchDescription": "2 of 3 to 25(15)",
+    "Notes": "",
+    "Type": 0,
+    "PlayId": -64430,
+    "FullName": "Zircon Division",
+    "ShortName": "Zirc",
+    "CompleteShortName": "R4Zirc",
+    "CompleteFullName": "Round 4 Zircon Division",
+    "Order": 0,
+    "Courts": [
+      {
+        "CourtId": -50114,
+        "Name": "South 109",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50114"
+      }
+    ]
+  },
+  "Matches": [
+    {
+      "FirstTeamId": null,
+      "FirstTeamName": null,
+      "FirstTeamWon": false,
+      "FirstTeamText": "4th-R3G4MM",
+      "SecondTeamId": null,
+      "SecondTeamName": null,
+      "SecondTeamWon": false,
+      "SecondTeamText": "4th-R3G4NN",
+      "MatchFullName": "Match 1",
+      "MatchShortName": "M1",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": null,
+      "WorkTeamText": "4th-R3G4LL (16 Classic)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 2,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -64439,
+      "Court": {
+        "CourtId": -50114,
+        "Name": "South 109",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50114"
+      },
+      "ScheduledStartDateTime": "2025-06-28T11:30:00",
+      "ScheduledEndDateTime": "2025-06-28T12:29:59"
+    },
+    {
+      "FirstTeamId": null,
+      "FirstTeamName": null,
+      "FirstTeamWon": false,
+      "FirstTeamText": "4th-R3G4LL",
+      "SecondTeamId": null,
+      "SecondTeamName": null,
+      "SecondTeamWon": false,
+      "SecondTeamText": "4th-R3G4NN",
+      "MatchFullName": "Match 2",
+      "MatchShortName": "M2",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": null,
+      "WorkTeamText": "4th-R3G4MM (16 Classic)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 2,
+      "MatchId": -64440,
+      "Court": {
+        "CourtId": -50114,
+        "Name": "South 109",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50114"
+      },
+      "ScheduledStartDateTime": "2025-06-28T12:30:00",
+      "ScheduledEndDateTime": "2025-06-28T13:29:59"
+    },
+    {
+      "FirstTeamId": null,
+      "FirstTeamName": null,
+      "FirstTeamWon": false,
+      "FirstTeamText": "4th-R3G4MM",
+      "SecondTeamId": null,
+      "SecondTeamName": null,
+      "SecondTeamWon": false,
+      "SecondTeamText": "4th-R3G4LL",
+      "MatchFullName": "Match 3",
+      "MatchShortName": "M3",
+      "HasScores": false,
+      "Sets": [
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": false
+        },
+        {
+          "FirstTeamScore": null,
+          "SecondTeamScore": null,
+          "ScoreText": "",
+          "IsDecidingSet": true
+        }
+      ],
+      "WorkTeamId": null,
+      "WorkTeamText": "4th-R3G4NN (16 Classic)",
+      "TypeOfOutcome": 0,
+      "FirstTeamWorkTeamCourtAssignmentFlag": 1,
+      "SecondTeamWorkTeamCourtAssignmentFlag": 0,
+      "MatchId": -64441,
+      "Court": {
+        "CourtId": -50114,
+        "Name": "South 109",
+        "VideoLink": "https://www.ballertv.com/streams?aes_event_id=40312&aes_court_id=-50114"
+      },
+      "ScheduledStartDateTime": "2025-06-28T13:30:00",
+      "ScheduledEndDateTime": "2025-06-28T14:29:59"
+    }
+  ],
+  "FutureRoundMatches": [
+    {
+      "RankText": "1 - 1st-R4Zirc",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "2 - 2nd-R4Zirc",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    },
+    {
+      "RankText": "3 - 3rd-R4Zirc",
+      "Match": null,
+      "WorkMatch": null,
+      "Play": null,
+      "WorkTeamAssignmentDecided": true,
+      "NextPendingReseed": false
+    }
+  ]
+}
