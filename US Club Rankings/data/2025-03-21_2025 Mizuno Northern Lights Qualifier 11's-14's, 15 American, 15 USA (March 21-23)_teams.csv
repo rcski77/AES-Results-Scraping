@@ -1,0 +1,541 @@
+11 National,1,Dynasty 11 Black,g11tmdyn1ha
+11 National,2,MADFROG 11 NATIONAL GREEN,g11frogs1nt
+11 National,3,MAVS KC 11 Elite,g11mavbc1ha
+11 National,3,Skyline 11 Royal,g11skyln1nt
+11 National,5,PVA 11 Elite,g11pvakc1ha
+11 National,5,Premier Nebraska 11 Gold,g11premr1gp
+11 National,7,Nebraska ONE 11  Boom,g11neone1gp
+11 National,8,SG ELITE 11 Roshambo,g11sgelt1sc
+11 National,9,Mizuno Northern Lights 11-1,g11nlite1no
+11 National,9,KC Power 11 Mendenhall,g11power1ha
+11 National,11,Nebraska Elite 11 Purple Stars,g11elite1gp
+11 National,11,TX LEGACY 11 ELITE,g11tlgcy1ls
+11 National,13,Arete 11 Navy Telos,g11arete1nt
+11 National,14,Premier Nebraska 11 Black,g11premr2gp
+11 National,15,MN Select 11-1,g11mnsel1no
+11 National,15,Iowa United 111 Elite,g11iautd1ia
+11 National,17,TX432 11 Black,g11txftt1su
+11 National,18,Mizuno Northern Lights 10-1,g10nlite1no
+11 National,19,TEJAS 11 Black Josh,g11tejas1nt
+11 National,19,Mizuno Northern Lights 11-2,g11nlite2no
+12 American,1,LV 12 Team Rox,g12laver1ls
+12 American,2,Nebraska ONE 12 Thunder,g12neone1gp
+12 American,3,Dynasty 12 Blue,g12tmdyn2ha
+12 American,3,Heat 12 Red,g12heava1ls
+12 American,5,CVA 12U-Carlson,g12centl1ia
+12 American,5,Premier Nebraska 12 Red,g12premr3gp
+12 American,5,TX LEGACY 12 ELITE,g12tlgcy1ls
+12 American,5,South Central NE 12 Black,g12socen1gp
+12 American,9,PowerPlex 12U Aspinwall,g12pwrpx1ia
+12 American,9,ATHENAVB 12 Gold,g12athen1ce
+12 American,11,KC Power 12 Corneliusen,g12power2ha
+12 American,12,EXCEL 12 National Blue,g12excel3nt
+12 American,13,Nebraska Elite 12 Mamba,g12elite2gp
+12 American,13,CVA 12 Black,g12cvata1rm
+12 American,15,Iowa United 121 Elite,g12iautd1ia
+12 American,16,MKE Sting 12 Black,g12mlwst2bg
+12 American,17,305VBC 12N Alan,g12three1fl
+12 American,18,DCVC 12U National,g12dwlng1ia
+12 American,18,Iowa United 122 Elite,g12iautd2ia
+12 American,20,Premier Nebraska 12 Silver,g12premr4gp
+12 American,21,Mizuno Northern Lights 12-2,g12nlite2no
+12 American,22,Club Legacy 12 Alpha,g12lgacy1gp
+12 American,23,Momentum 12 Reven,g12momen1rm
+12 American,23,AVC 12-1,g12alxvb1no
+12 American,25,TEJAS 12 Black Abbey,g12tejas2nt
+12 American,26,MAVS KC 12 Premier,g12mavbc3ha
+12 American,27,Kairos 12 Gamma,g12kairo3no
+12 American,28,TX LEGACY 12 ADIDAS,g12tlgcy2ls
+12 American,28,Vital 12-1 Gold,g12vital1no
+12 American,30,Dallas Premier 12 Black,g12premr1nt
+12 American,31,Mizuno Northern Lights 12-B,g12nlite3no
+12 American,32,MN Select 12-2,g12mnsel2no
+12 American,33,1W Bay 12 National,g12onewi1bg
+12 American,33,Club Legacy 12 Charlie,g12lgacy3gp
+12 American,35,Victory 12 Elite Green,g12vctry2nt
+12 American,36,Kairos 12 Delta,g12kairo4no
+12 American,37,Volt 12 Open,g12wfrgo1no
+12 American,38,FC Elite 12 Navy,g12fceli1bg
+12 American,38,Volt 12 Regional,g12wfrgo2no
+12 American,40,Mizuno M1 121,g12m1vbc1no
+12 National,1,AP 12 adidas,g12aperf1ls
+12 National,2,Excel 12 National Red,g12excel1nt
+12 National,3,MAVS KC 12 Elite,g12mavbc1ha
+12 National,4,TAV 12 Black,g12txadv1nt
+12 National,5,Premier Nebraska 12 Gold,g12premr1gp
+12 National,6,MKE Sting 12 Gold,g12mlwst1bg
+12 National,7,Mizuno Northern Lights 12-1,g12nlite1no
+12 National,8,MAVS KC 12 National,g12mavbc2ha
+12 National,9,Kairos 12 Alpha,g12kairo1no
+12 USA,1,OP2 12-1 EP,g12op2vb1ok
+12 USA,2,Arete 12 Navy Telos,g12arete1nt
+12 USA,3,Houston Skyline 12 Royal,g12hosky1ls
+12 USA,4,PVA 12 ELITE,g12pvakc1ha
+12 USA,5,SA Juniors 12 Adidas,g12sajvb1ls
+12 USA,5,KC Power 12 Martincich,g12power1ha
+12 USA,7,Invasion 12-White,g12invas3ha
+12 USA,8,1United 12N White,g121unvb2nt
+12 USA,9,Pohaku 12-1,g12pohak1ha
+12 USA,9,TX432 12 Black,g12txftt1su
+12 USA,11,TX STORM 12 SMACK,g12txsva1su
+12 USA,11,HJV 12 Elite,g12houjr1ls
+12 USA,13,TEJAS 12 Black Mauro,g12tejas1nt
+12 USA,14,Premier Nebraska 12 Black,g12premr2gp
+12 USA,15,Kairos 12 Beta,g12kairo2no
+12 USA,15,MN Select 12-1,g12mnsel1no
+12 USA,17,Integrity 12 Intense Blue,g12integ1nt
+12 USA,17,Kokoro Volleyball 12-1,g12kokro1no
+12 USA,17,Flyers 12 USA-David,g12frfly2nt
+13 American,1,305VBC 13N Christian,g13three1fl
+13 American,2,SVC 13 Chamberlain,g13sxlnd1gp
+13 American,3,PVA 13 National,g13pvakc2ha
+13 American,3,OT 13 O Christian,g13otbva4fl
+13 American,5,OT 13 T Liz,g13otbva5fl
+13 American,5,Club Fusion 131 National,g13fsion1gl
+13 American,5,CNVKC Mizuno 13Coach Ib,g13cnvkc1ha
+13 American,5,Kairos 13 Gamma,g13kairo3no
+13 American,9,Dynasty 13 Gold,g13tmdyn3ha
+13 American,9,KW Revolution 13 Elite,g13krvbc1ls
+13 American,9,Premier Nebraska 13 Silver,g13premr4gp
+13 American,9,1United 13N Black,g131unvb3nt
+13 American,9,STORM 13N Black,g13storm1nt
+13 American,9,Rockwood Thunder 13 White,g13rwdth3gw
+13 American,15,The EDGE 13 Walter,g13theed1rm
+13 American,16,ATHENAVB 13 Black,g13athen2ce
+13 American,17,MKE Sting 13 Silver,g13mlwst4bg
+13 American,17,VOLT 13-2 Open,g13wfrgo2no
+13 American,19,SA Juniors 13 National,g13sajvb2ls
+13 American,19,Banzai VBC 13 Select,g13bnzai1gp
+13 American,19,Integrity 13 Intense Red,g13integ2nt
+13 American,22,Mizuno M1 131,g13m1vbc1no
+13 American,23,Momentum 13 Celeste,g13momen1rm
+13 American,24,Nebraska ONE 13 Kryptonite,g13neone2gp
+13 American,24,Club Legacy 13 Bravo,g13lgacy2gp
+13 American,26,Dynasty 13 Gray,g13tmdyn4ha
+13 American,26,Iowa United 132 Elite,g13iautd2ia
+13 American,26,Elevation 13 Ascent,g13elevb3rm
+13 American,29,Nebraska Elite 13 Chaos,g13elite2gp
+13 American,30,TX LEGACY 13 NATIONAL,g13tlgcy3ls
+13 American,31,1United 13Elite White,g131unvb5nt
+13 American,31,1W Bay 13 National,g13onewi1bg
+13 American,33,Mizuno Northern Lights 13-R,g13nlite4no
+13 American,33,SA Juniors 13 Baden,g13sajvb3ls
+13 American,35,Rockwood Thunder 13 Carolina,g13rwdth4gw
+13 American,36,Mission 13 Elite,g13missn1gl
+13 American,37,TEJAS 13 Red Ariel,g13tejas3nt
+13 American,37,MN Select 13-3,g13mnsel3no
+13 American,39,Mizuno M1 132,g13m1vbc2no
+13 American,39,AVC 13-1,g13alxvb1no
+13 American,41,AP 13 Black,g13aperf3ls
+13 American,42,Vital 13-2 Royal,g13vital2no
+13 American,43,Club Fusion 132 National,g13fsion2gl
+13 American,43,Victory 13 Elite Gray,g13vctry3nt
+13 American,45,Flyer 13 USA-Heather,g13frfly4nt
+13 American,45,TX432 13 Gold,g13txftt2su
+13 American,47,Excel 13 National Gold,g13excel4nt
+13 American,48,Flyers 13 NAT-AlanA,g13frfly6nt
+13 American,49,U13 Empire Black,g13empir1no
+13 American,49,U13 Empire Blue,g13empir2no
+13 Liberty,1,SA Juniors 13 Adidas,g13sajvb1ls
+13 Liberty,2,TX LEGACY 13 ELITE,g13tlgcy1ls
+13 Liberty,3,Mizuno Club North 13Ang,g13cnvbc1ha
+13 Liberty,4,KC Power 13 Worsham,g13power2ha
+13 Liberty,5,Dynasty 13 Blue,g13tmdyn2ha
+13 Liberty,5,STVA 13 Mizuno,g13stvac1ls
+13 Liberty,5,MAVS KC 13 National,g13mavbc2ha
+13 Liberty,5,LAVBC Surf-Black,g13lavbc1sc
+13 Liberty,9,Iowa United 131 Elite,g13iautd1ia
+13 Liberty,10,Kairos 13 Beta,g13kairo2no
+13 Liberty,11,Victory 13 National Green,g13vctry2nt
+13 Liberty,11,VCN 13 Black,g13vcneb2gp
+13 Liberty,13,MKE Sting 13 White,g13mlwst3bg
+13 Liberty,14,EXCEL 13 National Blue,g13excel3nt
+13 Liberty,15,TAV 13 Gold,g13txadv3nt
+13 Liberty,15,FC Elite 13 White,g13fceli2bg
+13 Liberty,17,AZ REV 13 Elite,g13revol2az
+13 Liberty,18,Mizuno Northern Lights 13-B,g13nlite3no
+13 Liberty,19,Premier Nebraska 13 Red,g13premr3gp
+13 Liberty,19,CTX Slam 13-1 National,g13ctxsl1ls
+13 Liberty,21,Elevation 13 Timberline,g13elevb2rm
+13 Liberty,21,MN Select 13-2,g13mnsel2no
+13 Liberty,23,Colorado Juniors 13 Emily,g13cojrs2rm
+13 Liberty,24,Vital 13-1 Gold,g13vital1no
+13 Liberty,25,Crossfire 13-1,g13crsfr1no
+13 Liberty,25,MVP 13 BLUE,g13motvp1bg
+13 Liberty,27,Arete 13 Navy,g13arete3nt
+13 Liberty,27,CVA 13 Black,g13cvata1rm
+13 Open,1,1United 13N Blue,g131unvb1nt
+13 Open,2,Dynasty 13 Black,g13tmdyn1ha
+13 Open,3,Top Select 13 Elite,g13tsvba1fl
+13 Open,4,Mizuno Northern Lights 13-1,g13nlite1no
+13 Open,5,MAVS KC 13 Elite,g13mavbc1ha
+13 Open,6,VCN 13 Elite,g13vcneb1gp
+13 Open,7,Pohaku 13-1,g13pohak1ha
+13 Open,7,MKE Sting 13 Gold,g13mlwst1bg
+13 Open,9,AZ REV 13 Premier,g13revol1az
+13 Open,10,Premier Nebraska 13 Gold,g13premr1gp
+13 Open,11,GP 13 Rox,g13gpont1fl
+13 Open,11,HJV 13 Elite,g13houjr1ls
+13 Open,13,FC Elite 13 Navy,g13fceli1bg
+13 Open,14,Kairos 13 Alpha,g13kairo1no
+13 Open,15,Elevation 13 Peak,g13elevb1rm
+13 Open,15,Kokoro Volleyball 13-1,g13kokro1no
+13 USA,1,OT 13 O TJ,g13otbva2fl
+13 USA,2,Nebraska ONE 13 Apex,g13neone1gp
+13 USA,3,MKE Sting 13 Black,g13mlwst2bg
+13 USA,3,Tx Performnace 13 Black,g13tpfep1su
+13 USA,5,PVA 13 ELITE,g13pvakc1ha
+13 USA,5,Excel 13 National White,g13excel2nt
+13 USA,7,OP2 13-1 EP,g13op2vb1ok
+13 USA,8,Premier Nebraska 13 Black,g13premr2gp
+13 USA,9,AP 13 adidas,g13aperf1ls
+13 USA,9,Colorado Juniors 13 Tammy,g13cojrs1rm
+13 USA,11,Nebraska Elite 13 Thunder,g13elite1gp
+13 USA,11,Volt 13 Open,g13wfrgo1no
+13 USA,13,H. Skyline TW 13 Royal,g13twsky1ls
+13 USA,14,Houston Skyline 13 Black,g13hosky2ls
+13 USA,15,TAV 13 Blue,g13txadv2nt
+13 USA,15,Six Pack 13U,g13sixpk1ia
+13 USA,17,Mizuno Northern Lights 13-2,g13nlite2no
+13 USA,18,Fusion Elite 13U,g13eglsl1ia
+13 USA,19,MN Select 13-1,g13mnsel1no
+13 USA,19,Sanford Sports 13 Red,g13pntgn1no
+14 American,1,Lake Nona 14 Willie,g14spart1fl
+14 American,2,Nebraska Elite 14 Lokahi,g14elite2gp
+14 American,3,Pohaku 14-1,g14pohak1ha
+14 American,3,Prime 14 adidas O,g14prime1sc
+14 American,5,SA Juniors 14 National,g14sajvb2ls
+14 American,5,Heat 14 Red,g14heava1ls
+14 American,5,KC Power 14 Wells,g14power4ha
+14 American,5,PVA 14 National,g14pvakc2ha
+14 American,9,MKE Sting 14 Silver,g14mlwst4bg
+14 American,9,STVA 14 Navy,g14stvac2ls
+14 American,9,Premier Nebraska 14 Silver,g14premr4gp
+14 American,9,Kairos 14 Delta,g14kairo4no
+14 American,9,Rockwood Thunder 14 White,g14rwdth3gw
+14 American,9,AVC 14 Blue,g14avcne1gp
+14 American,9,Mizuno Northern Lights 14-W,g14nlite5no
+14 American,9,AVC 14-1,g14alxvb1no
+14 American,17,Elevation 14 Ascent,g14elevb3rm
+14 American,17,GP 14 Premier,g14gpont2fl
+14 American,19,Invasion 14-Blue,g14invas2ha
+14 American,19,ATOMIC 14 Smack Elite,g14atomc2az
+14 American,20,CLUB 43 U141,g14clb431no
+14 American,20,MADFROG 14 ELITE GREEN,g14frogs4nt
+14 American,20,FVA 14-2,g14fness2gw
+14 American,20,Kairos 14 White,g14kairo5no
+14 American,25,VCN 14 Blue,g14vcneb3gp
+14 American,25,Iowa United 143 Elite,g14iautd3ia
+14 American,25,Alpha Omega 14 National,g14ccomo1ha
+14 American,28,MN North 14-1 Navy,g14minno1no
+14 American,28,Premier Nebraska 14 White,g14premr5gp
+14 American,28,Mizuno M1 141,g14m1vbc1no
+14 American,29,Nebraska Elite 14 Victor,g14elite3gp
+14 American,29,Dallas Premier 14 Red,g14premr3nt
+14 American,29,SWMNVB 14-1,g14swmnv1no
+14 American,29,SOUTH SHORE 14 MIZUNO,g14ssjrs1ls
+14 American,29,OVBC 14 Purple,g14ocono1bg
+14 American,29,Building Champions 14 Navy,g14champ1ha
+14 American,37,PowerPlex 14U Farrell,g14pwrpx2ia
+14 American,37,MAVS KC 14 Regional,g14mavbc4ha
+14 American,37,913Athletics 14Black,g14ncath2ha
+14 American,40,Club Legacy 14 Bravo,g14lgacy2gp
+14 American,40,CNVKC Mizuno 14Deardin,g14cnvkc1ha
+14 American,40,STORM 14N Black,g14storm1nt
+14 American,41,360 14 Kaos Red,g14sixty2nt
+14 American,41,Rockwood Thunder 14 Carolina,g14rwdth4gw
+14 American,41,RVA G14 Pink,g14rvawi2bg
+14 American,41,MN Select 14-Gray,g14mnsel5no
+14 American,41,Ridgeland Reds 14,g14rreds1bg
+14 American,41,MVP 14 SILVER,g14motvp2bg
+14 American,49,Mizuno Northern Lights 14-R,g14nlite4no
+14 American,49,Sanford Sports 14 Black,g14pntgn2no
+14 American,49,Club Fusion 14-1 National,g14fsion1gl
+14 American,52,The EDGE 14 Erika,g14theed1rm
+14 American,52,Sanford Fargo 14-Black,g14sumit2no
+14 American,52,SA Juniors 14 Baden,g14sajvb3ls
+14 American,53,TX432 14 Gold,g14txftt2su
+14 American,53,MN Select 14-Black,g14mnsel4no
+14 American,53,AP 14 Black,g14aperf3ls
+14 American,53,Arete 14 Steel,g14arete5nt
+14 American,53,TCVA 14 BLACK ADIDAS,g14trico2ls
+14 American,53,305VBC 14N Bruno,g14three2fl
+14 American,61,Mizuno Northern Lights 14-X,g14nlite6no
+14 American,61,AP 14 Neon,g14aperf4ls
+14 American,61,Building Champions 14 Gold,g14champ2ha
+14 American,64,FRVBC 14 Red,g14frvbc2rm
+14 American,64,Mission 14 Elite,g14missn1gl
+14 American,64,MN North 14-1 Red,g14minno2no
+14 American,65,U14 Empire Black,g14empir1no
+14 American,65,1United 14Elite White,g141unvb5nt
+14 American,65,Vision 14 EXV White,g14vivbc3nt
+14 American,65,TEJAS 14 Red Kurtis,g14tejas4nt
+14 American,65,Sanford Fargo 14-White,g14sumit3no
+14 American,65,Prime 14 adidas G,g14prime2sc
+14 American,73,Kairos 14 Black,g14kairo6no
+14 American,73,Vital 14-2 Royal,g14vital2no
+14 American,73,STVA 14 Red,g14stvac3ls
+14 American,76,TAV 14 Silver,g14txadv4nt
+14 American,76,Mizuno M1 142,g14m1vbc2no
+14 American,76,Mizuno M1 143,g14m1vbc3no
+14 American,77,Club Fusion 14-2 National,g14fsion2gl
+14 American,77,CR SURGE VBC U14,g14crpsr1ia
+14 American,77,Spiketown 14.1,g14sptwn1bg
+14 American,77,Vision 14 EXV Black,g14vivbc2nt
+14 American,77,Momentum 14 Angelina,g14momen2rm
+14 American,77,Prime 14 Emma,g14prime2rm
+14 American,85,Volt 14 Regional,g14wfrgo3no
+14 American,85,Catalyst 14 Green,g14catal1ls
+14 American,85,CVA 14 Navy,g14cvata2rm
+14 American,88,Freeze Volleyball ND 14 Polar,g14freez1no
+14 American,88,The EDGE 14 Imani,g14theed2rm
+14 American,88,VPJ 14 Silver,g14vproj2nt
+14 American,89,MN Select 14-Maroon,g14mnsel6no
+14 American,89,Ohana 14U National,g14ohana1ia
+14 American,89,U14 Empire Blue,g14empir2no
+14 American,89,Mizuno M1 14Blu,g14m1vbc4no
+14 American,89,Momentum 14 Taryn,g14momen3rm
+14 American,89,Vital 14-3 White,g14vital3no
+14 Liberty,1,FVA 14-1,g14fness1gw
+14 Liberty,2,Premier Nebraska 14 Red,g14premr3gp
+14 Liberty,3,TX LEGACY 14 ELITE,g14tlgcy1ls
+14 Liberty,3,MKE Sting 14 White,g14mlwst3bg
+14 Liberty,5,Nebraska ONE 14 Kasai,g14neone1gp
+14 Liberty,5,ATOMIC 14 Smack Premier,g14atomc1az
+14 Liberty,5,Dynasty 14 Blue,g14tmdyn2ha
+14 Liberty,5,360 14 Kaos Black,g14sixty1nt
+14 Liberty,9,SA Elite 141 Navy,g14saelt1ls
+14 Liberty,9,1United 14N White,g141unvb2nt
+14 Liberty,9,HJV 14 Premier,g14houjr2ls
+14 Liberty,9,VCN 14 Black,g14vcneb2gp
+14 Liberty,13,AZ REV 14 Elite,g14revol2az
+14 Liberty,14,Iowa United 142 Elite,g14iautd2ia
+14 Liberty,15,Vital 14-1 Gold,g14vital1no
+14 Liberty,15,Houston Skyline 14 White,g14hosky3ls
+14 Liberty,17,14 Elite,g14lunva1nt
+14 Liberty,17,Mizuno Northern Lights 14-B,g14nlite3no
+14 Liberty,19,Mizuno Club North 14CRB,g14cnvbc1ha
+14 Liberty,20,Kairos 14 Gamma,g14kairo3no
+14 Liberty,21,TAV 14 Gold,g14txadv3nt
+14 Liberty,21,RVA G14 Navy,g14rvawi1bg
+14 Liberty,23,1W Bay 14 National,g14onewi1bg
+14 Liberty,24,Nitro 14U Blue,g14nitro1su
+14 Liberty,25,MVP 14 BLUE,g14motvp1bg
+14 Liberty,26,FC Elite 14 White,g14fceli2bg
+14 Liberty,26,MN Select 14-3,g14mnsel3no
+14 Liberty,28,Austin Skyline 14 Black,g14askyl2ls
+14 Liberty,29,Volt 14 Open,g14wfrgo1no
+14 Liberty,30,Arsenal 14 Gold,g14davbc1nt
+14 Liberty,31,305VBC 14N Rafa,g14three1fl
+14 Liberty,31,CVC 14 National,g14cptal1no
+14 Liberty,33,Top Flight 14 Theta,g14tpflt1gl
+14 Liberty,33,Momentum 14 Zoe,g14momen1rm
+14 Liberty,33,CVA 14 Black,g14cvata1rm
+14 Liberty,33,Crossfire 14-2,g14crsfr2no
+14 Open,1,KC Power 14 Welding,g14power1ha
+14 Open,2,1United 14N Blue,g141unvb1nt
+14 Open,3,Iowa United 141 Elite,g14iautd1ia
+14 Open,4,TAV 14 Black,g14txadv1nt
+14 Open,5,Houston Skyline 14 Royal,g14hosky1ls
+14 Open,5,MAVS KC 14 Elite,g14mavbc1ha
+14 Open,7,DNVB 14 Red,g14drive1nt
+14 Open,8,HJV 14 Elite,g14houjr1ls
+14 Open,9,PVA 14 ELITE,g14pvakc1ha
+14 Open,9,MKE Sting 14 Gold,g14mlwst1bg
+14 Open,11,EXCEL 14 National Red,g14excel1nt
+14 Open,11,Kairos 14 Alpha,g14kairo1no
+14 Open,13,Premier Nebraska 14 Gold,g14premr1gp
+14 Open,14,Mizuno Northern Lights 14-1,g14nlite1no
+14 Open,15,Nebraska Elite 14 Koa,g14elite1gp
+14 Open,15,MN Select 14-1,g14mnsel1no
+14 Open,17,NORCO 14 Black,g14norco1rm
+14 Open,17,FC Elite 14 Navy,g14fceli1bg
+14 Open,17,Kokoro Volleyball 14-1,g14kokro1no
+14 USA,1,Arete 14 Navy Telos,g14arete1nt
+14 USA,2,Six Pack 14U,g14sixpk1ia
+14 USA,3,TEJAS 14 Black Mat,g14tejas1nt
+14 USA,4,Mizuno Northern Lights 14-2,g14nlite2no
+14 USA,5,MKE Sting 14 Black,g14mlwst2bg
+14 USA,5,LV 14 Team Rox,g14laver1ls
+14 USA,5,AP 14 adidas,g14aperf1ls
+14 USA,5,Austin Skyline 14 Royal,g14askyl1ls
+14 USA,9,OT 14 O Alex,g14otbva2fl
+14 USA,10,Premier Nebraska 14 Black,g14premr2gp
+14 USA,11,TAV 14 Blue,g14txadv2nt
+14 USA,11,Arete 14 Navy Ethos,g14arete2nt
+14 USA,13,SA Juniors 14 Adidas,g14sajvb1ls
+14 USA,14,Houston Skyline 14 Black,g14hosky2ls
+14 USA,15,TX432 14 Black,g14txftt1su
+14 USA,15,Victory 14 National Black,g14vctry1nt
+14 USA,17,Momentous VBC 14-1 Spencer,g14mmtsc1sc
+14 USA,18,Sanford Sports 14 Red,g14pntgn1no
+14 USA,19,VCN 14 Elite,g14vcneb1gp
+14 USA,19,SMV 14-1 Black,g14smnvb1no
+14 USA,21,Kairos 14 Beta,g14kairo2no
+14 USA,22,Kokoro Volleyball 14-2,g14kokro2no
+14 USA,23,FRVBC 14 Black,g14frvbc1rm
+14 USA,23,Sanford Fargo 14-Red,g14sumit1no
+14 USA,25,Big Sky Volleyball 14-1,g14bgsky1ev
+14 USA,26,Crossfire 14-1,g14crsfr1no
+14 USA,27,MN Select 14-2,g14mnsel2no
+14 USA,27,Elevation 14 Timberline,g14elevb2rm
+14 USA,29,Dallas Premier 14 Black,g14premr1nt
+14 USA,30,H Skyline TW 14 Royal,g14twsky1ls
+14 USA,31,ACE 14-1,g14aceat1no
+14 USA,31,Banzai VBC 14 Select,g14bnzai1gp
+15 American,1,PowerPlex 15U Jackson,g15pwrpx1ia
+15 American,2,CNVKC Mizuno 15Janell/Ib,g15cnvkc1ha
+15 American,3,MADFROG 15 ELITE GREEN,g15frogs4nt
+15 American,3,SOUTH SHORE 15 MIZUNO,g15ssjrs1ls
+15 American,5,Houston Skyline 15 Silver,g15hosky4ls
+15 American,5,KW Revolution 15 Elite,g15krvbc1ls
+15 American,5,Club Legacy 15 Alpha,g15lgacy1gp
+15 American,5,North Point 15 National,g15norpt1nt
+15 American,9,15 Elite,g15katst1ls
+15 American,9,PowerPlex 15U Mueller,g15pwrpx2ia
+15 American,9,Mizuno Northern Lights 15-R,g15nlite4no
+15 American,9,MKE Sting 15 Silver,g15mlwst4bg
+15 American,9,VCN 15 Blue,g15vcneb3gp
+15 American,9,573 Missouri Juniors 15 Sarah,g15colee1ha
+15 American,9,913Athletics 15Black,g15ncath2ha
+15 American,9,Spiketown 15.1,g15sptwn1bg
+15 American,17,Mizuno M1 151,g15m1vbc1no
+15 American,17,MAVS KC 15 Premier,g15mavbc3ha
+15 American,17,Manhattan Mayhem 15P,g15mhkvb1ha
+15 American,17,Iowa United 152 Elite,g15iautd2ia
+15 American,21,Rockwood Thunder 15 Carolina,g15rwdth4gw
+15 American,21,Dallas Premier 15 Crimson,g15premr2nt
+15 American,21,Mizuno M1 152,g15m1vbc2no
+15 American,21,Five Starz 15-1 April,g15fives1nc
+15 American,22,LV 15 Team Rox,g15laver1ls
+15 American,22,CSA 15 Navy,g15csalt1rm
+15 American,22,SWMNVB 15-1,g15swmnv1no
+15 American,22,Kairos 15 Delta,g15kairo4no
+15 American,22,Premier Nebraska 15 Silver,g15premr4gp
+15 American,22,Kokoro Volleyball 15-2,g15kokro2no
+15 American,22,Volt 15-2,g15wfrgo2no
+15 American,22,Kairos 15 Gamma,g15kairo3no
+15 American,33,360 15 Kaos Black,g15sixty1nt
+15 American,33,Summit VC 15 National,g15summt1ha
+15 American,33,Mizuno Northern Lights 15-W,g15nlite5no
+15 American,33,Muscle 15 Green,g15musvb2nt
+15 American,37,Club Fusion 152 National,g15fsion2gl
+15 American,37,Dynasty 15 Gold,g15tmdyn3ha
+15 American,37,Invasion 15-Blue,g15invas2ha
+15 American,37,Mizuno Northern Lights 15-X,g15nlite6no
+15 American,38,MN Select 15-Black,g15mnsel4no
+15 American,38,NMB Volleyball Academy,g15nmbvb1fl
+15 American,38,Club Fusion 153 National,g15fsion3gl
+15 American,38,ATOMIC 15 Smack Elite,g15atomc2az
+15 American,38,Heat 15 Black,g15heava2ls
+15 American,38,Alpha Omega 15 National,g15ccomo2ha
+15 American,38,Ignite 15 Blaze,g15ignit1ls
+15 American,38,Inspired Athletics 15N,g15inspr2no
+15 American,49,Nebraska Elite 15 Heat,g15elite3gp
+15 American,49,Club Legacy 15 Bravo,g15lgacy2gp
+15 American,49,Prime 15 adidas G,g15prime2sc
+15 American,49,Peak VA 15 Blue,g15pevba2nt
+15 American,53,Iowa Impact 152 Elite,g15impct2ia
+15 American,53,Katy United 15 Adidas,g15katuv1ls
+15 American,53,Sanford Sports 15 Black,g15pntgn2no
+15 American,53,CVBCExpressRed15U,g15cascd1ia
+15 American,54,MN Select 15-Maroon,g15mnsel6no
+15 American,54,OT 15 T Kesha,g15otbva7fl
+15 American,54,Nebraska ONE 15 Black,g15neone2gp
+15 American,54,Dallas Premier 15 Red C,g15premr3nt
+15 American,54,Ridgeland Reds 15,g15rreds1bg
+15 American,54,Midwest Blitz 15-1,g15mwblz1ha
+15 American,54,Freeze Volleyball ND 15 Polar,g15freez1no
+15 American,54,CR SURGE VBC U15,g15crpsr1ia
+15 American,65,AP 15 Black,g15aperf3ls
+15 American,65,AZ REV 15 Black,g15revol3az
+15 American,65,SA Juniors 15 National,g15sajvb2ls
+15 American,68,Sting United 15 Red,g15mlwst5bg
+15 American,68,Metro Performance 15 Black,g15mprvb1ha
+15 American,68,United 15-Farhad,g15unite11sc
+15 American,69,VCN 15 White,g15vcneb4gp
+15 American,69,Vision 15 EXV Black,g15vivbc2nt
+15 American,69,AP 15 Neon,g15aperf4ls
+15 American,69,SOUTH SHORE 15 RED,g15ssjrs2ls
+15 American,69,Iowa United 153 Elite,g15iautd3ia
+15 American,69,305VBC 15N Carlos,g15three2fl
+15 American,71,Topeka Saints 15 Navy,g15tsnts2ha
+15 American,71,MVP 15 SILVER,g15motvp2bg
+15 American,71,AVC 15-1,g15alxvb1no
+15 American,80,SKC 15-1,g15skcjr1ha
+15 American,80,1United 15Elite Blue,g151unvb4nt
+15 American,80,Texas Hitters 15 Storm,g15hitvb1nt
+15 American,83,Nebraska ONE 15 Lime,g15neone3gp
+15 American,83,MN Select 15-Gray,g15mnsel5no
+15 American,83,TCVA 15 WHITE ADIDAS,g15trico3ls
+15 American,84,TCVA 15 BLACK ADIDAS,g15trico2ls
+15 American,84,TX STORM 15 Chris,g15txsva2su
+15 American,84,CVA 15 Navy,g15cvata2rm
+15 American,84,DNVB 15 Black,g15drive2nt
+15 American,84,TX LEGACY 15 NATIONAL,g15tlgcy3ls
+15 American,84,MVP 15 SILVER ELITE,g15motvp3bg
+15 American,86,Mizuno M1 153,g15m1vbc3no
+15 American,86,Building Champions 15 Navy,g15champ1ha
+15 American,86,Mizuno M1 15Blu,g15m1vbc4no
+15 American,95,Momentum 15 Genna,g15momen2rm
+15 American,95,TX LEGACY 15 LIBERTY,g15tlgcy4ls
+15 American,95,STORM 15N Black,g15storm1nt
+15 American,98,Building Champions 15 Gold,g15champ2ha
+15 American,98,Flyers 15 NAT-Heather,g15frfly8nt
+15 American,98,Slam 15 Black,g15slamv1nt
+15 American,99,Vital 15-3 White,g15vital3no
+15 American,99,Momentum 15 Paige,g15momen3rm
+15 American,99,Premier VBC 15 Black,g15premi1rm
+15 American,99,THR33 15-1,g15three1ha
+15 American,99,Club Legacy 15 Charlie,g15lgacy3gp
+15 American,99,Mission 15 Elite,g15missn1gl
+15 American,101,Vital 15-5 Yellow,g15vital5no
+15 American,101,SPORTING EDGE 15 ARMOUR,g15spedg1ls
+15 American,101,SA Juniors 15 Baden,g15sajvb3ls
+15 American,110,Kairos 15 White,g15kairo5no
+15 American,110,RVC 15 Black,g15resvb1nt
+15 American,110,Ohana 15U National,g15ohana1ia
+15 American,113,FRVBC 15 White,g15frvbc3rm
+15 American,113,Highlands Performance 15-Black,g15highv1ha
+15 American,113,Top Flight 15 Sigma,g15tpflt3gl
+15 American,114,Wisconsin Premier 15 Teal,g15wprem1bg
+15 American,114,Mizuno M1 15 Wht,g15m1vbc5no
+15 American,114,Prime 15 Alejandro,g15prime3rm
+15 American,114,Crossfire 15-3,g15crsfr3no
+15 American,114,Vital 15-4 Black,g15vital4no
+15 American,114,Flyers 15 NAT-Ryleigh,g15frfly9nt
+15 American,116,Northfield 15s-Gold,g15nfvbc1no
+15 American,116,Slam 15 Purple,g15slamv2nt
+15 American,116,Prime 14 White,g14prime3rm
+15 USA,1,H. Skyline TW 15 Royal,g15twsky1ls
+15 USA,2,VCN 15 Elite,g15vcneb1gp
+15 USA,3,Topeka Saints 15 Gold,g15tsnts1ha
+15 USA,3,Houston Skyline 15 Black,g15hosky2ls
+15 USA,5,MKE Sting 15 Black,g15mlwst2bg
+15 USA,5,Peak VA 15 Black,g15pevba1nt
+15 USA,5,Dynasty 15 Blue,g15tmdyn2ha
+15 USA,5,SA Juniors 15 Adidas,g15sajvb1ls
+15 USA,9,TX LEGACY 15 ELITE,g15tlgcy1ls
+15 USA,10,NM Elite 15 National 1,g15nmelt1su
+15 USA,11,1st Alliance 15 Silver,g15allia2gl
+15 USA,11,TAV 15 Blue,g15txadv3nt
+15 USA,13,MVP 15 BLUE,g15motvp1bg
+15 USA,14,HJV 15 Premier,g15houjr2ls
+15 USA,15,Iowa Impact 151 Elite,g15impct1ia
+15 USA,15,Heat 15 Red,g15heava1ls
+15 USA,17,Volt 15-1,g15wfrgo1no
+15 USA,18,Six Pack 15U,g15sixpk1ia
+15 USA,19,MN Select 15-2,g15mnsel2no
+15 USA,19,Iowa Rockets 15R,g15iarck1ia
+15 USA,21,TEJAS 15 Black Jesse,g15tejas1nt
+15 USA,22,Premier Nebraska 15 Black,g15premr2gp
+15 USA,23,Mizuno Northern Lights 15-2,g15nlite2no
+15 USA,23,Kairos 15 Beta,g15kairo2no
+15 USA,25,913Athletics 15National,g15ncath1ha
+15 USA,26,SMV 15-1 Black,g15smnvb1no
+15 USA,27,Nebraska Elite 15 Prime,g15elite2gp
+15 USA,27,Top Flight 15 Elite,g15tpflt1gl
+15 USA,29,FRVBC 15 Black,g15frvbc1rm
+15 USA,30,Vital 15-1 Gold,g15vital1no
+15 USA,31,Colorado Juniors 15 Candace,g15cojrs2rm
+15 USA,31,CVA 15 Black,g15cvata1rm
