@@ -1,0 +1,611 @@
+12 Club,1,Legacy 11-1 ADIDAS (LK),g11legvc1lk
+12 Club,2,Summit 12 Orange Elite (HO),g12sumvb2ho
+12 Club,3,FaR Out 12 White (LK),g12fovbc3lk
+12 Club,3,Munciana 11 Yukons (HO),g11munvb1ho
+12 Club,5,Munciana 12R Zebras (HO),g12munvb3ho
+12 Club,6,Monsters 12U (LK),g12mnstralk
+12 Club,7,NBVBC 12Blue (LK),g12nobrn1lk
+12 Club,8,SCBandits 12-1 (CA),g12scbvb1ca
+12 Club,9,Munciana Indy 12 Frogs (HO),g12mindy2ho
+12 Club,10,FaR Out 12 Grey (LK),g12fovbc4lk
+12 Club,11,MiElite 12 Pipeline East (LK),g12mieva3lk
+12 Club,12,MiElite 12 Pipeline West (LK),g12mieva2lk
+12 Club,13,HVVC 12 BLUE (LK),g12hvvbc1lk
+12 Club,14,Force 12 Adidas Select BK (LK),g12frcvb1lk
+12 Club,15,Ox Imp 12-1 (MI),g12oximp1mi
+12 Club,16,Crank It 12u NS Bre (LK),g12crank1lk
+12 Club,17,Munciana 12 Crocodiles (HO),g12munvb2ho
+12 Club,18,SCBandits 12-2 (CA),g12scbvb2ca
+12 Club,19,Legacy 12-Select East (LK),g12legvc5lk
+12 Club,20,Legacy 11-Elite West (LK),g11legvc2lk
+12 Club,21,Midwest Marvels (LK),g12mwmarzlk
+12 Club,22,FaR Out 12 Cardinal (LK),g12fovbc5lk
+12 Club,23,Five:1 12-Silver Decker (LK),g12five13lk
+12 Club,24,AVBC 12 Black (LK),g12arsnl5lk
+12 Club,25,Dynamite 12 Select (LK),g12sldyn2lk
+12 Club,26,MiElite 11 Pipeline West (LK),g11mieva2lk
+12 Club,27,MiElite 11 Pipeline East (LK),g11mieva3lk
+12 Club,28,Unified 12-Sky (LK),g12unifi2lk
+12 Club,29,Legacy 11-Elite East (LK),g11legvc3lk
+12 Club,30,Midwest Marvels Maroon (LK),g12mwmar6lk
+12 Club,31,L2 122 (LK),g12l2vbc2lk
+12 Club,32,Legacy 11-Select West (LK),g11legvc4lk
+12 Club,33,Legacy 12-Select West (LK),g12legvc6lk
+12 Club,34,Unified 12-Blue (LK),g12unifi1lk
+12 Club,35,AVBC 12 White (LK),g12arsnl3lk
+12 Club,36,Five:1 12-Silver Fugate (LK),g12five12lk
+12 Club,37,Legacy 10-1 ADIDAS (LK),g10legvc1lk
+12 Club,38,Crank It 12u Select (LK),g12crank2lk
+12 Club,39,FaR Out 12 Crimson (LK),g12fovbc6lk
+12 Club,40,Legacy 11-Select East (LK),g11legvc5lk
+12 Open,1,Legacy 12-1 ADIDAS (LK),g12legvc1lk
+12 Open,2,Summit 12 Blue Elite (HO),g12sumvb1ho
+12 Open,3,FaR Out 12 Black (LK),g12fovbc1lk
+12 Open,4,MiElite 12 Mizuno (LK),g12mieva1lk
+12 Open,5,Munciana Indy 12 Valkyrie (HO),g12mindy1ho
+12 Open,6,Dynamite 12 Adidas (LK),g12sldyn1lk
+12 Open,7,Hurricanes Cat 2 Black (CA),g12hurri1ca
+12 Open,7,Legacy 12-2 ADIDAS (LK),g12legvc2lk
+12 Open,9,FaR Out 12 Red (LK),g12fovbc2lk
+12 Open,9,Hurricanes Cat 2 Blue (CA),g12hurri2ca
+13 Classic,1,FaR Out 13 Steel (LK),g13fovbc4lk
+13 Classic,2,Leaside 13U Thunderbolts (CA),g13leasi2ca
+13 Classic,3,FaR Out 13 Cardinal (LK),g13fovbc7lk
+13 Classic,4,Legacy 13-Select East (LK),g13legvc5lk
+13 Classic,5,Mavericks 13 Orange (LK),g13hcmav2lk
+13 Classic,6,Pulse 13u Select (LK),g13rscyc1lk
+13 Classic,7,Crank It 13u Gold Tom (LK),g13crank2lk
+13 Classic,8,FaR Out 13 White (LK),g13fovbc5lk
+13 Classic,9,Legacy 13-Select West (LK),g13legvc6lk
+13 Classic,10,HVVC 13 BLACK (LK),g13hvvbc2lk
+13 Classic,11,MiElite 13 Diamond West (LK),g13mieva11lk
+13 Classic,12,MVA 13R Mia (LK),g13mivba9lk
+13 Classic,13,Blackcomb - MVC 13U (CA),g13movbc2ca
+13 Classic,14,Munciana 13R Bears (HO),g13munvb5ho
+13 Classic,15,SCBandits 13-2 (CA),g13scbvb2ca
+13 Classic,16,MiElite 13 Emerald East (LK),g13mieva13lk
+13 Classic,17,FaR Out 13 Crimson (LK),g13fovbc8lk
+13 Classic,18,Monsters 13 Blue (LK),g13mnstr2lk
+13 Classic,19,Aim High Marleigh (MI),g13aimhi1mi
+13 Classic,20,Preds 13U Girls Ambush (CA),g13preds3ca
+13 Classic,21,Sparc VBC 13-1 (LK),g13w3eda1lk
+13 Classic,22,MVA 13R Gabby (LK),g13mivba6lk
+13 Classic,23,Unified 13-Sky (LK),g13unifi4lk
+13 Classic,24,MVA 13R Myleigh (LK),g13mivba8lk
+13 Classic,25,FaR Out 13 Grey (LK),g13fovbc6lk
+13 Classic,26,GLVBC 13-Blue (LK),g13glvbc1lk
+13 Classic,27,FaR Out 13 Garnet (LK),g13fovbc9lk
+13 Classic,28,Crank It 13uSilver Brooke (LK),g13crank3lk
+13 Classic,29,Unified 13-Teal (LK),g13unifi5lk
+13 Classic,30,Unified 13-Blue (LK),g13unifi3lk
+13 Classic,31,MM ACES 13u Brynn (LK),g13mmavb1lk
+13 Classic,32,MVA 13R Mel (LK),g13mivba7lk
+13 Classic,33,Five:1 13-Silver (LK),g13five15lk
+13 Classic,34,TDV 13 National (OV),g13toldvbov
+13 Classic,35,AVBC 12 Red (LK),g12arsnl2lk
+13 Classic,36,AVBC 13 White (LK),g13arsnl3lk
+13 Club,1,FaR Out 13 Red (LK),g13fovbc2lk
+13 Club,2,MiElite 13 National (LK),g13mieva3lk
+13 Club,3,Dead Frog 13 Black 2025 (LK),g13dfvbc1lk
+13 Club,3,Munciana Indy 13 Dolphins (HO),g13mindy2ho
+13 Club,5,Dynamite 13-1 Select (LK),g13sldyn2lk
+13 Club,5,HP 13 Loretta (LK),g13hpvba1lk
+13 Club,5,SCBandits 13-1 (CA),g13scbvb1ca
+13 Club,5,Team 27 13U (LK),g13tem272lk
+13 Club,9,MiElite 13 NS West (LK),g13mieva6lk
+13 Club,10,Mavericks 13 Blue (LK),g13hcmav1lk
+13 Club,11,Summit 13 Orange Elite (HO),g13sumvb2ho
+13 Club,12,Defensa 13 Rosanna (CA),g13dfnsa2ca
+13 Club,13,TDV 13Elite (OV),g13toldv1ov
+13 Club,14,HV United VBC 13 Red (LK),g13hvuvb1lk
+13 Club,15,Monsters 13 Elite (LK),g13mnstralk
+13 Club,16,Crank It 13u Black Susan (LK),g13crank1lk
+13 Club,17,BW Wave 13U (GL),g13w3bw41gl
+13 Club,18,Attack VBC  13U Elite (LK),g13attak1lk
+13 Club,19,Defensa 13 Mirjana (CA),g13dfnsa1ca
+13 Club,20,HP 13 Black (LK),g13hpvba2lk
+13 Club,21,MiElite 13 NS East (LK),g13mieva5lk
+13 Club,22,MVA 13R Chloe (LK),g13mivba4lk
+13 Club,23,The Shore 13 Jessica (LK),g13mivbaclk
+13 Club,24,L2 231 (LK),g13l2vbc3lk
+13 Club,25,Monsters 13 White (LK),g13mnstr3lk
+13 Club,26,The Shore 13R Sophie/Dior (LK),g13mivbablk
+13 Club,27,AVBC 13 Red (LK),g13arsnl2lk
+13 Club,28,The House 13R Jimmy (LK),g13mivbanlk
+13 Club,29,FaR Out 13 Silver (LK),g13fovbc3lk
+13 Club,30,MVA 13R Kadence (LK),g13mivba5lk
+13 Club,31,Munciana 13 Gators (HO),g13munvb3ho
+13 Club,32,L2 232 (LK),g13l2vbc4lk
+13 Open/Premier,1,FaR Out 13 Black (LK),g13fovbc1lk
+13 Open/Premier,2,MiElite 13 Mizuno (LK),g13mieva1lk
+13 Open/Premier,3,Leaside 13U Strikers (CA),g13leasi1ca
+13 Open/Premier,3,Legacy 13-2 ADIDAS (LK),g13legvc2lk
+13 Open/Premier,5,Dynamite Adidas 13-1 (LK),g13sldyn1lk
+13 Open/Premier,5,Hurricanes Cat 3 Black (CA),g13hurri1ca
+13 Open/Premier,5,Munciana 13 Falcons (HO),g13munvb2ho
+13 Open/Premier,5,Munciana In 13 Cyclones (HO),g13mindy1ho
+13 Open/Premier,9,HVVC 13 BLUE (LK),g13hvvbc1lk
+13 Open/Premier,10,MiElite 13 Elite (LK),g13mieva2lk
+13 Open/Premier,11,Preds13U Girls Eclipse (CA),g13preds2ca
+13 Open/Premier,11,Summit 13 Blue Elite (HO),g13sumvb1ho
+13 Open/Premier,13,Hurricanes Cat 3 Blue (CA),g13hurri2ca
+13 Open/Premier,13,Preds 13U Girls Validus (CA),g13preds1ca
+14 Classic Blue,1,Rose City 14-1 (CA),g14rcuvb1ca
+14 Classic Blue,2,MM ACES 14u Munley (LK),g14mmavb1lk
+14 Classic Blue,3,FaR Out 14 Grey (LK),g14fovbc8lk
+14 Classic Blue,3,Munciana In 14 Gryphons (HO),g14mindy3ho
+14 Classic Blue,5,FaR Out 14 Maroon (LK),g14fovbc6lk
+14 Classic Blue,5,Legacy 14-Select West (LK),g14legvc7lk
+14 Classic Blue,7,MiElite 14 Emerald East (LK),g14mieva12lk
+14 Classic Blue,8,HVVC 14 GREY (LK),g14hvvbc4lk
+14 Classic Blue,9,FaR Out 14 Crimson (LK),g14fovbc10lk
+14 Classic Blue,9,TDV 14 National (OV),g14toldv2ov
+14 Classic Blue,11,Aim High Anne (MI),g14aimhi2mi
+14 Classic Blue,11,Crank It 14u NS Shyanne (LK),g14crank5lk
+14 Classic Blue,13,Crank It 14u Silver Kira (LK),g14crank3lk
+14 Classic Blue,14,Force 14 Adidas Select BK (LK),g14frcvb3lk
+14 Classic Blue,15,LevelUp 14 Red (LK),g14levup4lk
+14 Classic Blue,16,MVA 14R Sydney W (LK),g14mivba6lk
+14 Classic Blue,17,MiElite 14 Diamond West (LK),g14mieva11lk
+14 Classic Blue,18,REVO 14 TL (LK),g14rvamp1lk
+14 Classic Blue,19,Unified 14-Sky (LK),g14unifi6lk
+14 Classic Blue,20,Capital 14 Blue (LK),g14fovbcalk
+14 Classic Blue,21,Shockwave Boltz (CA),g14swcan2ca
+14 Classic Blue,22,MVA 14R Kylie (LK),g14mivba7lk
+14 Classic Blue,23,Unified 14-Teal (LK),g14unifi5lk
+14 Classic Blue,24,AVBC 14 Black (LK),g14arsnl5lk
+14 Classic Red,1,Dead Frog 14 Gold (LK),g14dfvbc2lk
+14 Classic Red,2,Aim High Alicia (MI),g14aimhi1mi
+14 Classic Red,3,FaR Out 14 Steel (LK),g14fovbc5lk
+14 Classic Red,3,MM ACES 14u Katie (LK),g14mmavb2lk
+14 Classic Red,5,Legacy 14-Select East (LK),g14legvc6lk
+14 Classic Red,5,Munciana 14R Raptors (HO),g14munvb5ho
+14 Classic Red,7,TeamD 14 Blue (LK),g14teamd3lk
+14 Classic Red,8,Crank It 14u NS Jenn (LK),g14crank6lk
+14 Classic Red,9,FaR Out 14 White (LK),g14fovbc7lk
+14 Classic Red,9,MiElite 14 Sapphire (LK),g14mieva13lk
+14 Classic Red,11,MiElite 14 Gold North (LK),g14mieva15lk
+14 Classic Red,11,Monsters 14 Blue (LK),g14mnstr3lk
+14 Classic Red,13,HVVC 14 BLACK (LK),g14hvvbc3lk
+14 Classic Red,14,MiElite 14 Topaz West (LK),g14mieva14lk
+14 Classic Red,15,MM ACES 14u Hamina (LK),g14mmavb3lk
+14 Classic Red,16,FaR Out 14 Cardinal (LK),g14fovbc9lk
+14 Classic Red,17,Unified 14-Royal (LK),g14unifi7lk
+14 Classic Red,18,Aim High Kylene (MI),g14aimhi3mi
+14 Classic Red,19,Crank It 14u NS Mike (LK),g14crank4lk
+14 Classic Red,20,Woodstock Warriors 14 (CA),g14d5eda25ca
+14 Classic Red,21,HP 14 Black (LK),g14hpvba4lk
+14 Classic Red,22,Shockwave Sharks (CA),g14swcan1ca
+14 Classic Red,23,AVBC 14 White (LK),g14arsnl4lk
+14 Classic Red,24,Five:1 14-Silver (LK),g14five15lk
+14 Club Blue,1,FLIGHT 14 Cole (LK),g14msfvb2lk
+14 Club Blue,2,NBVBC 14Blue (LK),g14nobrn1lk
+14 Club Blue,3,Crank It 14u Black Steve (LK),g14crank1lk
+14 Club Blue,3,MiElite 14 NS West (LK),g14mieva5lk
+14 Club Blue,5,Defensa 14Maddi (CA),g14dfnsa2ca
+14 Club Blue,5,Munciana 14 Panthers (HO),g14munvb3ho
+14 Club Blue,7,Attack VBC 14 Mizuno Lime (LK),g14attak1lk
+14 Club Blue,8,Unified 14-2 (LK),g14unifi2lk
+14 Club Blue,9,MVBTA 14-1 Black (LK),g14mvbta1lk
+14 Club Blue,9,TeamD 14 Red (LK),g14teamd1lk
+14 Club Blue,11,FaR Out 14 Red (LK),g14fovbc3lk
+14 Club Blue,11,Force 14 Adidas Sel BL2 (LK),g14frcvb2lk
+14 Club Blue,13,HVC 14-Hummingbird Heat (CA),g14hbvbc1ca
+14 Club Blue,14,The House 14R Brooke (LK),g14mivbaolk
+14 Club Blue,15,SVC 14-1 (CA),g14svcon1ca
+14 Club Blue,16,HVVC 14 WHITE (LK),g14hvvbc2lk
+14 Club Blue,17,L2 242 (LK),g14l2vbc5lk
+14 Club Blue,18,USA MI RunBird 14 (LK),g14usami1lk
+14 Club Blue,19,GLVBC 14-Green (LK),g14glvbc2lk
+14 Club Blue,20,MVA 14R Catie (LK),g14mivba5lk
+14 Club Blue,22,Monsters 14 Elite Royal (LK),g14mnstr2lk
+14 Club Blue,23,The Shore 14R Paris (LK),g14mivbaclk
+14 Club Blue,24,Summit 14 Silver Elite (HO),g14sumvb4ho
+14 Club Red,1,Dead Frog 14 Green 2025 (LK),g14dfvbc8lk
+14 Club Red,2,MiElite 14 National (LK),g14mieva3lk
+14 Club Red,3,Ballistic 14 Grace (LK),g14blstc6lk
+14 Club Red,3,Summit 14 Orange Elite (HO),g14sumvb2ho
+14 Club Red,5,Munciana In 14 Dragons (HO),g14mindy2ho
+14 Club Red,5,TDV 14Elite (OV),g14toldv1ov
+14 Club Red,7,Team 27 14 Volt (LK),g14tem272lk
+14 Club Red,8,Monsters 14 Elite Black (LK),g14mnstr1lk
+14 Club Red,9,L2 241 (LK),g14l2vbc4lk
+14 Club Red,9,Pulse 14u Select (LK),g14rscyc1lk
+14 Club Red,11,Crank It 14u Gold Joe (LK),g14crank2lk
+14 Club Red,11,SCBandits 14-2 (CA),g14scbvb2ca
+14 Club Red,13,FaR Out 14 Silver (LK),g14fovbc4lk
+14 Club Red,14,LevelUp 14 Black (LK),g14levup1lk
+14 Club Red,15,AVBC 14 Red (LK),g14arsnl3lk
+14 Club Red,16,MiElite 14 NS East (LK),g14mieva6lk
+14 Club Red,17,Force 14 Adidas Sel BL1 (LK),g14frcvb1lk
+14 Club Red,18,MVA 14R Emma (LK),g14mivba4lk
+14 Club Red,19,GLVBC 14-Blue (LK),g14glvbc1lk
+14 Club Red,20,The House 14R Nicole (LK),g14mivbanlk
+14 Club Red,21,The Shore 14R Katie (LK),g14mivbablk
+14 Club Red,23,Dynamite 14-2 Select (LK),g14sldyn4lk
+14 Club Red,24,HP 14 Onyx (LK),g14hpvba3lk
+14 Open/Premier,1,MiElite 14 Mizuno (LK),g14mieva1lk
+14 Open/Premier,2,Munciana 14 Bulldogs (HO),g14munvb2ho
+14 Open/Premier,3,HVVC 14 BLUE (LK),g14hvvbc1lk
+14 Open/Premier,3,Legacy 14-3 ADIDAS (LK),g14legvc3lk
+14 Open/Premier,5,Dead Frog 14 Black 2025 (LK),g14dfvbc7lk
+14 Open/Premier,5,Summit 14 Blue Elite (HO),g14sumvb1ho
+14 Open/Premier,7,MiElite 14 Elite (LK),g14mieva2lk
+14 Open/Premier,8,Pakmen VC 14 Gold (CA),g14pakmn1ca
+14 Open/Premier,9,Munciana Indy 14 Otters (HO),g14mindy1ho
+14 Open/Premier,9,SCBandits 14-1 (CA),g14scbvb1ca
+14 Open/Premier,11,Dynamite Adidas 14-1 (LK),g14sldyn1lk
+14 Open/Premier,11,L2 143 (LK),g14l2vbc3lk
+14 Open/Premier,13,Hurricanes Cat 4 Black (CA),g14hurri1ca
+14 Open/Premier,14,Dynamite 14-1 Select (LK),g14sldyn3lk
+14 Open/Premier,15,Unified 14-1 (LK),g14unifi1lk
+14 Open/Premier,16,Forest City 14 Mahogany (CA),g14ct6yt1ca
+14 Open/Premier,17,Matterhorn - MVC 14U (CA),g14movbc1ca
+14 Open/Premier,18,HP 14-1 (LK),g14hpvba1lk
+14 Open/Premier,19,HP 14-2 (LK),g14hpvba2lk
+14 Open/Premier,20,VOLLEY KNIGHTS 14U (HO),g14nivba12ho
+14 Open/Premier,22,Hurricanes Cat 4 Blue (CA),g14hurri2ca
+14 Open/Premier,23,FaR Out 14 Gold (LK),g14fovbc2lk
+14 Open/Premier,24,MVC WAVE (MJ),g14w35y81mj
+15 Classic Blue,1,Decatur Force 15 Aqua (HO),g15dforc2ho
+15 Classic Blue,2,MM ACES 15u Hali (LK),g15mmavb1lk
+15 Classic Blue,3,Monroe Juniors 15 Ice (LK),g15mnrjr1lk
+15 Classic Blue,3,Pulse 15u Select (LK),g15rscyc1lk
+15 Classic Blue,5,Crank It 15u NS Jackie (LK),g15crank4lk
+15 Classic Blue,5,HP 15 NL Jade (LK),g15hpvba5lk
+15 Classic Blue,5,MiElite 15 Topaz West (LK),g15mieva12lk
+15 Classic Blue,5,Thumb Fusion 15-1 (LK),g15thumf1lk
+15 Classic Blue,9,Summit 15 Orange Elite (HO),g15sumvb2ho
+15 Classic Blue,10,FaR Out 15 White (LK),g15fovbc5lk
+15 Classic Blue,11,Capital 15 Blue (LK),g15fovbcalk
+15 Classic Blue,11,Force 15 Adidas Sel BL GR (LK),g15frcvb3lk
+15 Classic Blue,13,Legacy 15-Select East (LK),g15legvc8lk
+15 Classic Blue,13,MiElite 15 Copper WT (LK),g15mieva15lk
+15 Classic Blue,13,Rose City 15-1 (CA),g15rcuvb1ca
+15 Classic Blue,13,The Edge 15 White (GL),g15edgev5gl
+15 Classic Blue,17,Legacy 15-Select West Blu (LK),g15legvc9lk
+15 Classic Blue,18,Crank It 15u NS Lisa (LK),g15crank5lk
+15 Classic Blue,19,Sparc VBC 15-1 (LK),g15w3eda1lk
+15 Classic Blue,20,GLVBC 15-Green (LK),g15glvbc2lk
+15 Classic Blue,21,HV United VBC 15 Red (LK),g15hvuvb1lk
+15 Classic Blue,22,Unified 15-Teal (LK),g15unifi7lk
+15 Classic Blue,23,HP 15 Black (LK),g15hpvba6lk
+15 Classic Blue,24,Waterloo Tigers Strike (CA),g15tigvc2ca
+15 Classic Blue,25,MiElite 15 Sapphire East (LK),g15mieva14lk
+15 Classic Blue,26,Aim High Eliza (MI),g15aimhi3mi
+15 Classic Blue,27,Munciana 15R Piranhas (HO),g15munvb5ho
+15 Classic Blue,28,AVBC 15 Black (LK),g15arsnl6lk
+15 Classic Blue,29,Mavericks 15 Select (LK),g15hcmav2lk
+15 Classic Blue,30,The House 15R Hepler (LK),g15mivbaolk
+15 Classic Blue,31,MM ACES 15u Jerzie (LK),g15mmavb3lk
+15 Classic Blue,32,Shockwave Storm (CA),g15swcan2ca
+15 Classic Red,None,Aim High Rachel / Syd (MI),g15aimhi2mi
+15 Classic Red,None,AVBC 15 Gold (LK),g15arsnl7lk
+15 Classic Red,None,Crank It 15u NS Ava (LK),g15crank6lk
+15 Classic Red,None,Crank It 15u Silver Lily (LK),g15crank3lk
+15 Classic Red,None,FaR Out 15 Cardinal (LK),g15fovbc7lk
+15 Classic Red,None,FaR Out 15 Grey (LK),g15fovbc6lk
+15 Classic Red,None,Five:1 15-Silver Lochbile (LK),g15five19lk
+15 Classic Red,None,Five:1 15-Silver Townsend (LK),g15five18lk
+15 Classic Red,None,HP 15 Green (LK),g15hpvba7lk
+15 Classic Red,None,HP 15 NL Onyx (LK),g15hpvba4lk
+15 Classic Red,None,HVVC 15 BLACK (LK),g15hvvbc3lk
+15 Classic Red,None,Legacy 15-Select West Org (LK),g15legvc7lk
+15 Classic Red,None,Mavericks 15 Elite (LK),g15hcmav1lk
+15 Classic Red,None,MiElite 15 Diamond West (LK),g15mieva13lk
+15 Classic Red,None,MiElite 15 Emerald East (LK),g15mieva10lk
+15 Classic Red,None,MiElite 15 Gold North (LK),g15mieva11lk
+15 Classic Red,None,MiElite 15 Jade West (LK),g15mieva16lk
+15 Classic Red,None,MM ACES 15u Emma (LK),g15mmavb2lk
+15 Classic Red,None,Monsters 15 White (LK),g15mnstr4lk
+15 Classic Red,None,Munciana In 15 Grizzlies (HO),g15mindy2ho
+15 Classic Red,None,MVA 15R Shantynae (LK),g15mivba5lk
+15 Classic Red,None,Pillar 15-Purple (OV),g15pillr1ov
+15 Classic Red,None,Rose City 15-2 (CA),g15rcuvb2ca
+15 Classic Red,None,Shockwave Surge (CA),g15swcan1ca
+15 Classic Red,None,Shockwave Volt (CA),g15swcan3ca
+15 Classic Red,None,TDV 15-National-B (OV),g15toldv3ov
+15 Classic Red,None,TeamD 15 Blue (LK),g15teamd3lk
+15 Classic Red,None,The Edge 15 Silver (GL),g15edgev4gl
+15 Classic Red,None,The Shore 15R Natalie (LK),g15mivbaclk
+15 Classic Red,None,Tigers Havoc (CA),g15tigvc1ca
+15 Classic Red,None,Tigers Pink (CA),g15tigvc3ca
+15 Classic Red,None,Unified 15-Sky (LK),g15unifi5lk
+15 Club Blue,1,Hurricanes (CA),g15bevclaca
+15 Club Blue,2,Summit 15 Royal Elite (HO),g15sumvbaho
+15 Club Blue,3,FLIGHT 15-Missy (LK),g15msfvb6lk
+15 Club Blue,3,SCBandits 15-2 (CA),g15scbvb2ca
+15 Club Blue,5,Force (CA),g15otvc91ca
+15 Club Blue,5,The Shore 15R Alison (LK),g15mivbablk
+15 Club Blue,7,Defensa 15-Abhi (CA),g15dfnsa2ca
+15 Club Blue,8,HP 15 Elite Gray (LK),g15hpvba3lk
+15 Club Blue,9,Lakeside Inkemba (CA),g15lsvbc1ca
+15 Club Blue,9,Munciana 15 Cobras (HO),g15munvb4ho
+15 Club Blue,11,Attack VBC 15 Elite (LK),g15attak3lk
+15 Club Blue,11,MiElite 15 NS West (LK),g15mieva7lk
+15 Club Blue,13,TDV 15 National (OV),g15toldv2ov
+15 Club Blue,14,USA MI RunBird 15 (LK),g15usami1lk
+15 Club Blue,15,Force 15 Adidas Sel BL1 (LK),g15frcvb1lk
+15 Club Blue,16,Crank It 15u Gold Chris (LK),g15crank2lk
+15 Club Blue,17,Core 15 Mizuno (LK),g15corvb1lk
+15 Club Blue,18,Dynamite 15-1 Select (LK),g15sldyn4lk
+15 Club Blue,19,Monsters 15 Elite Royal (LK),g15mnstr2lk
+15 Club Blue,21,AVBC 15 Red (LK),g15arsnl4lk
+15 Club Blue,22,Georgian Cubs Kodiaks (CA),g15gcvc11ca
+15 Club Blue,23,L2 252 (LK),g15l2vbc5lk
+15 Club Blue,24,Unified 15-Blue (LK),g15unifi4lk
+15 Club Red,1,FaR Out 15 Red (LK),g15fovbc3lk
+15 Club Red,2,Monsters 15 Blue (LK),g15mnstrblk
+15 Club Red,3,HVVC 15 WHITE (LK),g15hvvbc2lk
+15 Club Red,3,NKJV 15 White (PR),g15nkjvb2pr
+15 Club Red,5,MiElite 15 NS East (LK),g15mieva6lk
+15 Club Red,5,Munciana 15 Banana Slugs (HO),g15munvb3ho
+15 Club Red,7,GLVBC 15-Blue (LK),g15glvbc1lk
+15 Club Red,8,Crank It 15u Black Mike (LK),g15crank1lk
+15 Club Red,9,MVA 15R Courtney (LK),g15mivba4lk
+15 Club Red,9,The House 15R Peters (LK),g15mivbanlk
+15 Club Red,11,Ballhawks 15-1 (CA),g15cbvcb1ca
+15 Club Red,11,Forest City 15-2 Kauri (CA),g15ct6yt2ca
+15 Club Red,14,Durham Rebels Renegades (CA),g15drvcm20ca
+15 Club Red,15,HP 15-2 (LK),g15hpvba2lk
+15 Club Red,16,L2 251 (LK),g15l2vbc4lk
+15 Club Red,17,L2 253 (LK),g15l2vbc6lk
+15 Club Red,18,AVBC 15 White (LK),g15arsnl5lk
+15 Club Red,19,Team 27 15U Black (LK),g15tem273lk
+15 Club Red,20,TDV 15Elite (OV),g15toldv1ov
+15 Club Red,21,Surge (CA),g15otvc92ca
+15 Club Red,22,SVC 15-1 (CA),g15svcon1ca
+15 Club Red,23,Unified 14-Blue (LK),g14unifi4lk
+15 Club Red,24,Force 15 Adidas Sel BL2 (LK),g15frcvb2lk
+15 Open/Premier,1,FaR Out 15 Gold (LK),g15fovbc2lk
+15 Open/Premier,2,HVVC 15 BLUE (LK),g15hvvbc1lk
+15 Open/Premier,3,HP 15-1 (LK),g15hpvba1lk
+15 Open/Premier,3,Leaside 15U Firebolts (CA),g15leasi1ca
+15 Open/Premier,5,Forest City 15-1 Aspen (CA),g15ct6yt1ca
+15 Open/Premier,5,MiElite 15 National (LK),g15mieva4lk
+15 Open/Premier,7,Pakmen 15 Gold (CA),g15pakmn2ca
+15 Open/Premier,8,Munciana In 15 Vipers (HO),g15mindy1ho
+15 Open/Premier,9,Dynamite Adidas 15-1 (LK),g15sldyn1lk
+15 Open/Premier,9,Munciana 15 Warriors (HO),g15munvb2ho
+15 Open/Premier,11,Defensa 15 Jesse (CA),g15dfnsa1ca
+15 Open/Premier,11,Dynamite Adidas 15-2 (LK),g15sldyn2lk
+15 Open/Premier,13,Monsters 15 Elite Black (LK),g15mnstr1lk
+15 Open/Premier,14,Inside Out 15Mizuno Black (LK),g15isovb1lk
+15 Open/Premier,15,Aim High Danielle (MI),g15aimhi1mi
+15 Open/Premier,15,Team 27 15 Volt (LK),g15tem271lk
+15 Open/Premier,17,Attack VBC 15 Mizuno Lime (LK),g15attak1lk
+15 Open/Premier,17,Attack VBC 15 Mizuno Onyx (LK),g15attak2lk
+15 Open/Premier,19,L2 153 (LK),g15l2vbc3lk
+15 Open/Premier,20,Team 27 15 Royal (LK),g15tem272lk
+15 Open/Premier,21,SCBandits 15-1 (CA),g15scbvb1ca
+15 Open/Premier,22,London Sharks Fury (LS),g148acdy15ls
+16 Classic Blue,1,Pulse 16u-1 Select (LK),g16rscyc1lk
+16 Classic Blue,2,Pillar 16-Purple (OV),g16pillr1ov
+16 Classic Blue,3,Crank It 16u Silver Bre (LK),g16crank3lk
+16 Classic Blue,3,Dead Frog 16-Reeghan (LK),g16dfvbc4lk
+16 Classic Blue,5,MM ACES 16u Ellie (LK),g16mmavb4lk
+16 Classic Blue,5,The Edge 16 Maroon (GL),g16edgev3gl
+16 Classic Blue,7,TeamD 16 Blue (LK),g16teamd3lk
+16 Classic Blue,8,L2 263 (LK),g16l2vbc6lk
+16 Classic Blue,9,41SIX FIRE 16U (CA),g1641six2ca
+16 Classic Blue,9,Capital 16 Blue (LK),g16fovbcalk
+16 Classic Blue,11,Legacy 16-Select West Blu (LK),g16legvc9lk
+16 Classic Blue,11,Unified 16-Royal (LK),g16unifi7lk
+16 Classic Blue,13,MiElite 16 Topaz West (LK),g16mieva14lk
+16 Classic Blue,14,Scorpions Ace (CA),g16hsvcc2ca
+16 Classic Blue,15,Rose City 16-1 (CA),g16rcuvb1ca
+16 Classic Blue,16,MVBTA 16-2 Gold (LK),g16mvbta2lk
+16 Classic Blue,17,HP 16 NL Jade (LK),g16hpvba7lk
+16 Classic Blue,18,Force 16 Adidas Select BK (LK),g16frcvb3lk
+16 Classic Blue,19,Thumb Volley 16-1 (LK),g16tvoll1lk
+16 Classic Blue,20,Team 27 16U Volt (LK),g16tem272lk
+16 Classic Blue,21,Crank It 16u NS Jordan (LK),g16crank5lk
+16 Classic Red,1,The Edge 16 Black (GL),g16edgev2gl
+16 Classic Red,2,Pulse 16u-2 Select (LK),g16rscyc2lk
+16 Classic Red,3,HP 16 NL Onyx (LK),g16hpvba6lk
+16 Classic Red,3,Legacy 16-Select West Org (LK),g16legvc7lk
+16 Classic Red,5,FaR Out 16 White (LK),g16fovbc6lk
+16 Classic Red,5,Mavericks 16 Elite (LK),g16hcmav1lk
+16 Classic Red,5,MiElite 16 Diamond West (LK),g16mieva10lk
+16 Classic Red,5,Munciana Indy 16 Badgers (HO),g16mindy3ho
+16 Classic Red,9,GVA 16-1 Vipers Velocity (CA),g16grmvb1ca
+16 Classic Red,10,Ballhawks 16-1 (CA),g16cbvcb1ca
+16 Classic Red,11,MM ACES 16u Avreigh (LK),g16mmavb3lk
+16 Classic Red,11,Unified 16-Sky (LK),g16unifi5lk
+16 Classic Red,13,HVVC 16  BLACK (LK),g16hvvbc3lk
+16 Classic Red,13,MiElite 16 Copper WT (LK),g16mieva15lk
+16 Classic Red,16,Crank It 16u NS Kyleigh (LK),g16crank4lk
+16 Classic Red,17,Legacy 16-Select East (LK),g16legvc8lk
+16 Classic Red,18,Shockwave Strikers (CA),g16swcan1ca
+16 Classic Red,19,Dead Frog 16-Jessie (LK),g16dfvbc5lk
+16 Classic Red,20,MiElite 16 Gold North (LK),g16mieva11lk
+16 Classic Red,21,Saints 16 Green (LK),g16sntjr1lk
+16 Classic Red,22,MiElite  16 Emerald East (LK),g16mieva12lk
+16 Classic Red,23,Rose City 16-2 (CA),g16rcuvb2ca
+16 Classic Red,24,AVBC 16 Black (LK),g16arsnl6lk
+16 Classic Red,25,Five:1 16-Silver (LK),g16five19lk
+16 Classic Red,26,Unified 16-Teal (LK),g16unifi6lk
+16 Classic Red,27,Crank It 16u NS Leah (LK),g16crank6lk
+16 Classic Red,28,HP 16 NL Ruby (LK),g16hpvba8lk
+16 Club,1,MVBTA 16-1 Black (LK),g16mvbta1lk
+16 Club,2,FaR Out 16 Red (LK),g16fovbc4lk
+16 Club,3,Crank It 16u Gold Sara (LK),g16crank2lk
+16 Club,3,HP 16 Elite White (LK),g16hpvba5lk
+16 Club,5,Munciana 16 Tigers (HO),g16munvb3ho
+16 Club,6,Dead Frog 16 Green 2025 (LK),g16dfvbc7lk
+16 Club,7,L2 261 (LK),g16l2vbc4lk
+16 Club,8,Munciana Indy 16 Rams (HO),g16mindy2ho
+16 Club,9,Crank It 16u Black Kate (LK),g16crank1lk
+16 Club,10,The Edge 16 Elite (GL),g16edgev1gl
+16 Club,11,Force 16 Adidas Select (LK),g16frcvb1lk
+16 Club,12,FaR Out 16 Silver (LK),g16fovbc5lk
+16 Club,13,Defensa 16 Katherine (CA),g16dfnsa2ca
+16 Club,14,HP 16 Elite Gray (LK),g16hpvba4lk
+16 Club,15,MiElite 16 NS North (LK),g16mieva8lk
+16 Club,15,MM ACES 16u Laura (LK),g16mmavb2lk
+16 Club,17,Decatur Force 16 Teal (HO),g16dforc1ho
+16 Club,17,MiElite 16 NS East (LK),g16mieva6lk
+16 Club,17,Team 27 16 (LK),g16tem271lk
+16 Club,21,L2 262 (LK),g16l2vbc5lk
+16 Club,22,MiElite 16 NS West (LK),g16mieva7lk
+16 Club,23,Force 16 Adidas Select BL (LK),g16frcvb2lk
+16 Club,25,USA MI RunBird 16 (LK),g16usami1lk
+16 Club,26,SCBandits 16-2 (CA),g16scbvb2ca
+16 Club,27,TDV 16 National (OV),g16toldv2ov
+16 Club,28,The House 16R Clara (LK),g16mivbanlk
+16 Club,29,IMPACT INVASION16 (CA),g15g16ge20ca
+16 Club,30,Unified 16-Blue (LK),g16unifi4lk
+16 Club,31,Lakeside Shujaa (CA),g16lsvbc2ca
+16 Club,32,AVBC 16 White (LK),g16arsnl5lk
+16 Club,33,MVA 16R Ayva (LK),g16mivba4lk
+16 Club,34,HVVC 16 WHITE (LK),g16hvvbc2lk
+16 Club,35,Attack VBC 16 Elite (LK),g16attak3lk
+16 Club,36,AVBC 16 Red (LK),g16arsnl4lk
+16 Club,37,Monsters 16 Elite Royal (LK),g16mnstr2lk
+16 Club,38,Dynamite 16-1 Select (LK),g16sldyn3lk
+16 Club,39,REVO 16 TC (LK),g16rvamp1lk
+16 Club,40,AVBC 15/16 Hybrid Red (LK),g16arsnl7lk
+16 Open/Premier,1,HP 16-1 (LK),g16hpvba1lk
+16 Open/Premier,2,FaR Out 16 Gold (LK),g16fovbc2lk
+16 Open/Premier,3,Leaside Sparks (CA),g16leasi1ca
+16 Open/Premier,3,SCBandits 16-1 (CA),g16scbvb1ca
+16 Open/Premier,5,MiElite 16 National East (LK),g16mieva3lk
+16 Open/Premier,5,MiElite 16 National West (LK),g16mieva4lk
+16 Open/Premier,7,Munciana 16 Giraffes (HO),g16munvb2ho
+16 Open/Premier,8,Munciana In 16 Cardinals (HO),g16mindy1ho
+16 Open/Premier,9,FaR Out 16 Onyx (LK),g16fovbc3lk
+16 Open/Premier,9,HVVC 16 BLUE (LK),g16hvvbc1lk
+16 Open/Premier,11,Dead Frog 16 Black 2025 (LK),g16dfvbc6lk
+16 Open/Premier,11,TDV 16Elite (OV),g16toldv1ov
+16 Open/Premier,13,NKJV 16 Blue (PR),g16nkjvb1pr
+16 Open/Premier,14,HP 16-2 (LK),g16hpvba2lk
+16 Open/Premier,15,Forest City 16-2 Merbau (CA),g16ct6yt2ca
+16 Open/Premier,16,SVC 16-1 (CA),g16svcon1ca
+16 Open/Premier,17,Dynamite Adidas 16-1 (LK),g16sldyn1lk
+16 Open/Premier,18,HP 16-3 (LK),g16hpvba3lk
+16 Open/Premier,19,Attack VBC 16 Mizuno Onyx (LK),g16attak2lk
+16 Open/Premier,20,L2 163 (LK),g16l2vbc3lk
+16 Open/Premier,21,Dynamite Adidas 16-2 (LK),g16sldyn2lk
+16 Open/Premier,22,Mid-Mich ACES 16 Elite (LK),g16mmavb1lk
+16 Open/Premier,23,Inside Out 16Mizuno Black (LK),g16isovb1lk
+16 Open/Premier,24,Attack VBC 16 Mizuno Lime (LK),g16attak1lk
+16 Open/Premier,25,Defensa 16 Evan (CA),g16dfnsa1ca
+17 Classic,1,Ballhawks 17-1 (CA),g17cbvcb1ca
+17 Classic,2,Pillar 17-Purple (OV),g17pillr1ov
+17 Classic,3,Ballistic 16 Hunter (LK),g16blstc1lk
+17 Classic,3,Decatur Force 17 Teal (HO),g17dforc1ho
+17 Classic,5,HaiFive 16-1 (LK),g16haifv1lk
+17 Classic,5,The Edge 17 Elite (GL),g17edgev1gl
+17 Classic,8,Mavericks 17 Elite (LK),g17hcmav1lk
+17 Classic,9,Aim High Katie (MI),g17aimhi1mi
+17 Classic,9,Rose City 17-1 (CA),g17rcuvb1ca
+17 Classic,11,HP 17 NL Onyx (LK),g17hpvba5lk
+17 Classic,11,Munciana 17R Bobcats (HO),g17munvb4ho
+17 Classic,13,Capital 17 Blue (LK),g17fovbcalk
+17 Classic,14,Crank It 17uSilver Meghan (LK),g17crank4lk
+17 Classic,15,Infinity 17 State Yellow (MI),g16infty4mi
+17 Classic,16,MiElite 17 Diamond West (LK),g17mieva9lk
+17 Classic,17,Legacy 17-Select East (LK),g17legvc8lk
+17 Classic,18,Crank It 17u NS Abby (LK),g17crank5lk
+17 Classic,19,Legacy 17-Select West (LK),g17legvc7lk
+17 Classic,20,Shockwave Legacy (CA),g17swcan1ca
+17 Classic,21,AVBC 17 White (LK),g17arsnl4lk
+17 Classic,22,TeamD 17 Blue (LK),g17teamd3lk
+17 Classic,23,REVO 17 RF (LK),g17rvamp2lk
+17 Classic,24,Five:1 17-Silver (LK),g17five19lk
+17 Club,1,Force 17 Adidas Select (LK),g17frcvb1lk
+17 Club,2,HVVC 17 BLUE (LK),g17hvvbc1lk
+17 Club,3,FLIGHT 17-Black (LK),g17msfvb3lk
+17 Club,3,SCBandits 17-2 (CA),g17scbvb2ca
+17 Club,5,HP 17 Elite Gray (LK),g17hpvba4lk
+17 Club,6,MiElite 17 NS North (LK),g17mieva8lk
+17 Club,7,Dynamite 17 Select (LK),g17sldyn3lk
+17 Club,8,REVO 17 LANSING (LK),g17rvamp1lk
+17 Club,9,Durham Rebels Rage (CA),g17drvcm1ca
+17 Club,10,Dead Frog 17 Green (LK),g17dfvbc2lk
+17 Club,11,CVC 17-1 Surge (CA),g17casvc1ca
+17 Club,12,Defensa 17 Kevin (CA),g17dfnsa2ca
+17 Club,13,United Volleyball Pink (LK),g17386991lk
+17 Club,14,Crank It 17u Gold Ray (LK),g17crank3lk
+17 Club,15,Pulse 17u Select (LK),g17rscyc2lk
+17 Club,16,LevelUp 17 Black Taylor (LK),g17levup2lk
+17 Club,17,Crank It 17u Black Rachel (LK),g17crank2lk
+17 Club,19,Munciana Indy 17 Cheetahs (HO),g17mindy1ho
+17 Club,20,Avalanche Molly (LK),g16avbvcalk
+17 Club,21,Monsters 17 Elite Royal (LK),g17mnstr2lk
+17 Club,22,Storm (CA),g17otvc92ca
+17 Club,23,L2 271 (LK),g17l2vbc4lk
+17 Club,24,L2 272 (LK),g17l2vbc5lk
+17 Club,25,FaR Out 17 Red (LK),g17fovbc3lk
+17 Club,26,FaR Out 17 Silver (LK),g17fovbc4lk
+17 Club,27,Lakeside Takoba (CA),g17lsvbc3ca
+17 Club,28,Force 17 Adidas Select BL (LK),g17frcvb2lk
+17 Club,29,HP 17 Elite White (LK),g17hpvba3lk
+17 Club,30,AVBC 17 Red (LK),g17arsnl3lk
+17 Club,31,MiElite 17 NS East (LK),g17mieva6lk
+17 Club,32,Scorpions Elite (CA),g17hsvcc1ca
+17 Club,33,TDV 17National (OV),g17toldv2ov
+17 Club,34,LevelUp 17 Black Alyssa (LK),g17levup1lk
+17 Club,35,MVA 17R Meredith (LK),g17mivba4lk
+17 Club,36,Lakeside Askari (CA),g17lsvbc2ca
+17 Club,37,Monsters 17 Elite Black (LK),g17mnstr1lk
+17 Club,38,Unified 17-Blue (LK),g17unifi3lk
+17 Club,39,MiElite 17 NS West (LK),g17mieva7lk
+17 Open/Premier,1,FaR Out 17 Black (LK),g17fovbc1lk
+17 Open/Premier,2,Dunes 17 Black (HO),g17dunes1ho
+17 Open/Premier,3,FaR Out 17 Gold (LK),g17fovbc2lk
+17 Open/Premier,3,SCBandits 17-1 (CA),g17scbvb1ca
+17 Open/Premier,5,Crank It 17u Black Mike (LK),g17crank1lk
+17 Open/Premier,5,Dead Frog 17 Black 2025 (LK),g17dfvbc3lk
+17 Open/Premier,5,Kilimanjaro - MVC 17U (CA),g17movbc2ca
+17 Open/Premier,5,Pakmen VC 17 Black (CA),g17pakmn2ca
+17 Open/Premier,9,Dynamite Adidas 17-1 (LK),g17sldyn1lk
+17 Open/Premier,10,TDV 17Elite (OV),g17toldv1ov
+17 Open/Premier,11,HP 17-1 (LK),g17hpvba1lk
+17 Open/Premier,12,L2 173 (LK),g17l2vbc3lk
+17 Open/Premier,13,Inside Out 17Mizuno Black (LK),g17isovb1lk
+17 Open/Premier,14,NIVA 17 WHITE (HO),g17nivba3ho
+17 Open/Premier,15,Dynamite Adidas 17-2 (LK),g17sldyn2lk
+17 Open/Premier,15,MiElite 17 National West (LK),g17mieva4lk
+17 Open/Premier,17,Lakeside Aquila (CA),g17lsvbc1ca
+17 Open/Premier,17,MiElite 17 National East (LK),g17mieva3lk
+18 Club/Classic,1,TDV 18Elite (OV),g18toldv1ov
+18 Club/Classic,2,Munciana 18 Aztecs (HO),g18munvb3ho
+18 Club/Classic,3,MM ACES 18u Jade (LK),g18mmavb1lk
+18 Club/Classic,3,USA MI RunBird 18 (LK),g18usami3lk
+18 Club/Classic,5,Avalanche Kandys (LK),g18avbvcalk
+18 Club/Classic,5,MiElite 18 NS North (LK),g18mieva4lk
+18 Club/Classic,5,MVA 18R Tyler (LK),g18mivba4lk
+18 Club/Classic,5,NBVBC 17U (LK),g17nobrn1lk
+18 Club/Classic,9,Crank It 18u Black Kacie (LK),g18crank1lk
+18 Club/Classic,10,Flight 16-1 Black (LK),g16msfvb6lk
+18 Club/Classic,11,MiElite 18 National (LK),g18mieva3lk
+18 Club/Classic,11,REVO 18 AY (LK),g18rvamp1lk
+18 Club/Classic,13,Aim High Mitchell (MI),g18aimhi3mi
+18 Club/Classic,13,FaR Out 18 White (LK),g18fovbc5lk
+18 Club/Classic,13,HVVC 18 BLUE (LK),g18hvvbc1lk
+18 Club/Classic,13,Mavericks 18 Select (LK),g18hcmav1lk
+18 Club/Classic,17,FaR Out 18 Red (LK),g18fovbc4lk
+18 Club/Classic,18,Aim High Ashley (MI),g18aimhi1mi
+18 Club/Classic,19,Crank It 18u NS Randi (LK),g18crank3lk
+18 Club/Classic,20,Team 27 18 (LK),g18tem271lk
+18 Club/Classic,21,Avalanche Casie (LK),g18avbvcblk
+18 Club/Classic,22,Thumb Volley 18-1 (LK),g18tvoll1lk
+18 Club/Classic,23,High Impact 18U (LK),g18hiimp1lk
+18 Club/Classic,24,Wildcat (LK),g18wildc1lk
+18 Club/Classic,25,MM ACES 18u Natalie (LK),g18mmavb2lk
+18 Club/Classic,26,Crank It 18u Gold Troy (LK),g18crank2lk
+18 Club/Classic,27,AVBC 18 Hybrid Red (LK),g18arsnl2lk
+18 Club/Classic,28,MiElite 18 Copper WT (LK),g18mieva7lk
+18 Club/Classic,29,Unified 18-Blue (LK),g18unifi2lk
+18 Club/Classic,30,Infinity 18 State Purple (MI),g16infty3mi
+18 Club/Classic,31,The House 18R Pete (LK),g18mivbanlk
+18 Club/Classic,32,AVBC 18 Hybrid White (LK),g18arsnl3lk
+18 Open/Premier,1,FaR Out 18 Gold (LK),g18fovbc2lk
+18 Open/Premier,2,MiElite 18 Elite (LK),g18mieva2lk
+18 Open/Premier,3,HP 18-1 (LK),g18hpvba1lk
+18 Open/Premier,4,Attack VBC 18 Mizuno Lime (LK),g18attak1lk
+18 Open/Premier,5,FaR Out 18 Onyx (LK),g18fovbc3lk
+18 Open/Premier,6,Flight 18 Black (LK),g18msfvb1lk
+18 Open/Premier,7,Inside Out 18MizunoPurple (LK),g18isovb2lk
+18 Open/Premier,8,Inside Out 18Mizuno Black (LK),g18isovb1lk
