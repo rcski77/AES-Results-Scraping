@@ -2,8 +2,8 @@ import requests
 import pandas as pd
 import json
 
-AesId = "PTAwMDAwNDI3Nzk90"
-Date = "2026-02-16"
+AesId = "PTAwMDAwNDAzMTM90"
+Date = "2025-07-03"
 
 # First, get the event info to extract division IDs and names
 event_url = f"https://results.advancedeventsystems.com/api/event/{AesId}"
