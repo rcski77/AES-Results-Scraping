@@ -1,0 +1,385 @@
+15 Open,1,ID Crush 15 BOWER,g15idcrs1im
+15 Open,2,Absolute 15 Black,g15absol1nc
+15 Open,3,Club V 15 Black Stephanie,g15clubv1im
+15 Open,4,Sunshine 15 LA,g15sunsh1sc
+15 Open,6,EXCEL 15N Red,g15excel1nt
+15 Open,5,TAV 15 Black Josh,g15txadv2nt
+15 Open,7,Actyve 15-Navy,g15actyv1sc
+15 Open,8,Sports Academy VBC 15 Premier,g15savbc1sc
+15 Open,9,Miz LB 15 Rockstar,g15milon1sc
+15 Open,11,Rockwood Thunder 15 Elite,g15rwdth1gw
+15 Open,12,RAGE 15 GARREN,g15ripor1nc
+15 Open,10,STVA 15 Mizuno,g15stvac1ls
+15 Open,13,HNLV 15 1,g15hnlvb1ah
+15 Open,14,ACESH 15 1,g15acesh1ah
+15 Open,16,Club V 15 Black Kyle,g15clubv2im
+15 Open,15,NPJ Portland 15 National,g15npjpd1ce
+15 Open,17,Aspire NW 15 Empire,g15nwrvb1ce
+15 Open,18,Top Flight Volleyball Academy 15 National Black,g15topfv1sc
+15 Open,19,SIVBC 15 Typhoon,g15sudni1ps
+15 Open,20,RVC U15 - Trent,g15rnvtr1ev
+15 Open,21,CG 15 Blue,g15clgld1ev
+15 Open,23,EAVC 15 1,g15elath1im
+15 Open,22,BOLTZ 15U DesertAces,g15lbolt1az
+15 Open,24,Top Flight Volleyball Academy 15 National Red,g15topfv2sc
+15 USA,1,LIVEWIRE 15 Prime,g15livwr1az
+15 USA,2,EXCEL 15N White,g15excel2nt
+15 USA,3,SynergyForce G 15-1 Natl,g15force1nc
+15 USA,4,NPJ Salem 15 National,g15npjvb1ce
+15 USA,6,Skyline 15 Black,g15skyln3nt
+15 USA,5,Victory 15 National Black,g15vctry1nt
+15 USA,7,Rockwood Thunder 15 Navy,g15rwdth2gw
+15 USA,8,Apex NW U15 Summit,g15apexn1ps
+15 USA,11,1United 15N Blue,g151unvb1nt
+15 USA,9,TEJAS 15 Black Jesse,g15tejas1nt
+15 USA,10,FH 15 1 Andy,g15field1nt
+15 USA,12,SIVBC 15 Lightning,g15sudni2ps
+15 USA,13,Premier 15 Black,g15premr1nt
+15 USA,14,Omni 15N1,g15omniv1az
+15 USA,16,Blue Royals 15 Gold,g15brvba2ps
+15 USA,15,Tx Alpha Premier 15UA Nat,g15tapvb1ls
+15 USA,17,FCA One 15s,g15fcavb1rm
+15 USA,18,MADFROG 15 NATIONAL BLACK,g15frogs2nt
+15 USA,19,Big Sky VB 15 1,g15bgsky1ev
+15 USA,20,208 U15 Elite,g15208vb1ev
+15 USA,21,KOKUA 15 IKAIKA,g15kokua1ev
+15 USA,23,SEATTLE JRS 15 1,g15stljr1ps
+15 USA,24,KOKUA 15 IMUA,g15kokua2ev
+15 USA,22,Riptide U15 Tsunami,g15rptde1ev
+15 Liberty,1,Nitro 15 Blue,g15nitro1su
+15 Liberty,2,MADFROG 15 NATIONAL WHITE,g15frogs3nt
+15 Liberty,3,PJVBC 15 National,g15puyal1ps
+15 Liberty,4,SynergyForce G 15-2 Natl,g15force2nc
+15 Liberty,5,CPA 15 Drew,g15cpavb1ev
+15 Liberty,7,OK Charge 15 National,g15charg2ok
+15 Liberty,8,PSVBA 15 Legacy,g15psvba1ps
+15 Liberty,6,Roots 15-1 Green,g15roots1ls
+15 Liberty,9,1United 15N White,g151unvb2nt
+15 Liberty,10,Omni 15N2,g15omniv2az
+15 Liberty,11,Absolute 15 Pink,g15absol2nc
+15 Liberty,12,FW Fire 15 Purple,g15fwfir1nt
+15 Liberty,13,AV 151 Diamond,g15avvbc1ls
+15 Liberty,14,NorCal 15 Black,g15norca1nc
+15 Liberty,16,EMV 15.1 National Black,g15eagmt1nt
+15 Liberty,15,Miz LB 15 Rockstar G,g15milon3sc
+15 Liberty,17,DVVC 15 1,g15delta1nc
+15 Liberty,18,Red Rock 15 Ruth - Danville/Walnut Creek,g15rrock1nc
+15 Liberty,19,Capital Ice 15 1,g15capit1ps
+15 Liberty,20,LIVEWIRE 15 Boost,g15livwr2az
+15 Liberty,21,Colorado Skyline 15 Royal,g15cosky1rm
+15 Liberty,22,SEVC 15 National,g15soejr1ps
+15 Liberty,23,ID Crush 15 PUZZUOLI,g15idcrs5im
+15 Liberty,24,Stingray VBC 15 1,g15stray1nc
+15 Liberty,25,SVA 15-Junior,g15sevba1ps
+15 Liberty,26,SVA 15-Gen,g15sevba2ps
+15 Liberty,27,208 U15 Blue,g15208vb2ev
+15 Liberty,28,NWJRS 15 UA Blue,g15nwest1ps
+15 Liberty,29,Boise Ignite VBC 15 National,g15bivbc1im
+15 Liberty,30,NWJRS 15 UA Black,g15nwest2ps
+15 Liberty,31,SEVC 15 Elite,g15soejr2ps
+15 Liberty,32,SEVC 15 Premier,g15soejr3ps
+15 American,1,ProPlay 15 Niloofar,g15pplay1sc
+15 American,2,STVA 15 Navy,g15stvac2ls
+15 American,3,Next Level 15 Lehua,g15nlvbc1sc
+15 American,4,SA MAGIC 15 Elite,g15samag1ls
+15 American,6,FEVA 15 1,g15falco1ps
+15 American,5,FPVC 15 REN National,g15fpvcv1nc
+15 American,8,Oly Reign 15 1,g15olyrn1ps
+15 American,7,ProPlay 15 Zoe,g15pplay2sc
+15 American,9,STVA 15 Red,g15stvac3ls
+15 American,10,Endless Athletics VBC 15 Navy,g15endav1nt
+15 American,12,CPA 15 Taylor,g15cpavb2ev
+15 American,11,NorCal 15 Blue,g15norca2nc
+15 American,13,SA Force 15 Darkside,g15safor1ls
+15 American,14,AV 153 Sapphire,g15avvbc3ls
+15 American,15,FPVC 15 REN 2,g15fpvcv2nc
+15 American,16,SA Force 15 National,g15safor2ls
+15 American,17,AV 152 Emerald,g15avvbc2ls
+15 American,18,Endless Athletics VBC 15 Maroon Tadj,g15endav2nt
+15 American,19,PSVBA 15 Elite,g15psvba2ps
+15 American,20,SNVF 15 RAIN,g15spacn1ps
+15 American,21,ITVC 15 1,g15islan1ps
+15 American,22,ProPlay 15 Terry,g15pplay3sc
+15 American,23,PSVBA 15 Elite 2,g15psvba3ps
+15 American,24,SNVF 15 SUMMIT,g15spacn2ps
+15 American,25,Cascade 15 1,g15casca1ps
+15 American,26,NWJRS 15 UA Grey,g15nwest3ps
+15 American,28,Prime 15 Taylor,g15prime1rm
+15 American,27,ProPlay 15 Bree,g15pplay4sc
+15 American,29,NWJRS 15 UA Aqua,g15nwest5ps
+15 American,30,NWJRS 15 UA White,g15nwest4ps
+15 American,31,PJVBC 15 Elite,g15puyal2ps
+15 American,32,ProPlay 15 Eric,g15pplay5sc
+14 Open,1,MADFROG 14 NATIONAL GREEN,g14frogs1nt
+14 Open,2,DN 14 Red,g14drive1nt
+14 Open,3,AJV 14 adidas,g14ajvba1ls
+14 Open,4,Skyline 14 Royal Jon,g14skyln2nt
+14 Open,5,SCVC 14Roxy,g14scvbc1sc
+14 Open,6,Vision 14 Gold,g14vsion1nc
+14 Open,7,208 U14 Elite,g14208vb1ev
+14 Open,8,SynergyForce G 14-1 Natl,g14force1nc
+14 Open,11,ID Crush 14 BOWER,g14idcrs1im
+14 Open,9,Omni 14N1,g14omniv1az
+14 Open,10,Absolute 14 Black,g14absol1nc
+14 Open,12,Club V 14 Black Silver,g14clubv1im
+14 Open,13,Red Rock 14-1 Chi - Campbell,g14rrock1nc
+14 Open,14,Actyve 14-Navy,g14actyv1sc
+14 Open,16,RVC 14 Brittyn,g14rckvb1im
+14 Open,15,Tstreet IE 14-Randi,g14tstie1sc
+14 Open,17,SIVBC 14 Hurricane,g14sudni1ps
+14 Open,18,STVA 14 Mizuno,g14stvac1ls
+14 Open,19,CoJrs 14Sarah,g14cojrs1rm
+14 Open,20,Idaho ONE 14 Elite,g14idone1im
+14 Open,21,HNLV 14 1,g14hnlvb1ah
+14 Open,23,RVC U14 - Jade,g14rnvtr1ev
+14 Open,22,Club V 14 Black Carli,g14clubv2im
+14 Open,24,SKY TSUNAMI,g14spsky1ev
+14 USA,1,MADFROG 14 NATIONAL BLACK,g14frogs2nt
+14 USA,2,EXCEL 14N White,g14excel2nt
+14 USA,3,Pipeline 14-Adidas,g14plscv1sc
+14 USA,4,Academy 14 National Alan,g14acdvp2nc
+14 USA,6,Academy 14 National Keba,g14acdvp1nc
+14 USA,5,CoJrs 14Jen,g14cojrs2rm
+14 USA,7,NPJ Bend 14 National,g14npjbe1ce
+14 USA,8,Dakine Warriors 14-1,g14dakwa1ps
+14 USA,11,Aspire NW 14 Empire,g14nwrvb1ce
+14 USA,9,EMV 14.1 National Black,g14eagmt1nt
+14 USA,12,Excel NW 14 1 Lux,g14excnw1ce
+14 USA,10,Victory 14 National Black,g14vctry1nt
+14 USA,13,CPA 14 Hedder,g14cpavb1ev
+14 USA,14,KOKUA 14 MAKAI,g14kokua1ev
+14 USA,16,Club South 14 Carolina,g14sthvb1ev
+14 USA,15,NCWVBC 14 1,g14ncwvb1ev
+14 USA,18,Blue Royals 14 Crystal,g14brvba2ps
+14 USA,17,KOKUA 14 MAUKA,g14kokua2ev
+14 USA,19,CRUVBC 14 MAX,g14cruvb1ev
+14 USA,20,CG 14 Blue,g14clgld1ev
+14 USA,23,NCWVBC 14 2,g14ncwvb2ev
+14 USA,21,Webfoot 14-Elite,g14webjr1ce
+14 USA,24,Blue Royals 14 Topaz,g14brvba3ps
+14 USA,22,CG 14 Black,g14clgld2ev
+14 Liberty,1,NPJ Salem 14 National,g14npjvb1ce
+14 Liberty,2,Miz LB 14 Rockstar T,g14milon2sc
+14 Liberty,3,Vision 14 White,g14vsion3nc
+14 Liberty,4,Tx Alpha Premier 14UA NAT,g14tapvb1ls
+14 Liberty,6,Absolute 14 Pink,g14absol2nc
+14 Liberty,7,MADFROG 14 NATIONAL WHITE,g14frogs3nt
+14 Liberty,8,PJVBC 14 National,g14puyal1ps
+14 Liberty,5,Vision 14 Blue,g14vsion2nc
+14 Liberty,10,ATHLETES ONLY 14-CC,g14aovbc1az
+14 Liberty,9,SynergyForce G 14-2 Natl,g14force2nc
+14 Liberty,11,Skyline 14 White IV,g14skyln4nt
+14 Liberty,12,AP 14 Baden,g14aperf2ls
+14 Liberty,14,LAVA West 14 Molten TR,g14lavaw1sc
+14 Liberty,13,Miz LB 14 Rockstar R,g14milon3sc
+14 Liberty,15,TEJAS 14 Black Janessa,g14tejas2nt
+14 Liberty,16,EXCEL 14N Blue,g14excel3nt
+14 Liberty,17,Blue Royals 14 Opal,g14brvba1ps
+14 Liberty,18,Colorado Skyline 14 Royal,g14cosky1rm
+14 Liberty,19,NCVC 14-Mizuno,g14ncvcb1nc
+14 Liberty,20,Actyve 14-Adidas,g14actyv2sc
+14 Liberty,21,Red Rock 14 Robin - RWC,g14rrock3nc
+14 Liberty,22,SIVBC 14 Inferno,g14sudni2ps
+14 Liberty,24,Colorado Elite 14 Grizzly,g14coelt1rm
+14 Liberty,23,OCVC G14 Kevin,g14ocvbc1sc
+14 Liberty,25,Apex NW U14 Summit,g14apexn1ps
+14 Liberty,26,Boise Ignite VBC 14 National,g14bivbc1im
+14 Liberty,27,NWJRS 14 UA Blue,g14nwest1ps
+14 Liberty,28,City Beach 14-Black,g14beach1nc
+14 Liberty,29,PSVBA 14 Legacy,g14psvba1ps
+14 Liberty,30,Capital Ice 14 1,g14capit1ps
+14 Liberty,31,FH 14 3 Mady,g14field3nt
+14 Liberty,32,SEVC 14 National,g14soejr1ps
+14 Liberty,33,Riptide U14 Tsunami,g14rptde1ev
+14 Liberty,34,SVA 14-Makaelah,g14sevba1ps
+14 Liberty,35,SEVC 14 Premier,g14soejr2ps
+14 Liberty,36,NWJRS 14 UA Black,g14nwest2ps
+14 Liberty,37,PSVBA 14 Elite,g14psvba2ps
+14 Liberty,38,CPA 13 Jordan,g13cpavb2ev
+14 Liberty,39,SEATTLE JRS 14 1,g14stljr1ps
+14 Liberty,40,CPA 14 Chelsie,g14cpavb2ev
+14 American,1,Rainier U14 Summit,g14rrvbc1ps
+14 American,2,IMUA 14 National Jason,g14imuaw1nc
+14 American,3,FEVA 14 1,g14falco1ps
+14 American,4,SA Force 14 Darkside,g14safor1ls
+14 American,8,BBV 14 HARRY,g14blueb2nc
+14 American,6,Ignite 14 National,g14ignit1az
+14 American,5,SC Legends 14-Elite,g14scleg1sc
+14 American,7,Shockwave 14 Black,g14shock1ev
+14 American,9,CSV 14 1 Maroon,g14solno1nc
+14 American,10,Endless Athletics VBC 14 Navy,g14endav1nt
+14 American,11,Red Rock 14 Jason - SF,g14rrock6nc
+14 American,12,SNVF 14 STORM,g14spacn1ps
+14 American,14,MADFROG 14 ELITE BLACK,g14frogs5nt
+14 American,13,Sideout VBC 14 1,g14sdtvb1ev
+14 American,15,SRJ 14 Select,g14srjvb1ev
+14 American,16,Idaho ONE 14 Blue,g14idone2im
+14 American,17,ITVC 14 1,g14islan1ps
+14 American,18,AV 142 Emerald,g14avvbc2ls
+14 American,19,Red Rock 13 Devin - Redwood City,g13rrock7nc
+14 American,20,208 U14 Blue,g14208vb2ev
+14 American,21,AV 141 Diamond,g14avvbc1ls
+14 American,22,Oly Reign 14 1,g14olyrn1ps
+14 American,24,208 U14 Becca,g14208vb3ev
+14 American,23,SA Force 14 National,g14safor2ls
+14 American,25,Shockwave 14 Green,g14shock2ev
+14 American,26,BBV 14 CARLOS,g14blueb1nc
+14 American,27,Oly Reign 14 2,g14olyrn2ps
+14 American,28,Extreme U14-Todd,g14extrm1ev
+14 American,29,Rainier U14 Cascade,g14rrvbc2ps
+14 American,30,SNVF 14 CYCLONE,g14spacn2ps
+14 American,31,LAVA Shack 14 Molten,g14lavas1sc
+14 American,32,NWJRS 14 UA Grey,g14nwest3ps
+14 American,33,Extreme U14-Alex,g14extrm2ev
+14 American,34,Ignite 14 Red,g14ignit1ps
+14 American,35,Cascade 14 1,g14casca1ps
+14 American,36,Next Level 14 Lehua,g14nlvbc1sc
+14 American,37,PSVBA 14 Select,g14psvba3ps
+14 American,38,Ignite 14 White,g14ignit2ps
+14 American,39,NWJRS 14 UA White,g14nwest4ps
+14 American,40,NWJRS 14 UA Aqua,g14nwest5ps
+13 Open,1,Miz LB 13 Rockstar,g13milon1sc
+13 Open,2,MADFROG 13 NATIONAL GREEN,g13frogs1nt
+13 Open,3,Absolute 13 Black,g13absol1nc
+13 Open,4,Academy 13 National Lukasz,g13acdvp2nc
+13 Open,5,TAV 13 Black,g13txadv1nt
+13 Open,6,Sunshine 13 Westside Red,g13sunsh1sc
+13 Open,7,Academy 13 National Luciana,g13acdvp1nc
+13 Open,8,DN 13 Red,g13drive1nt
+13 Open,9,Idaho ONE 13 Elite,g13idone1im
+13 Open,10,Tstreet IE 13-Taylor,g13tstie1sc
+13 Open,12,RVC U13 - Jason,g13rnvtr1ev
+13 Open,11,SIVBC 13 Cyclone,g13sudni1ps
+13 Open,13,Cloud Peak 13 NATIONAL,g13cloud1rm
+13 Open,15,CG 13 Blue,g13clgld1ev
+13 Open,14,CG 13 Black,g13clgld2ev
+13 USA,1,MVVC G 13 Red,g13mouvi1nc
+13 USA,2,Vision 13 Gold,g13vsion1nc
+13 USA,3,MADFROG 13 NATIONAL BLACK,g13frogs2nt
+13 USA,4,PCVC 13 Nalu,g13pcstv1sc
+13 USA,5,TEJAS 13 Black Jeff,g13tejas1nt
+13 USA,6,Aspire NW 13 Empire,g13nwrvb1ce
+13 USA,8,Actyve 13-Navy,g13actyv1sc
+13 USA,7,SCVC 13Roxy,g13scvbc1sc
+13 USA,9,ID Crush 13 BETTIS,g13idcrs1im
+13 USA,10,Jammers 13Black,g13jamme1ah
+13 USA,12,NPJ Salem 13 National,g13npjvb1ce
+13 USA,11,Tstreet LV 13-Britta,g13tstlv1sc
+13 USA,13,SynergyForce G 13-1 Natl,g13force1nc
+13 USA,14,Excel NW 13 1,g13excnw1ce
+13 USA,16,Big Sky VB 13-1,g13bgsky1ev
+13 USA,15,KOKUA 13,g13kokua1ev
+13 Liberty,1,RAGE 13 GREG,g13ripor1nc
+13 Liberty,2,Omni 13N1,g13omniv1az
+13 Liberty,3,PJVBC 13 National,g13puyal1ps
+13 Liberty,4,Vision 13 Blue,g13vsion2nc
+13 Liberty,6,Absolute 13 Pink,g13absol2nc
+13 Liberty,5,Elevate 13 Blue,g13cottn1nt
+13 Liberty,7,MADFROG 13 NATIONAL WHITE,g13frogs3nt
+13 Liberty,8,SNVF 13 BLIZZARD,g13spacn1ps
+13 Liberty,9,Dakine Warriors 13 1,g13dakwa1ps
+13 Liberty,11,Red Rock 13 Angela - RWC,g13rrock1nc
+13 Liberty,10,EMV 13.1 National Black,g13eagmt1nt
+13 Liberty,12,PSVBA 13 Legacy,g13psvba1ps
+13 Liberty,13,CPA 13 DeAndre,g13cpavb1ev
+13 Liberty,14,NPJ Bend 13 National,g13npjbe1ce
+13 Liberty,15,Blue Royals 13 Ruby,g13brvba1ps
+13 Liberty,16,SynergyForce G 13-2 Natl,g13force2nc
+13 Liberty,17,NWJRS 13 UA Blue,g13nwest1ps
+13 Liberty,18,Red Rock 13 Tennessee - Campbell,g13rrock4nc
+13 Liberty,19,SIVBC 13 Tempest,g13sudni2ps
+13 Liberty,20,OCVC G13 Billy,g13ocvbc1sc
+13 Liberty,23,NCVC 13-Mizuno,g13ncvcb1nc
+13 Liberty,21,SEVC 13 National,g13soejr1ps
+13 Liberty,22,Capital Ice 13 1,g13capit1ps
+13 Liberty,24,NWJRS 13 UA Black,g13nwest2ps
+13 American,1,Club Solano 13 Maroon,g13solno1nc
+13 American,2,UVA 13 Jel,g13ucelt1nc
+13 American,3,City Beach 13-Black,g13beach1nc
+13 American,4,IMUA 13 National Sina,g13imuaw1nc
+13 American,6,AV 131 Diamond,g13avvbc1ls
+13 American,7,Idaho ONE 13 Blue,g13idone2im
+13 American,5,LAVA West 13 Molten,g13lavaw1sc
+13 American,8,RSVBC 13 1,g13realt1ps
+13 American,9,208 U13 Elite,g13208vb1ev
+13 American,10,Blue Royals 13 Jade,g13brvba2ps
+13 American,11,LIVEWIRE 13 Boost,g13livwr2az
+13 American,12,SNVF 13 LIGHTNING,g13spacn2ps
+13 American,13,FEVA 13 1,g13falco1ps
+13 American,14,Riptide U13 Tsunami,g13rptde1ev
+13 American,15,Rainier U13 Summit,g13rrvbc1ps
+13 American,16,SRJ 13 Select,g13srjvb1ev
+13 American,17,Sideout VBC 13 1,g13sdtvb1ev
+13 American,18,ITVC 13 1,g13islan1ps
+13 American,20,Cascade 13 1,g13casca1ps
+13 American,19,Omni 13N2,g13omniv2az
+13 American,21,Shockwave 13,g13shock1ev
+13 American,22,208 U13 Blue,g13208vb2ev
+13 American,24,Club South 13 Carolina,g13sthvb1ev
+13 American,23,NPJ Portland 13 National,g13npjpd1ce
+13 American,25,RSVBC 13 2,g13realt2ps
+13 American,26,NWJRS 13 UA Grey,g13nwest3ps
+13 American,27,Oly Reign 13 2,g13olyrn2ps
+13 American,28,SVVC 13 Elite,g13svvbc1ev
+13 American,29,BBV 13 GEL,g13blueb1nc
+13 American,30,Ignite 13 Red,g13ignit1ps
+13 American,31,Emerald Rain 13 Elite,g13emrvb1ps
+13 American,32,Oly Reign 13 1,g13olyrn1ps
+12 National & USA,1,1United 12N Blue,g121unvb1nt
+12 National & USA,2,Skyline 12 Royal,g12skyln1nt
+12 National & USA,3,Skyline 12 Black,g12skyln2nt
+12 National & USA,4,NHouston Elite 12 Premier,g12nheli1ls
+12 National & USA,5,EMV 12.1 National Black,g12eagmt1nt
+12 National & USA,6,MADFROG 12 NATIONAL BLACK,g12frogs2nt
+12 National & USA,7,Absolute 12 Black,g12absol1nc
+12 National & USA,8,SynergyForce G 12-1 Natl,g12force1nc
+12 National & USA,9,MVVC G 12 Red,g12mouvi1nc
+12 National & USA,10,OJVA 12 1 Gold,g12ojvac1ce
+12 National & USA,11,SIVBC 12 Monsoon,g12sudni1ps
+12 National & USA,12,Ignite 12 Red,g12ignit1ps
+12 National & USA,14,KOKUA 12,g12kokua1ev
+12 National & USA,13,Panda Volleyball Club 12-1,g12pnadv1nc
+12 National & USA,15,Club Selah 12 1,g12selah1ev
+12 National & USA,16,NPJ Salem 12 National,g12npjvb1ce
+12 National & USA,17,CG 12 Blue,g12clgld1ev
+12 National & USA,18,Excel NW 12 1,g12excnw1ce
+12 National & USA,19,Club South 12 Carolina,g12sthvb1ev
+12 National & USA,20,PSVBA 12 Elite,g12psvba1ps
+12 American,1,MADFROG 12 NATIONAL WHITE,g12frogs3nt
+12 American,2,Red Rock 12 Steph - RWC,g12rrock1nc
+12 American,3,Victory 12 National Black,g12vctry1nt
+12 American,4,MVVC G 12 Black,g12mouvi2nc
+12 American,7,Club Solano 12 Maroon,g12solno1nc
+12 American,5,CPAVB 12 Wade,g12cpavb1ev
+12 American,8,NCWVBC 12 1,g12ncwvb1ev
+12 American,6,PVC 12-1 Pink,g12porvc1ce
+12 American,9,Blue Royals 12 Jewel,g12brvba1ps
+12 American,10,Aspire NW 12 Empire,g12nwrvb1ce
+12 American,12,Capital Ice 12 1,g12capit1ps
+12 American,11,RVC U12 - Allen,g12rnvtr1ev
+12 American,13,NPJ Portland 12 National,g12npjpd1ce
+12 American,14,PJVBC 12 National,g12puyal1ps
+12 American,15,Dakine Warriors 12 1,g12dakwa1ps
+12 American,16,Sideout VBC 12 1,g12sdtvb1ev
+12 American,17,208 U12 Elite,g12208vb1ev
+12 American,18,ATHLETES ONLY 12-AM,g12aovbc1az
+12 American,19,SEVC 12 National,g12soejr1ps
+12 American,20,SIVBC 12 Rain,g12sudni2ps
+12 American,21,Ignite 12 White,g12ignit2ps
+12 American,22,NWJRS 12 UA Blue,g12nwest1ps
+12 American,23,NWE 12 1,g12nweli1ce
+12 American,24,Oly Reign 12 1,g12olyrn1ps
+12 American,26,ITVC 12 1,g12islan1ps
+12 American,25,NWJRS 12 UA Black,g12nwest2ps
+12 American,27,208 U12 Blue,g12208vb2ev
+12 American,28,Club South 12 Navy,g12sthvb2ev
+11 National,1,MADFROG 11 NATIONAL BLACK,g11frogs2nt
+11 National,2,Vision 11 Gold,g11vsion1nc
+11 National,3,Academy 11 National Cristine,g11acdvp2nc
+11 National,4,Idaho ONE 11 Elite,g11idone1im
+11 National,5,Club Solano 11 Maroon,g11solno1nc
+11 National,6,FH 11 1 Toa,g11field1nt
+11 National,7,Team Yakima U11 Gold,g11tmykm1ev
+11 National,8,PJVBC 11 National,g11puyal1ps
+11 National,9,208 U11 Elite,g11208vb1ev
+11 National,10,PSVBA 11 Elite,g11psvba1ps

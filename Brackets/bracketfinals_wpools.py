@@ -2,8 +2,8 @@ import requests
 import pandas as pd
 import json
 
-AesId = "PTAwMDAwNDAzMTM90"
-Date = "2025-07-03"
+AesId = "PTAwMDAwNDI3Nzk90"
+Date = "2026-02-16"
 
 # First, get the event info to extract division IDs and names
 event_url = f"https://results.advancedeventsystems.com/api/event/{AesId}"
@@ -41,7 +41,7 @@ for div in division_list:
         if "Teams" in bracket and "Roots" not in bracket:
             pool_playid = bracket.get("PlayId")
             pool_name = bracket.get("FullName", "Unknown Pool")
-            pool_short_name = bracket.get("ShortName", "")
+            pool_short_name = bracket.get("CompleteShortName", "")
             pool_url = f"https://results.advancedeventsystems.com/api/event/{AesId}/poolsheet/{pool_playid}"
             pool_response = requests.get(pool_url)
             if pool_response.status_code == 200:
@@ -53,6 +53,7 @@ for div in division_list:
                     court = match.get("Court", {}).get("Name", "Unknown Court")
                     finals_rows.append({
                         "Division": division_name,
+                        "Group": pool_short_name,
                         "Bracket": f"{pool_name} (Pool)",
                         "Match": match_name,
                         "Time": scheduled_time,
@@ -60,7 +61,7 @@ for div in division_list:
                     })
             continue
         bracket_name = bracket.get("FullName", "Unknown Bracket")
-        bracket_short_name = bracket.get("ShortName", "")
+        bracket_short_name = bracket.get("CompleteShortName", "")
         roots = bracket.get("Roots", [])
         if not roots or "Match" not in roots[0]:
             continue
@@ -70,6 +71,7 @@ for div in division_list:
         court = finals_match.get("Court", {}).get("Name", "Unknown Court")
         finals_rows.append({
             "Division": division_name,
+            "Group": bracket_short_name,
             "Bracket": bracket_name,
             "Match": match_name,
             "Time": scheduled_time,
@@ -77,7 +79,7 @@ for div in division_list:
         })
 
         # If bracket is Gold, also record the first matches under TopSource and BottomSource (semifinals)
-        if bracket_short_name.lower() == "gold":
+        if bracket_short_name.lower() == "gold" or bracket_name.lower() == "championship bracket":
             root = roots[0]
             for source_type in ["TopSource", "BottomSource"]:
                 source = root.get(source_type)
@@ -88,6 +90,7 @@ for div in division_list:
                     semi_court = semi_match.get("Court", {}).get("Name", "Unknown Court")
                     finals_rows.append({
                         "Division": division_name,
+                        "Group": bracket_short_name,
                         "Bracket": f"{bracket_name} (Semifinal)",
                         "Match": semi_match_name,
                         "Time": semi_scheduled_time,

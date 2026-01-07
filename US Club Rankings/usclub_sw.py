@@ -9,10 +9,10 @@ sportwrench_data = pd.DataFrame()
 
 # Sportwrench Event URLs
 sw_event_urls = [
-    "https://events.sportwrench.com/#/events/e1a3a70be",
-    "https://events.sportwrench.com/#/events/1324af385",
-    "https://events.sportwrench.com/#/events/9e6d38cfc",
-    "https://events.sportwrench.com/#/events/e47af10c0"
+    "https://events.sportwrench.com/#/events/4b51a4c5c",
+    "https://events.sportwrench.com/#/events/c8dfdd716",
+    "https://events.sportwrench.com/#/events/2826beac0",
+    "https://events.sportwrench.com/#/events/17b2d353f",
 ]
 
 
