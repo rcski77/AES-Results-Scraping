@@ -4,7 +4,7 @@ import re
 
 # List of event URLs to process for US Club Rankings import
 event_urls = [
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwOTU90",
+    "https://results.advancedeventsystems.com/event/PTAwMDAwNDA4ODE90",
 ]
 
 # Initialize an empty DataFrame to hold all data
