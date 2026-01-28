@@ -21,9 +21,9 @@ aes_urls = [
     "https://results.advancedeventsystems.com/event/PTAwMDAwNDE0MTg90",  # Fiesta MLK AZ
     "https://results.advancedeventsystems.com/event/PTAwMDAwNDEwMDc90", # Windy City 18s Qualifier
     "https://results.advancedeventsystems.com/event/PTAwMDAwNDEwMDQ90",  # City of Oaks
-    # "https://results.advancedeventsystems.com/event/PTAwMDAwNDIzMjg90", # SLC Showdown 18s
+    "https://results.advancedeventsystems.com/event/PTAwMDAwNDIzMjg90", # SLC Showdown 18s
     # "https://results.advancedeventsystems.com/event/PTAwMDAwNDA4ODE90", # Central Zone - don't use
-    # "https://results.advancedeventsystems.com/event/PTAwMDAwNDE1NDE90", # Lonestar 18s Qualifier
+    "https://results.advancedeventsystems.com/event/PTAwMDAwNDE1NDE90", # Lonestar 18s Qualifier
     # Add more event IDs here
 ]
 
@@ -41,12 +41,14 @@ aes_prev_year_urls = [
 
 # Sportwrench Event URLs
 sw_event_urls = [
-    "https://events.sportwrench.com/#/events/c268be348",  # SCVA Power League 18s
-    "https://events.sportwrench.com/#/events/902b84069",  # SCVA Power League 13s
-    "https://events.sportwrench.com/#/events/cda491982",  # SCVA Power League 14s
-    "https://events.sportwrench.com/#/events/5c8c9cb5a",  # SCVA Power League 15s
-    "https://events.sportwrench.com/#/events/19564617e",  # SCVA Power League 16s
-    "https://events.sportwrench.com/#/events/a7f82c80a",  # SCVA Power League 17s/12s
+    # "https://events.sportwrench.com/#/events/c268be348",  # SCVA Power League 18s
+    # "https://events.sportwrench.com/#/events/902b84069",  # SCVA Power League 13s
+    # "https://events.sportwrench.com/#/events/cda491982",  # SCVA Power League 14s
+    # "https://events.sportwrench.com/#/events/5c8c9cb5a",  # SCVA Power League 15s
+    # "https://events.sportwrench.com/#/events/19564617e",  # SCVA Power League 16s
+    # "https://events.sportwrench.com/#/events/a7f82c80a",  # SCVA Power League 17s/12s
+    # "https://events.sportwrench.com/#/events/9a1567895", # SCVA Power Leagues 14s Week 2
+    # "https://events.sportwrench.com/#/events/6ff9c1e1b", #Florida Fest Qualifier
 ]
 
 # Initialize an empty DataFrame to hold all data
