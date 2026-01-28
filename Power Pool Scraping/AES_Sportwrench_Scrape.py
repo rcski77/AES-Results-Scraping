@@ -59,12 +59,33 @@ jacker_teams = pd.DataFrame()
 nit_csv_path = "Power Pool Scraping/NIT_team_codes.csv"
 # Path to CSV file with jotform status
 jotforms_csv_path = "Power Pool Scraping/NIT_jotforms.csv"
+# Path to CSV file with team code conversions for teams that changed codes
+team_code_conversions_path = "Power Pool Scraping/team_code_conversions.csv"
 jacker_filter = True  # Set to True if you want to filter only by teams in the CSV file
 
+# Load team code conversions
+team_code_mapping = {}
+try:
+    conversions_df = pd.read_csv(team_code_conversions_path)
+    # Create a mapping from LastCode to CurrentCode (all lowercase)
+    team_code_mapping = dict(zip(conversions_df['LastCode'].str.lower(), 
+                                 conversions_df['CurrentCode'].str.lower()))
+    print(f"Loaded {len(team_code_mapping)} team code conversions from {team_code_conversions_path}")
+except FileNotFoundError:
+    print(f"Team code conversions CSV not found: {team_code_conversions_path}. Proceeding without conversions.")
+except Exception as e:
+    print(f"Error reading team code conversions CSV: {e}. Proceeding without conversions.")
 
-# Function to increment TeamCode
+
+# Function to increment TeamCode or use conversion mapping
 def increment_team_code(team_code):
     import re
+    # First check if this team code has a conversion mapping
+    team_code_lower = team_code.lower()
+    if team_code_lower in team_code_mapping:
+        return team_code_mapping[team_code_lower]
+    
+    # Otherwise, use the default increment logic
     match = re.search(r"g(\d+)(.+)", team_code)
     if match:
         number = int(match.group(1)) + 1  # Increment the numeric portion
@@ -376,7 +397,7 @@ sportwrench_data = process_sw_events(sw_event_urls)
 # Combine Sportwrench and AES data
 combined_aes_sw_all_data = pd.concat(
     [combined_aes_sw_all_data, sportwrench_data], ignore_index=True)
-combined_aes_sw_all_data.to_csv("Power Pool Scraping/raw_nonpivoted_data.csv", index=False)
+combined_aes_sw_all_data.to_csv("Power Pool Scraping/data/raw_nonpivoted_data.csv", index=False)
 
 # Pivot the data to group by TeamCode and include columns for each event Name
 pivot_data = combined_aes_sw_all_data.pivot_table(
@@ -394,7 +415,7 @@ team_names.rename(columns={'OriginalTeamCode': 'TeamCode'}, inplace=True)
 # Add TeamName from scraped data without dropping teams missing a name
 pivot_data = pd.merge(pivot_data, team_names, on="TeamCode", how="left")
 pivot_data.to_csv(
-    "Power Pool Scraping/nonfiltered_all_event_standings.csv", index=False)
+    "Power Pool Scraping/data/nonfiltered_all_event_standings.csv", index=False)
 
 # Pull team codes from CSV for 2026 NIT
 if jacker_filter == True:
@@ -444,7 +465,7 @@ column_order = ["TeamCode", "TeamName", "2026NIT", "Power Pool Jotform"] + event
 pivot_data = pivot_data[column_order]
 
 # Save the consolidated data to a single CSV file
-csv_file_path = "Power Pool Scraping/combined_years_all_event_standings.csv"
+csv_file_path = "Power Pool Scraping/data/combined_years_all_event_standings.csv"
 pivot_data.to_csv(csv_file_path, index=False)
 
 print(f"Consolidated standings saved to {csv_file_path}")
