@@ -29,8 +29,8 @@ increment_teamcode_event_ids = [
 # Initialize an empty DataFrame to hold all data
 all_data = pd.DataFrame()
 jacker_teams = pd.DataFrame()
-jacker_eventID = 10526 # Set to ID of event in Jacker
-jacker_filter = True # Set to True if you want to filter only by teams in the Jacker event listed above
+nit_csv_path = "NIT_team_codes.csv"  # Path to CSV file with NIT team codes
+jacker_filter = True # Set to True if you want to filter only by teams in the CSV file
 
 # Function to increment TeamCode
 def increment_team_code(team_code):
@@ -81,47 +81,40 @@ def process_event(event_id, increment_code=False):
             print(f"Failed to fetch standings for division ID: {division_id}. Status code: {response.status_code}")
     return pd.DataFrame(teams)
 
-def pull_jacker_teams(jacker_id):
+def pull_jacker_teams(csv_file_path):
     """
-    Fetches team data from the API based on the given jacker_id,
-    adds a '2025NIT' column, creates a pivot table with 'TeamCode' as the index.
+    Reads team codes from a CSV file containing NIT team codes,
+    adds a '2025NIT' column, and creates a DataFrame for filtering.
 
     Args:
-        jacker_id (int): The ID to fetch data from the API.
+        csv_file_path (str): Path to the CSV file containing team codes.
 
     Returns:
-        pd.DataFrame: The pivot table as a pandas DataFrame.
+        pd.DataFrame: DataFrame with TeamCode and 2025NIT columns.
     """
-    # API endpoint
-    url = f"https://www.triplecrownsports.com/Data/UAGetTeams/?id={jacker_id}"
-    
-    # Fetch data from the API
-    response = requests.get(url)
-    
-    if response.status_code == 200:
-        # Parse JSON response
-        data = response.json()
-        
-        # Convert JSON data to a pandas DataFrame
-        df = pd.DataFrame(data)
+    try:
+        # Read the CSV file
+        df = pd.read_csv(csv_file_path)
         
         # Convert TeamCode to lowercase
-        df["TeamCode"] = df["TeamCode"].str.lower()
+        df["Team Code"] = df["Team Code"].str.lower()
+        
+        # Rename the column to TeamCode for consistency
+        df.rename(columns={"Team Code": "TeamCode"}, inplace=True)
         
         # Add the 2025NIT column with "Yes" for all rows
         df["2025NIT"] = "Yes"
         
-        # Create a pivot table with TeamCode as the index
-        pivot_table = df.pivot_table(
-            index= "TeamCode", 
-            values="2025NIT", 
-            aggfunc="first"  # Ensures the column remains "Yes"
-        ).reset_index()
+        # Keep only TeamCode and 2025NIT columns
+        df = df[["TeamCode", "2025NIT"]]
         
-        print(f"Pulled data from 2025 NIT")
-        return pivot_table
-    else:
-        print(f"Failed to fetch data from the API. Status code: {response.status_code}")
+        print(f"Loaded {len(df)} team codes from {csv_file_path}")
+        return df
+    except FileNotFoundError:
+        print(f"CSV file not found: {csv_file_path}")
+        return None
+    except Exception as e:
+        print(f"Error reading CSV file: {e}")
         return None
 
 # Process first list of event IDs
@@ -147,11 +140,11 @@ team_names.rename(columns={'OriginalTeamCode': 'TeamCode'}, inplace=True)
 # Add the TeamName as the first column
 pivot_data = pd.merge(team_names, pivot_data, on="TeamCode")
 
-# Pull team codes from Jacker for 2025 NIT
+# Pull team codes from CSV for 2025 NIT
 if jacker_filter == True:
-    jacker_teams = pull_jacker_teams(jacker_eventID)
+    jacker_teams = pull_jacker_teams(nit_csv_path)
     
-    # Merge on TeamCode field to filter data by teams in Jacker event
+    # Merge on TeamCode field to filter data by teams in CSV file
     pivot_data = pd.merge(jacker_teams, pivot_data, on="TeamCode") 
 
 # Save the consolidated data to a single CSV file

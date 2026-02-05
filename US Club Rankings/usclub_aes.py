@@ -4,28 +4,7 @@ import re
 
 # List of event URLs to process for US Club Rankings import
 event_urls = [
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY3OTU90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwNDA90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY3OTY90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY3OTM90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5Njg90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzgwMzA90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwNDQ90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5Njk90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzgwMzI90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzgwMzg90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzgwMjI90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwNDM90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzcwNDE90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzgwMzY90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5NzA90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzY5NzE90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwNDAzMDk90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwNDAzMTA90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwNDAzMTE90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzc4MjM90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwNDAzMTI90",
-    "https://results.advancedeventsystems.com/event/PTAwMDAwMzc4OTU90"
+    "https://results.advancedeventsystems.com/event/PTAwMDAwNDA4ODE90",
 ]
 
 # Initialize an empty DataFrame to hold all data
