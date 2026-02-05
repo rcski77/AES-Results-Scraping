@@ -2,8 +2,8 @@ import requests
 import pandas as pd
 import json
 
-AesId = "PTAwMDAwNDAzMTQ90"
-Date = "2025-07-07"
+AesId = "PTAwMDAwNDEzMTg90"
+Date = "2026-01-19"
 
 # First, get the event info to extract division IDs and names
 event_url = f"https://results.advancedeventsystems.com/api/event/{AesId}"
@@ -106,5 +106,5 @@ print("\nAll Finals:")
 print(finals_df)
 
 # Export DataFrame to CSV
-finals_df.to_csv("all_bracket_finals.csv", index=False)
-print("\nFinals exported to all_bracket_finals.csv")
+finals_df.to_csv(f"{AesId}_bracket_finals.csv", index=False)
+print(f"\nFinals exported to {AesId}_bracket_finals.csv")
