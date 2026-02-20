@@ -30,6 +30,7 @@ aes_urls = [
 # Second list of event IDs where TeamCodes will be incremented - last year's events
 aes_prev_year_urls = [
     "https://results.advancedeventsystems.com/event/PTAwMDAwMzgzNjE90",  # 2025 NIT
+    "https://results.advancedeventsystems.com/event/PTAwMDAwMzg4NDA90",  # 2025 SNIT
     "https://results.advancedeventsystems.com/event/PTAwMDAwMzc4OTU90",  # 2025 USAV 14-17
     "https://results.advancedeventsystems.com/event/PTAwMDAwMzc4MjM90",  # 2025 USAV 11-13
     "https://results.advancedeventsystems.com/event/PTAwMDAwNDAzMTI90",  # 2025 AAU Wave 4
@@ -41,14 +42,14 @@ aes_prev_year_urls = [
 
 # Sportwrench Event URLs
 sw_event_urls = [
-    # "https://events.sportwrench.com/#/events/c268be348",  # SCVA Power League 18s
-    # "https://events.sportwrench.com/#/events/902b84069",  # SCVA Power League 13s
-    # "https://events.sportwrench.com/#/events/cda491982",  # SCVA Power League 14s
-    # "https://events.sportwrench.com/#/events/5c8c9cb5a",  # SCVA Power League 15s
-    # "https://events.sportwrench.com/#/events/19564617e",  # SCVA Power League 16s
-    # "https://events.sportwrench.com/#/events/a7f82c80a",  # SCVA Power League 17s/12s
-    # "https://events.sportwrench.com/#/events/9a1567895", # SCVA Power Leagues 14s Week 2
-    # "https://events.sportwrench.com/#/events/6ff9c1e1b", #Florida Fest Qualifier
+    "https://events.sportwrench.com/#/events/c268be348",  # SCVA Power League 18s
+    "https://events.sportwrench.com/#/events/902b84069",  # SCVA Power League 13s
+    "https://events.sportwrench.com/#/events/cda491982",  # SCVA Power League 14s
+    "https://events.sportwrench.com/#/events/5c8c9cb5a",  # SCVA Power League 15s
+    "https://events.sportwrench.com/#/events/19564617e",  # SCVA Power League 16s
+    "https://events.sportwrench.com/#/events/a7f82c80a",  # SCVA Power League 17s/12s
+    "https://events.sportwrench.com/#/events/9a1567895", # SCVA Power Leagues 14s Week 2
+    "https://events.sportwrench.com/#/events/6ff9c1e1b", #Florida Fest Qualifier
 ]
 
 # Initialize an empty DataFrame to hold all data
