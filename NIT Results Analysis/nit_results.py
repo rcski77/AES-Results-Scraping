@@ -6,6 +6,9 @@ import pandas as pd
 # First list of event IDs to process normally - current year's events
 aes_urls = [
     "https://results.advancedeventsystems.com/event/PTAwMDAwNDI3Nzk90",  # 2026 NIT
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwNDA4ODI90",  # 2026 St. Louis
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwNDE5MTI90", # NSVU President
+    # "https://results.advancedeventsystems.com/event/PTAwMDAwNDE5MjE90", # 219 President
     # Add more event IDs here
 ]
 
@@ -77,6 +80,70 @@ def calculate_weekend_metrics(match_results_df):
         "extra_point_sets": extra_point_sets,
         "extra_point_set_pct": extra_point_set_pct,
     }
+
+
+def calculate_daily_metrics(match_results_df):
+    """Calculate metrics grouped by day of the event"""
+    from datetime import datetime
+    
+    daily_metrics = {}
+    
+    for _, row in match_results_df.iterrows():
+        # Parse the date
+        date_str = row.get("Match Date", "")
+        if not date_str:
+            continue
+        
+        try:
+            # Try parsing ISO format date
+            if "T" in date_str:
+                match_date = datetime.fromisoformat(date_str.replace("Z", "+00:00")).date()
+            else:
+                match_date = datetime.strptime(date_str, "%Y-%m-%d").date()
+        except (ValueError, AttributeError):
+            continue
+        
+        date_key = str(match_date)
+        
+        if date_key not in daily_metrics:
+            daily_metrics[date_key] = {
+                "total_matches": 0,
+                "matches_went_three_sets": 0,
+                "total_set_margin": 0,
+                "total_sets": 0,
+                "two_point_sets": 0,
+                "extra_point_sets": 0,
+            }
+        
+        parsed_sets = parse_set_scores(row.get("Set Scores", ""))
+        
+        if len(parsed_sets) >= 3:
+            daily_metrics[date_key]["matches_went_three_sets"] += 1
+        
+        daily_metrics[date_key]["total_matches"] += 1
+        
+        for set_index, (team_one_score, team_two_score) in enumerate(parsed_sets):
+            margin = abs(team_one_score - team_two_score)
+            daily_metrics[date_key]["total_set_margin"] += margin
+            daily_metrics[date_key]["total_sets"] += 1
+            
+            if margin == 2:
+                daily_metrics[date_key]["two_point_sets"] += 1
+            
+            is_set_three = set_index == 2
+            threshold = 15 if is_set_three else 25
+            if team_one_score > threshold or team_two_score > threshold:
+                daily_metrics[date_key]["extra_point_sets"] += 1
+    
+    # Calculate percentages
+    for date_key in daily_metrics:
+        data = daily_metrics[date_key]
+        data["third_set_pct"] = (data["matches_went_three_sets"] / data["total_matches"] * 100) if data["total_matches"] else 0
+        data["avg_margin"] = (data["total_set_margin"] / data["total_sets"]) if data["total_sets"] else 0
+        data["two_point_set_pct"] = (data["two_point_sets"] / data["total_sets"] * 100) if data["total_sets"] else 0
+        data["extra_point_set_pct"] = (data["extra_point_sets"] / data["total_sets"] * 100) if data["total_sets"] else 0
+    
+    return daily_metrics
 
 # Function to fetch and process event data
 def process_event(url, increment_code=False):
@@ -166,6 +233,9 @@ def process_match_results(team_list, event_id):
             # Extract set scores
             set_scores = [set_data["ScoreText"] for set_data in match["Sets"] if set_data["ScoreText"]]
 
+            # Extract match date
+            match_date = match.get("ScheduledStartDateTime", "")
+
             # Determine match result
             winner = first_team_name if first_team_won else second_team_name
                 
@@ -176,7 +246,8 @@ def process_match_results(team_list, event_id):
                 "Second Team ID": second_team_id,
                 "Second Team Name": second_team_name,
                 "Winner": winner,
-                "Set Scores": ", ".join(set_scores)
+                "Set Scores": ", ".join(set_scores),
+                "Match Date": match_date
             })
             
     # Convert list to DataFrame
@@ -199,17 +270,19 @@ for url in aes_urls:
 if aes_match_results.empty:
     print("No match results found.")
 else:
-    print("\nMatch Results (one line per match)")
-    for _, row in aes_match_results.iterrows():
-        print(
-            f"Match ID {row['Match ID']}: "
-            f"{row['First Team Name']} vs {row['Second Team Name']} | "
-            f"Winner: {row['Winner']} | "
-            f"Set Scores: {row['Set Scores']}"
-        )
+    # print("\nMatch Results (one line per match)")
+    # for _, row in aes_match_results.iterrows():
+    #     print(
+    #         f"Match ID {row['Match ID']}: "
+    #         f"{row['First Team Name']} vs {row['Second Team Name']} | "
+    #         f"Winner: {row['Winner']} | "
+    #         f"Set Scores: {row['Set Scores']}"
+    #     )
 
     metrics = calculate_weekend_metrics(aes_match_results)
-    print("\nWeekend Summary")
+    print("\n" + "="*80)
+    print("Weekend Summary")
+    print("="*80)
     print(
         f"Matches that went to a 3rd set: {metrics['matches_went_three_sets']} "
         f"/ {metrics['total_matches']} ({metrics['third_set_pct']:.1f}%)"
@@ -225,3 +298,28 @@ else:
         f"Sets that went to extra points: {metrics['extra_point_sets']} / {metrics['total_sets']} "
         f"({metrics['extra_point_set_pct']:.1f}%)"
     )
+    
+    # Display daily summaries
+    daily_metrics = calculate_daily_metrics(aes_match_results)
+    if daily_metrics:
+        print("\n" + "="*80)
+        print("Daily Summary")
+        print("="*80)
+        for date_key in sorted(daily_metrics.keys()):
+            data = daily_metrics[date_key]
+            print(f"\n{date_key}")
+            print(
+                f"  Matches that went to a 3rd set: {data['matches_went_three_sets']} "
+                f"/ {data['total_matches']} ({data['third_set_pct']:.1f}%)"
+            )
+            print(
+                f"  Average margin of victory (per set): {data['avg_margin']:.2f} points"
+            )
+            print(
+                f"  Sets decided by 2 points: {data['two_point_sets']} / {data['total_sets']} "
+                f"({data['two_point_set_pct']:.1f}%)"
+            )
+            print(
+                f"  Sets that went to extra points: {data['extra_point_sets']} / {data['total_sets']} "
+                f"({data['extra_point_set_pct']:.1f}%)"
+            )
