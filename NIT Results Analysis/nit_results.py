@@ -5,7 +5,7 @@ import pandas as pd
 
 # First list of event IDs to process normally - current year's events
 aes_urls = [
-    "https://results.advancedeventsystems.com/event/PTAwMDAwNDE5MjE90",  # 219 President
+    "https://results.advancedeventsystems.com/event/PTAwMDAwNDI3Nzk90",  # 2026 NIT
     # Add more event IDs here
 ]
 
@@ -38,6 +38,7 @@ def calculate_weekend_metrics(match_results_df):
     total_set_margin = 0
     total_sets = 0
     two_point_sets = 0
+    extra_point_sets = 0
 
     for _, row in match_results_df.iterrows():
         parsed_sets = parse_set_scores(row.get("Set Scores", ""))
@@ -45,15 +46,25 @@ def calculate_weekend_metrics(match_results_df):
         if len(parsed_sets) >= 3:
             matches_went_three_sets += 1
 
-        for team_one_score, team_two_score in parsed_sets:
+        for set_index, (team_one_score, team_two_score) in enumerate(parsed_sets):
             margin = abs(team_one_score - team_two_score)
             total_set_margin += margin
             total_sets += 1
             if margin == 2:
                 two_point_sets += 1
+            
+            # Check if set went to extra points
+            # For sets 1-2: a team scored 25+ points
+            # For set 3: a team scored 15+ points
+            is_set_three = set_index == 2
+            threshold = 15 if is_set_three else 25
+            if team_one_score > threshold or team_two_score > threshold:
+                extra_point_sets += 1
 
     third_set_pct = (matches_went_three_sets / total_matches * 100) if total_matches else 0
     avg_margin = (total_set_margin / total_sets) if total_sets else 0
+    two_point_set_pct = (two_point_sets / total_sets * 100) if total_sets else 0
+    extra_point_set_pct = (extra_point_sets / total_sets * 100) if total_sets else 0
 
     return {
         "total_matches": total_matches,
@@ -62,6 +73,9 @@ def calculate_weekend_metrics(match_results_df):
         "average_set_margin": avg_margin,
         "two_point_sets": two_point_sets,
         "total_sets": total_sets,
+        "two_point_set_pct": two_point_set_pct,
+        "extra_point_sets": extra_point_sets,
+        "extra_point_set_pct": extra_point_set_pct,
     }
 
 # Function to fetch and process event data
@@ -204,5 +218,10 @@ else:
         f"Average margin of victory (per set): {metrics['average_set_margin']:.2f} points"
     )
     print(
-        f"Sets decided by 2 points: {metrics['two_point_sets']} / {metrics['total_sets']}"
+        f"Sets decided by 2 points: {metrics['two_point_sets']} / {metrics['total_sets']} "
+        f"({metrics['two_point_set_pct']:.1f}%)"
+    )
+    print(
+        f"Sets that went to extra points: {metrics['extra_point_sets']} / {metrics['total_sets']} "
+        f"({metrics['extra_point_set_pct']:.1f}%)"
     )
