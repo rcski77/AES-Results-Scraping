@@ -3,7 +3,7 @@ import pandas as pd
 
 # First list of event IDs to process normally - current year's events
 event_ids = [
-    "PTAwMDAwMzgzNjE90", # 2025 NIT
+    "PTAwMDAwNDI3Nzk90", # 2026 NIT
     #"PTAwMDAwMzY3NDY90", # Central Zone
     # "PTAwMDAwMzg4Mzk90", # CO Challenge
     # "PTAwMDAwMzcwNTU90", #2025 MLK 3 Step
